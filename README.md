@@ -6,18 +6,18 @@ A collection of papers about Sketch Synthesis (Generation). Mainly focus on stro
 
 **Outlines**
 
-- [Datasets](#datasets)
+- [1. Datasets](#datasets)
   - [Instance-level](#instance-level)
   - [Scene-level](#scene-level)
-- [Sketch-Synthesis Approaches](#sketch-synthesis-approaches)
-  - [1) category-to-sketch](#scene-level)
-  - [2) photo-to-sketch](#scene-level)
-  - [3) art-to-sketch](#scene-level)
+- [2. Sketch-Synthesis Approaches](#sketch-synthesis-approaches)
+  - [1) category-to-sketch](#1-category-to-sketch)
+  - [2) photo-to-sketch](#2-photo-to-sketch)
+  - [3) art-to-sketch](#3-art-to-sketch)
 
 
 ---
 
-## Datasets
+## 1. Datasets
 Here we mainly focus on sketch datasets with `svg` data.
 
 ### Instance-level
@@ -38,7 +38,7 @@ Here we mainly focus on sketch datasets with `svg` data.
 | [Photo-Sketching](http://www.cs.cmu.edu/~mengtial/proj/sketch/) | WACV 2019 | ScenePhoto-sketch paired |
 
 
-## Sketch-Synthesis Approaches
+## 2. Sketch-Synthesis Approaches
 
 ### 1) Category-to-sketch
 
