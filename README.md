@@ -8,9 +8,9 @@ A collection of papers about Sketch Synthesis (Generation). Mainly focus on stro
 
 - [1. Datasets](#1-datasets)
 - [2. Sketch-Synthesis Approaches](#2-sketch-synthesis-approaches)
-  - [1) category-to-sketch](#1-category-to-sketch)
-  - [2) photo-to-sketch](#2-photo-to-sketch)
-  - [3) art-to-sketch](#3-art-to-sketch)
+  - [1) Category-to-sketch](#1-category-to-sketch)
+  - [2) Photo-to-sketch](#2-photo-to-sketch)
+  - [3) Art-to-sketch](#3-art-to-sketch)
 
 
 ---
@@ -66,7 +66,6 @@ Here we mainly focus on sketch datasets with `svg` data.
 </table>
 
 
----
 
 ## 2. Sketch-Synthesis Approaches
 
