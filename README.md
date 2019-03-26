@@ -2,6 +2,8 @@
 
 A collection of papers about Sketch Synthesis (Generation). Mainly focus on stroke-level vector sketch synthesis.
 
+> Feel free to create a PR or an issue.
+
 ![examples](https://magenta.tensorflow.org/assets/sketch_rnn_demo/img/sketch_garden.gif)
 
 **Outlines**
@@ -10,7 +12,8 @@ A collection of papers about Sketch Synthesis (Generation). Mainly focus on stro
 - [2. Sketch-Synthesis Approaches](#2-sketch-synthesis-approaches)
   - [1) Category-to-sketch](#1-category-to-sketch)
   - [2) Photo-to-sketch](#2-photo-to-sketch)
-  - [3) Art-to-sketch](#3-art-to-sketch)
+  - [3) Sketch(pixelwise)-to-sketch(vector)](#3-sketch-pixelwise-to-sketch-vector)
+  - [4) Art-to-sketch](#4-art-to-sketch)
 
 
 ---
@@ -160,16 +163,25 @@ Here we mainly focus on sketch datasets with `svg` data.
 </table>
 
 
+### 3) Sketch(pixelwise)-to-sketch(vector)
 
-### 3) Art-to-sketch
-
-Here we list sketch synthesis based on other image types, like Manga and line art.
-
-- Hand drawn line art
+This means translating a pixelwise sketch into a sequential sketch imitating human's drawing order. The appearance of the sequential sketch is exactly the **same** as the pixelwise one.
 
 
 | Paper | Source | Code/Project Link |
 | --- | --- | --- |
+| [Animated Construction of Line Drawings](http://sweb.cityu.edu.hk/hongbofu/projects/animatedConstructionOfLineDrawings_SiggA11/animatedConstructionOfLineDrawings_SiggA11.pdf) | SIGGRAPH ASIA 2011 | [[Project]](http://sweb.cityu.edu.hk/hongbofu/projects/animatedConstructionOfLineDrawings_SiggA11/) [[code]](http://sweb.cityu.edu.hk/hongbofu/projects/animatedConstructionOfLineDrawings_SiggA11/Viewer_src.zip) [[Demo]](http://sweb.cityu.edu.hk/hongbofu/projects/animatedConstructionOfLineDrawings_SiggA11/Viewer.zip) |
+
+### 4) Art-to-sketch
+
+Here we list sketch synthesis based on other image types, like Manga and line art.
+
+- Hand drawn line art (a.k.a. Sketch Simplification)
+
+
+| Paper | Source | Code/Project Link |
+| --- | --- | --- |
+| [Closure-aware Sketch Simplification](http://www.cse.cuhk.edu.hk/~ttwong/papers/sketch/sketch.pdf) | SIGGRAPH ASIA 2015 | [[Project]](https://www.cse.cuhk.edu.hk/~ttwong/papers/sketch/sketch.html) |
 | [Learning to Simplify: Fully Convolutional Networks for Rough Sketch Cleanup](https://esslab.jp/publications/SimoSerraSIGGRAPH2016.pdf) | SIGGRAPH 2016 | [[Code]](https://github.com/bobbens/sketch_simplification) [[Project]](https://esslab.jp/~ess/en/research/sketch.html) |
 | [Mastering Sketching: Adversarial Augmentation for Structured Prediction](https://esslab.jp/~ess/publications/SimoSerraTOG2018.pdf) | SIGGRAPH 2018 | [[Code]](https://github.com/bobbens/sketch_simplification)  [[Project]](https://esslab.jp/~ess/en/research/sketch_master.html) |
 | [Real-Time Data-Driven Interactive Rough Sketch Inking](https://esslab.jp/~ess/publications/SimoSerraSIGGRAPH2018.pdf) | SIGGRAPH 2018 | [[Project]](https://esslab.jp/~ess/en/research/inking.html) |
