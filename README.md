@@ -110,6 +110,7 @@ Here we mainly focus on sketch datasets with `svg` data.
   
 </table>
 
+---
 
 ### 2) Photo-to-sketch
 
@@ -162,6 +163,7 @@ Here we mainly focus on sketch datasets with `svg` data.
   </tr>
 </table>
 
+---
 
 ### 3) Sketch(pixelwise)-to-sketch(vector)
 
@@ -171,6 +173,8 @@ This means translating a pixelwise sketch into a sequential sketch imitating hum
 | Paper | Source | Code/Project Link |
 | --- | --- | --- |
 | [Animated Construction of Line Drawings](http://sweb.cityu.edu.hk/hongbofu/projects/animatedConstructionOfLineDrawings_SiggA11/animatedConstructionOfLineDrawings_SiggA11.pdf) | SIGGRAPH ASIA 2011 | [[Project]](http://sweb.cityu.edu.hk/hongbofu/projects/animatedConstructionOfLineDrawings_SiggA11/) [[code]](http://sweb.cityu.edu.hk/hongbofu/projects/animatedConstructionOfLineDrawings_SiggA11/Viewer_src.zip) [[Demo]](http://sweb.cityu.edu.hk/hongbofu/projects/animatedConstructionOfLineDrawings_SiggA11/Viewer.zip) |
+
+---
 
 ### 4) Art-to-sketch
 
