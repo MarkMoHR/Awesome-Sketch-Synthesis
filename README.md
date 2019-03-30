@@ -147,7 +147,15 @@ Here we mainly focus on sketch datasets with `svg` data.
     <td><strong>Code/Project Link</strong></td>
   </tr>
   <tr>
-    <td rowspan="1"><strong>Instance-level</strong></td>
+    <td rowspan="2"><strong>Instance-level</strong></td>
+    <td> <a href="https://link.springer.com/content/pdf/10.1007%2Fs11263-016-0963-9.pdf">Free-Hand Sketch Synthesis with Deformable Stroke Models</a> </td> 
+    <td> IJCV 2017 </td> 
+    <td>
+      <a href="https://panly099.github.io/skSyn.html">[Project]</a> 
+      <a href="https://github.com/panly099/sketchSynthesis">[code]</a> 
+    </td>
+  </tr>
+  <tr>
     <td> <a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Kaiyue_Pang_Deep_Factorised_Inverse-Sketching_ECCV_2018_paper.pdf">Deep Factorised Inverse-Sketching</a> </td> 
     <td> ECCV 2018 </td> 
     <td> </td>
