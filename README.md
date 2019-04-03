@@ -95,7 +95,9 @@ Here we mainly focus on sketch datasets with `svg` data.
   <tr>
     <td> <a href="https://arxiv.org/pdf/1709.04121.pdf">Sketch-pix2seq: a Model to Generate Sketches of Multiple Categories</a> </td> 
     <td>  </td> 
-    <td>  </td>
+    <td> 
+      <a href="https://github.com/MarkMoHR/sketch-pix2seq">[Code]</a> 
+    </td>
   </tr>
   <tr>
     <td> <a href="https://idvxlab.com/papers/2019AAAI_Sketcher_Cao.pdf">AI-Sketcher : A Deep Generative Model for Producing High-Quality Sketches</a> </td> 
