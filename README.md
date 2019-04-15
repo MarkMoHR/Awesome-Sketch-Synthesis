@@ -12,58 +12,90 @@ A collection of papers about Sketch Synthesis (Generation). Mainly focus on stro
 - [2. Sketch-Synthesis Approaches](#2-sketch-synthesis-approaches)
   - [1) Category-to-sketch](#1-category-to-sketch)
   - [2) Photo-to-sketch](#2-photo-to-sketch)
-  - [3) Sketch(pixelwise)-to-sketch(vector)](#3-sketchpixelwise-to-sketchvector)
-  - [4) Art-to-sketch](#4-art-to-sketch)
+  - [3) Text-to-sketch](#3-text-to-sketch)
+  - [4) Sketch(pixelwise)-to-sketch(vector)](#4-sketchpixelwise-to-sketchvector)
+  - [5) Art-to-sketch](#5-art-to-sketch)
 
 
 ---
 
 ## 1. Datasets
-Here we mainly focus on sketch datasets with `svg` data.
+Here `Vector strokes` means having *svg* data. `With photos` means having the photo-sketch paired data.
 
 <table>
   <tr>
     <td><strong>Level</strong></td>
     <td><strong>Dataset</strong></td>
     <td><strong>Source</strong></td>
+    <td><strong>Vector strokes</strong></td>
+    <td><strong>With photos</strong></td>
     <td><strong>Notes</strong></td>
   </tr>
   <tr>
     <td rowspan="6"><strong>Instance-level</strong></td>
     <td> <a href="http://kanjivg.tagaini.net/">KanjiVG</a> </td> 
     <td> </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> :x: </td> 
     <td> Chinese characters </td>
   </tr>
   <tr>
     <td> <a href="http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/">TU-Berlin</a> </td> 
     <td> SIGGRAPH 2012 </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> :x: </td> 
     <td> Multi-category hand sketches </td>
   </tr>
   <tr>
     <td> <a href="http://sketchy.eye.gatech.edu/">Sketchy</a> </td> 
     <td> SIGGRAPH 2016 </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> :heavy_check_mark: </td> 
     <td> Multi-category photo-sketch paired </td>
   </tr>
   <tr>
     <td> <a href="https://quickdraw.withgoogle.com/data">QuickDraw</a> </td> 
     <td> </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> :x: </td> 
     <td> Multi-category hand sketches </td>
   </tr>
   <tr>
     <td> <a href="http://www.eecs.qmul.ac.uk/~qian/Project_cvpr16.html">QMUL-Shoe-Chair-V2</a> </td> 
     <td>  </td> 
-    <td> Only two categories; fine-grained paired </td>
+    <td> :heavy_check_mark: </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> Only two categories </td>
   </tr>
   <tr>
     <td> <a href="https://facex.idvxlab.com/">FaceX</a> </td> 
     <td> AAAI 2019 </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> :x: </td> 
     <td> Labeled facial sketches </td>  
   </tr>
+  
   <tr>
-    <td rowspan="1"><strong>Scene-level</strong></td>
+    <td rowspan="3"><strong>Scene-level</strong></td>
     <td> <a href="http://www.cs.cmu.edu/~mengtial/proj/sketch/">Photo-Sketching</a> </td> 
     <td> WACV 2019 </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> :heavy_check_mark: </td> 
     <td> ScenePhoto-sketch paired </td>
+  </tr>
+  <tr>
+    <td> <a href="https://sketchyscene.github.io/SketchyScene/">SketchyScene</a> </td> 
+    <td> ECCV 2018 </td> 
+    <td> :x: </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> With semantic/instance segmentation information </td>  
+  </tr>
+  <tr>
+    <td> <a href="http://sweb.cityu.edu.hk/hongbofu/doc/context_based_sketch_classification_Expressive2018.pdf">Context-Skecth</a> </td> 
+    <td> Expressive 2018 </td> 
+    <td> :x: </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> Context-based scene sketches for co-classification </td>  
   </tr>
   
 </table>
@@ -180,7 +212,16 @@ Here we mainly focus on sketch datasets with `svg` data.
 
 ---
 
-### 3) Sketch(pixelwise)-to-sketch(vector)
+### 3) Text-to-sketch
+
+| Level | Paper | Source | Code/Project Link |
+| --- | --- | --- | --- |
+| **Scene-level** | [Sketchforme: Composing Sketched Scenes from Text Descriptions for Interactive Applications](https://arxiv.org/pdf/1904.04399.pdf) | 1904.04399 |  |
+
+---
+
+### 4) Sketch(pixelwise)-to-sketch(vector)
+
 
 This means translating a pixelwise sketch into a sequential sketch imitating human's drawing order. The appearance of the sequential sketch is exactly the **same** as the pixelwise one.
 
@@ -191,7 +232,7 @@ This means translating a pixelwise sketch into a sequential sketch imitating hum
 
 ---
 
-### 4) Art-to-sketch
+### 5) Art-to-sketch
 
 Here we list sketch synthesis based on other image types, like Manga and line art.
 
