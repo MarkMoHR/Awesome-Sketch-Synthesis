@@ -158,7 +158,15 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td><strong>Code/Project Link</strong></td>
   </tr>
   <tr>
-    <td rowspan="2"><strong>Instance-level</strong></td>
+    <td rowspan="3"><strong>Instance-level</strong></td>
+    <td> <a href="https://link.springer.com/content/pdf/10.1007%2Fs11263-016-0963-9.pdf">Free-Hand Sketch Synthesis with Deformable Stroke Models</a> </td> 
+    <td> IJCV 2017 </td> 
+    <td>
+      <a href="https://panly099.github.io/skSyn.html">[Project]</a> 
+      <a href="https://github.com/panly099/sketchSynthesis">[code]</a> 
+    </td>
+  </tr>
+  <tr>
     <td> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Song_Learning_to_Sketch_CVPR_2018_paper.pdf">Learning to Sketch with Shortcut Cycle Consistency</a> </td> 
     <td> CVPR 2018 </td> 
     <td> <a href="https://github.com/seindlut/deep_p2s">[Code1]</a> <a href="https://github.com/MarkMoHR/sketch-photo2seq">[Code2]</a> </td>
@@ -181,15 +189,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td><strong>Code/Project Link</strong></td>
   </tr>
   <tr>
-    <td rowspan="3"><strong>Instance-level</strong></td>
-    <td> <a href="https://link.springer.com/content/pdf/10.1007%2Fs11263-016-0963-9.pdf">Free-Hand Sketch Synthesis with Deformable Stroke Models</a> </td> 
-    <td> IJCV 2017 </td> 
-    <td>
-      <a href="https://panly099.github.io/skSyn.html">[Project]</a> 
-      <a href="https://github.com/panly099/sketchSynthesis">[code]</a> 
-    </td>
-  </tr>
-  <tr>
+    <td rowspan="2"><strong>Instance-level</strong></td>
     <td> <a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Kaiyue_Pang_Deep_Factorised_Inverse-Sketching_ECCV_2018_paper.pdf">Deep Factorised Inverse-Sketching</a> </td> 
     <td> ECCV 2018 </td> 
     <td> </td>
