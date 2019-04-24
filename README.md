@@ -161,7 +161,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td rowspan="2"><strong>Instance-level</strong></td>
     <td> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Song_Learning_to_Sketch_CVPR_2018_paper.pdf">Learning to Sketch with Shortcut Cycle Consistency</a> </td> 
     <td> CVPR 2018 </td> 
-    <td> <a href="https://github.com/seindlut/deep_p2s">[Code]</a> </td>
+    <td> <a href="https://github.com/seindlut/deep_p2s">[Code1]</a> <a href="https://github.com/MarkMoHR/sketch-photo2seq">[Code2]</a> </td>
   </tr>
   <tr>
     <td> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Muhammad_Learning_Deep_Sketch_CVPR_2018_paper.pdf">Learning Deep Sketch Abstraction</a> </td> 
