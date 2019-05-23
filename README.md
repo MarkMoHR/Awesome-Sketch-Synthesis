@@ -12,7 +12,7 @@ A collection of papers about Sketch Synthesis (Generation). Mainly focus on stro
 - [2. Sketch-Synthesis Approaches](#2-sketch-synthesis-approaches)
   - [1) Category-to-sketch](#1-category-to-sketch)
   - [2) Photo-to-sketch](#2-photo-to-sketch)
-  - [3) Text-to-sketch](#3-text-to-sketch)
+  - [3) Text/Attribute-to-sketch](#3-text-attribute-to-sketch)
   - [4) Sketch(pixelwise)-to-sketch(vector)](#4-sketchpixelwise-to-sketchvector)
   - [5) Art-to-sketch](#5-art-to-sketch)
 
@@ -158,6 +158,13 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td><strong>Code/Project Link</strong></td>
   </tr>
   <tr>
+    <td rowspan="1"><strong>Facial</strong></td>
+    <td> <a href="https://dl.acm.org/citation.cfm?id=2461964">Style and abstraction in portrait sketching</a> </td> 
+    <td> TOG 2013 </td> 
+    <td>
+    </td>
+  </tr>
+  <tr>
     <td rowspan="3"><strong>Instance-level</strong></td>
     <td> <a href="https://link.springer.com/content/pdf/10.1007%2Fs11263-016-0963-9.pdf">Free-Hand Sketch Synthesis with Deformable Stroke Models</a> </td> 
     <td> IJCV 2017 </td> 
@@ -212,10 +219,11 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 
 ---
 
-### 3) Text-to-sketch
+### 3) Text/Attribute-to-sketch
 
 | Level | Paper | Source | Code/Project Link |
 | --- | --- | --- | --- |
+| **Facial** | [Text2Sketch: Learning Face Sketch from Facial Attribute Text](https://ieeexplore.ieee.org/abstract/document/8451236) | ICIP 2018 |  |
 | **Scene-level** | [Sketchforme: Composing Sketched Scenes from Text Descriptions for Interactive Applications](https://arxiv.org/pdf/1904.04399.pdf) | 1904.04399 |  |
 
 ---
