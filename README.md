@@ -12,7 +12,7 @@ A collection of papers about Sketch Synthesis (Generation). Mainly focus on stro
 - [2. Sketch-Synthesis Approaches](#2-sketch-synthesis-approaches)
   - [1) Category-to-sketch](#1-category-to-sketch)
   - [2) Photo-to-sketch](#2-photo-to-sketch)
-  - [3) Text/Attribute-to-sketch](#3-text-attribute-to-sketch)
+  - [3) Text/Attribute-to-sketch](#3-textattribute-to-sketch)
   - [4) Sketch(pixelwise)-to-sketch(vector)](#4-sketchpixelwise-to-sketchvector)
   - [5) Art-to-sketch](#5-art-to-sketch)
 
