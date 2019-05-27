@@ -13,8 +13,9 @@ A collection of papers about Sketch Synthesis (Generation). Mainly focus on stro
   - [1) Category-to-sketch](#1-category-to-sketch)
   - [2) Photo-to-sketch](#2-photo-to-sketch)
   - [3) Text/Attribute-to-sketch](#3-textattribute-to-sketch)
-  - [4) Sketch(pixelwise)-to-sketch(vector)](#4-sketchpixelwise-to-sketchvector)
-  - [5) Art-to-sketch](#5-art-to-sketch)
+  - [4) 3D shape-to-sketch](#4-3d-shape-to-sketch)
+  - [5) Sketch(pixelwise)-to-sketch(vector)](#5-sketchpixelwise-to-sketchvector)
+  - [6) Art-to-sketch](#6-art-to-sketch)
 
 
 ---
@@ -228,7 +229,16 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 
 ---
 
-### 4) Sketch(pixelwise)-to-sketch(vector)
+### 4) 3D shape-to-sketch
+
+| Paper | Source | Code/Project Link |
+| --- | --- | --- |
+| [DeepShapeSketch : Generating hand drawing sketches from 3D objects](https://shizhezhou.github.io/projects/DeepFreeHandSke2019/deepFreehandSke2019.pdf) | IJCNN 2019 |  |
+
+---
+
+
+### 5) Sketch(pixelwise)-to-sketch(vector)
 
 
 This means translating a pixelwise sketch into a sequential sketch imitating human's drawing order. The appearance of the sequential sketch is exactly the **same** as the pixelwise one.
@@ -240,7 +250,7 @@ This means translating a pixelwise sketch into a sequential sketch imitating hum
 
 ---
 
-### 5) Art-to-sketch
+### 6) Art-to-sketch
 
 Here we list sketch synthesis based on other image types, like Manga and line art.
 
