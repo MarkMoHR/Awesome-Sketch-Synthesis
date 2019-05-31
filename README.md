@@ -77,7 +77,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
   </tr>
   
   <tr>
-    <td rowspan="3"><strong>Scene-level</strong></td>
+    <td rowspan="4"><strong>Scene-level</strong></td>
     <td> <a href="http://www.cs.cmu.edu/~mengtial/proj/sketch/">Photo-Sketching</a> </td> 
     <td> WACV 2019 </td> 
     <td> :heavy_check_mark: </td> 
@@ -90,6 +90,13 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> :x: </td> 
     <td> :heavy_check_mark: </td> 
     <td> With semantic/instance segmentation information </td>  
+  </tr>
+  <tr>
+    <td> <a href="http://projects.csail.mit.edu/cmplaces/">CMPlaces</a> </td> 
+    <td> TPAMI 2018 </td> 
+    <td> :x: </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> Cross-modal scene dataset </td>  
   </tr>
   <tr>
     <td> <a href="http://sweb.cityu.edu.hk/hongbofu/doc/context_based_sketch_classification_Expressive2018.pdf">Context-Skecth</a> </td> 
