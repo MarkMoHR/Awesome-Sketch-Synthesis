@@ -33,7 +33,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td><strong>Notes</strong></td>
   </tr>
   <tr>
-    <td rowspan="6"><strong>Instance-level</strong></td>
+    <td rowspan="7"><strong>Instance-level</strong></td>
     <td> <a href="http://kanjivg.tagaini.net/">KanjiVG</a> </td> 
     <td> </td> 
     <td> :heavy_check_mark: </td> 
@@ -56,17 +56,24 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
   </tr>
   <tr>
     <td> <a href="https://quickdraw.withgoogle.com/data">QuickDraw</a> </td> 
-    <td> </td> 
+    <td> ICLR 2018 </td> 
     <td> :heavy_check_mark: </td> 
     <td> :x: </td> 
     <td> Multi-category hand sketches </td>
   </tr>
   <tr>
     <td> <a href="http://www.eecs.qmul.ac.uk/~qian/Project_cvpr16.html">QMUL-Shoe-Chair-V2</a> </td> 
-    <td>  </td> 
+    <td> CVPR 2016 </td> 
     <td> :heavy_check_mark: </td> 
     <td> :heavy_check_mark: </td> 
     <td> Only two categories </td>
+  </tr>
+  <tr>
+    <td> <a href="https://github.com/KeLi-SketchX/SketchX-PRIS-Dataset">Sketch Perceptual Grouping (SPG)</a> </td> 
+    <td> ECCV 2018 </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> :x: </td> 
+    <td> With part-level semantic segmentation information </td>
   </tr>
   <tr>
     <td> <a href="https://facex.idvxlab.com/">FaceX</a> </td> 
@@ -75,7 +82,6 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> :x: </td> 
     <td> Labeled facial sketches </td>  
   </tr>
-  
   <tr>
     <td rowspan="4"><strong>Scene-level</strong></td>
     <td> <a href="http://www.cs.cmu.edu/~mengtial/proj/sketch/">Photo-Sketching</a> </td> 
