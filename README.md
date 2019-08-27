@@ -1,5 +1,7 @@
 # Awesome-Sketch-Synthesis
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 A collection of papers about Sketch Synthesis (Generation). Mainly focus on stroke-level vector sketch synthesis.
 
 > Feel free to create a PR or an issue.
@@ -237,8 +239,8 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 
 | Level | Paper | Source | Code/Project Link |
 | --- | --- | --- | --- |
+| **Scene-level** | [Sketchforme: Composing Sketched Scenes from Text Descriptions for Interactive Applications](https://arxiv.org/pdf/1904.04399.pdf) | UIST 2019 |  |
 | **Facial** | [Text2Sketch: Learning Face Sketch from Facial Attribute Text](https://ieeexplore.ieee.org/abstract/document/8451236) | ICIP 2018 |  |
-| **Scene-level** | [Sketchforme: Composing Sketched Scenes from Text Descriptions for Interactive Applications](https://arxiv.org/pdf/1904.04399.pdf) | 1904.04399 |  |
 
 ---
 
