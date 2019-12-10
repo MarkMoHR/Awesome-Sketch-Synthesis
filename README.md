@@ -35,7 +35,14 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td><strong>Notes</strong></td>
   </tr>
   <tr>
-    <td rowspan="7"><strong>Instance-level</strong></td>
+    <td rowspan="3"><strong>Characters</strong></td>
+    <td> <a href="https://github.com/brendenlake/omniglot/">Omniglot</a> </td> 
+    <td> </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> :x: </td> 
+    <td> Alphabets characters </td>
+  </tr>
+  <tr>
     <td> <a href="http://kanjivg.tagaini.net/">KanjiVG</a> </td> 
     <td> </td> 
     <td> :heavy_check_mark: </td> 
@@ -43,6 +50,14 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> Chinese characters </td>
   </tr>
   <tr>
+    <td> <a href="https://github.com/rois-codh/kmnist">Kuzushiji</a> </td> 
+    <td> </td> 
+    <td> :x: </td> 
+    <td> :x: </td> 
+    <td> Japanese characters </td>
+  </tr>
+  <tr>
+    <td rowspan="6"><strong>Instance-level</strong></td>
     <td> <a href="http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/">TU-Berlin</a> </td> 
     <td> SIGGRAPH 2012 </td> 
     <td> :heavy_check_mark: </td> 
