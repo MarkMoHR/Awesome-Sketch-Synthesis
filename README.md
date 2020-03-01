@@ -227,7 +227,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td><strong>Code/Project Link</strong></td>
   </tr>
   <tr>
-    <td rowspan="2"><strong>Instance-level</strong></td>
+    <td rowspan="3"><strong>Instance-level</strong></td>
     <td> <a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Kaiyue_Pang_Deep_Factorised_Inverse-Sketching_ECCV_2018_paper.pdf">Deep Factorised Inverse-Sketching</a> </td> 
     <td> ECCV 2018 </td> 
     <td> </td>
@@ -235,6 +235,11 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
   <tr>
     <td> <a href="https://www.spiedigitallibrary.org/journals/Journal-of-Electronic-Imaging/volume-27/issue-6/063006/Making-better-use-of-edges-for-sketch-generation/10.1117/1.JEI.27.6.063006.short?SSO=1">Making better use of edges for sketch generation</a> </td> 
     <td> JEI 2018 </td> 
+    <td> </td>
+  </tr>
+  <tr>
+    <td> <a href="http://openaccess.thecvf.com/content_WACV_2020/papers/Kampelmuhler_Synthesizing_human-like_sketches_from_natural_images_using_a_conditional_convolutional_WACV_2020_paper.pdf">Synthesizing human-like sketches from natural images using a conditional convolutional decoder</a> </td> 
+    <td> WACV 2020 </td> 
     <td> </td>
   </tr>
   <tr>
