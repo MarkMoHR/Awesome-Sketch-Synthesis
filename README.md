@@ -240,7 +240,9 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
   <tr>
     <td> <a href="http://openaccess.thecvf.com/content_WACV_2020/papers/Kampelmuhler_Synthesizing_human-like_sketches_from_natural_images_using_a_conditional_convolutional_WACV_2020_paper.pdf">Synthesizing human-like sketches from natural images using a conditional convolutional decoder</a> </td> 
     <td> WACV 2020 </td> 
-    <td> </td>
+    <td> 
+      <a href="https://github.com/kampelmuehler/synthesizing_human_like_sketches">[Code]</a> 
+    </td>
   </tr>
   <tr>
     <td rowspan="1"><strong>Scene-level</strong></td>
@@ -270,6 +272,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | Paper | Source | Code/Project Link |
 | --- | --- | --- |
 | [DeepShapeSketch : Generating hand drawing sketches from 3D objects](https://shizhezhou.github.io/projects/DeepFreeHandSke2019/deepFreehandSke2019.pdf) | IJCNN 2019 |  |
+| [Neural Contours: Learning to Draw Lines from 3D Shapes](https://people.cs.umass.edu/~dliu/papers/NeuralContours.pdf) | CVPR 2020 | [[project]](https://people.cs.umass.edu/~dliu/projects/NeuralContours/) [[code]](https://github.com/DifanLiu/NeuralContours) |
 
 ---
 
