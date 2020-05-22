@@ -227,7 +227,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td><strong>Code/Project Link</strong></td>
   </tr>
   <tr>
-    <td rowspan="3"><strong>Instance-level</strong></td>
+    <td rowspan="5"><strong>Instance-level</strong></td>
     <td> <a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Kaiyue_Pang_Deep_Factorised_Inverse-Sketching_ECCV_2018_paper.pdf">Deep Factorised Inverse-Sketching</a> </td> 
     <td> ECCV 2018 </td> 
     <td> </td>
@@ -238,10 +238,26 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> </td>
   </tr>
   <tr>
+    <td> <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Yi_APDrawingGAN_Generating_Artistic_Portrait_Drawings_From_Face_Photos_With_Hierarchical_CVPR_2019_paper.pdf">APDrawingGAN: Generating Artistic Portrait Drawings from Face Photos with Hierarchical GANs</a> </td> 
+    <td> CVPR 2019 </td> 
+    <td> 
+      <a href="https://github.com/yiranran/APDrawingGAN">[Code]</a> 
+      <a href="https://face.lol/">[Demo]</a> 
+    </td>
+  </tr>
+  <tr>
     <td> <a href="http://openaccess.thecvf.com/content_WACV_2020/papers/Kampelmuhler_Synthesizing_human-like_sketches_from_natural_images_using_a_conditional_convolutional_WACV_2020_paper.pdf">Synthesizing human-like sketches from natural images using a conditional convolutional decoder</a> </td> 
     <td> WACV 2020 </td> 
     <td> 
       <a href="https://github.com/kampelmuehler/synthesizing_human_like_sketches">[Code]</a> 
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://arxiv.org/abs/2005.05526">Making Robots Draw A Vivid Portrait In Two Minutes</a> </td> 
+    <td> 2005.05526 </td> 
+    <td> 
+      <a href="https://github.com/Ricelll/AiSketcher">[Code]</a> 
+      <a href="https://ricelll.github.io/AiSketcher/">[Project]</a> 
     </td>
   </tr>
   <tr>
