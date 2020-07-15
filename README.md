@@ -188,7 +188,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 
 <table>
   <tr>
-    <td><strong>Level</strong></td>
+    <td><strong>Data type</strong></td>
     <td><strong>Paper</strong></td>
     <td><strong>Source</strong></td>
     <td><strong>Code/Project Link</strong></td>
@@ -218,6 +218,13 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Muhammad_Learning_Deep_Sketch_CVPR_2018_paper.pdf">Learning Deep Sketch Abstraction</a> </td> 
     <td> CVPR 2018 </td> 
     <td>  </td>
+  </tr>
+  <tr>
+    <td rowspan="1"><strong>Technical Drawings</strong></td>
+    <td> <a href="https://arxiv.org/abs/2003.05471">Deep Vectorization of Technical Drawings</a> </td> 
+    <td> ECCV 2020 </td> 
+    <td>
+    </td>
   </tr>
 </table>
 
