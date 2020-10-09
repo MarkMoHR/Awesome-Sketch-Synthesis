@@ -146,7 +146,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td><strong>Code/Project Link</strong></td>
   </tr>
   <tr>
-    <td rowspan="5"><strong>Instance-level</strong></td>
+    <td rowspan="6"><strong>Instance-level</strong></td>
     <td> <a href="https://openreview.net/pdf?id=Hy6GHpkCW">A Neural Representation of Sketch Drawings (sketch-rnn)</a> </td> 
     <td> ICLR 2018 </td> 
     <td> 
@@ -176,6 +176,14 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> <a href="https://arxiv.org/abs/2007.02190">BézierSketch: A generative model for scalable vector sketches</a> </td> 
     <td> ECCV 2020 </td> 
     <td>  </td>
+  </tr>
+  <tr>
+    <td> <a href="http://sketchx.ai/pixelor">Pixelor: A Competitive Sketching AI Agent. So you think you can beat me?</a> </td> 
+    <td> SIGGRAPH Asia 2020 </td> 
+    <td> 
+      <a href="http://sketchx.ai/pixelor">[Project]</a> 
+      <a href="https://github.com/dasayan05/neuralsort-siggraph">[Code]</a> 
+    </td>
   </tr>
   
 </table>
