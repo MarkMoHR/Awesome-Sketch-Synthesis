@@ -202,7 +202,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td><strong>Code/Project Link</strong></td>
   </tr>
   <tr>
-    <td rowspan="2"><strong>Facial</strong></td>
+    <td rowspan="3"><strong>Facial</strong></td>
     <td> <a href="https://dl.acm.org/citation.cfm?id=2461964">Style and abstraction in portrait sketching</a> </td> 
     <td> TOG 2013 </td> 
     <td>
@@ -214,6 +214,13 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> 
       <a href="https://github.com/Ricelll/AiSketcher">[Code]</a> 
       <a href="https://ricelll.github.io/AiSketcher/">[Project]</a> 
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://arxiv.org/abs/1912.05099">RoboCoDraw: Robotic Avatar Drawing with GAN-based Style Transfer and Time-efficient Path Optimization</a> </td> 
+    <td> AAAI 2020 </td> 
+    <td> 
+      <a href="https://github.com/Psyche-mia/Avatar-GAN">[Code]</a> 
     </td>
   </tr>
   <tr>
