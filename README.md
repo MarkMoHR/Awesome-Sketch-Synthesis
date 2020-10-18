@@ -128,6 +128,28 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> :heavy_check_mark: </td> 
     <td> Context-based scene sketches for co-classification </td>  
   </tr>
+  <tr>
+    <td rowspan="3"><strong>Rough sketch</strong></td>
+    <td> <a href="https://esslab.jp/~ess/en/data/davincidataset/">Da Vinci</a> </td> 
+    <td> CGI 2018 </td> 
+    <td> :x: </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> Line drawing restoration dataset </td>
+  </tr>
+  <tr>
+    <td> <a href="https://ns.inria.fr/d3/OpenSketch/">OpenSketch</a> </td> 
+    <td> SIGGRAPH Asia 2019 </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> :x: </td> 
+    <td> Product Design Sketches </td>
+  </tr>
+  <tr>
+    <td> <a href="https://cragl.cs.gmu.edu/sketchbench/">Rough Sketch Benchmark</a> </td> 
+    <td> SIGGRAPH Asia 2020 </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> Rough and clean sketch pairs </td>  
+  </tr>
   
 </table>
 
