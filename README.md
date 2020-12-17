@@ -168,7 +168,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td><strong>Code/Project Link</strong></td>
   </tr>
   <tr>
-    <td rowspan="6"><strong>Instance-level</strong></td>
+    <td rowspan="7"><strong>Instance-level</strong></td>
     <td> <a href="https://openreview.net/pdf?id=Hy6GHpkCW">A Neural Representation of Sketch Drawings (sketch-rnn)</a> </td> 
     <td> ICLR 2018 </td> 
     <td> 
@@ -205,6 +205,14 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> 
       <a href="http://sketchx.ai/pixelor">[Project]</a> 
       <a href="https://github.com/dasayan05/neuralsort-siggraph">[Code]</a> 
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://arxiv.org/abs/2011.10039">Creative Sketch Generation</a> </td> 
+    <td> ICLR 2021 </td> 
+    <td> 
+      <a href="http://doodlergan.cloudcv.org/">[Project]</a> 
+      <a href="https://github.com/facebookresearch/DoodlerGAN">[Code]</a> 
     </td>
   </tr>
   
