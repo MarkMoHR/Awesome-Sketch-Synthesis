@@ -100,7 +100,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> Labeled facial sketches </td>  
   </tr>
   <tr>
-    <td rowspan="4"><strong>Scene-level</strong></td>
+    <td rowspan="5"><strong>Scene-level</strong></td>
     <td> <a href="http://www.cs.cmu.edu/~mengtial/proj/sketch/">Photo-Sketching</a> </td> 
     <td> WACV 2019 </td> 
     <td> :heavy_check_mark: </td> 
@@ -127,6 +127,13 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> :x: </td> 
     <td> :heavy_check_mark: </td> 
     <td> Context-based scene sketches for co-classification </td>  
+  </tr>
+  <tr>
+    <td> <a href="https://sysu-imsl.github.io/EdgeGAN/index.html">SketchyCOCO</a> </td> 
+    <td> CVPR 2020 </td> 
+    <td> :x: </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> Scene sketch, segmentation and normal images </td>  
   </tr>
   <tr>
     <td rowspan="3"><strong>Rough sketch</strong></td>
