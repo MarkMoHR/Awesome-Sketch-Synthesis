@@ -57,7 +57,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> Japanese characters </td>
   </tr>
   <tr>
-    <td rowspan="6"><strong>Instance-level</strong></td>
+    <td rowspan="7"><strong>Instance-level</strong></td>
     <td> <a href="http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/">TU-Berlin</a> </td> 
     <td> SIGGRAPH 2012 </td> 
     <td> :heavy_check_mark: </td> 
@@ -98,6 +98,13 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> :heavy_check_mark: </td> 
     <td> :x: </td> 
     <td> Labeled facial sketches </td>  
+  </tr>
+  <tr>
+    <td> <a href="https://github.com/facebookresearch/DoodlerGAN">Creative Sketch</a> </td> 
+    <td> ICLR 2021 </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> :x: </td> 
+    <td> With annotated part segmentation </td>  
   </tr>
   <tr>
     <td rowspan="5"><strong>Scene-level</strong></td>
