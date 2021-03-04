@@ -18,7 +18,7 @@ A collection of papers about Sketch Synthesis (Generation). Mainly focus on stro
   - [4) 3D shape-to-sketch](#4-3d-shape-to-sketch)
   - [5) Sketch(pixelwise)-to-sketch(vector)](#5-sketchpixelwise-to-sketchvector)
   - [6) Art-to-sketch](#6-art-to-sketch)
-
+- [3. Vector Graphics Generation](#3-vector-graphics-generation)
 
 ---
 
@@ -427,3 +427,31 @@ c) Learning-based approaches
 | Paper | Source | Code/Project Link |
 | --- | --- | --- |
 | [Deep extraction of manga structural lines](https://dl.acm.org/citation.cfm?id=3073675) | SIGGRAPH 2017 | [[Code]](https://github.com/ljsabc/MangaLineExtraction) |
+
+
+
+## 3. Vector Graphics Generation
+
+Here we focus on learning-based vector graphics generation **without** depending on vector training data.
+
+
+- Using external black-box (non-differentiable) rendering simulator
+
+| Paper | Source | Code/Project Link |
+| --- | --- | --- |
+| [Synthesizing Programs for Images using Reinforced Adversarial Learning](http://proceedings.mlr.press/v80/ganin18a/ganin18a.pdf) | ICML 2018 | [[Code]](https://github.com/deepmind/spiral) |
+| [Unsupervised Doodling and Painting with Improved SPIRAL](https://arxiv.org/abs/1910.01007) | arxiv 1910 | [[Project]](https://learning-to-paint.github.io/) |
+
+- Using built-in differentiable rendering module
+
+| Paper | Source | Code/Project Link |
+| --- | --- | --- |
+| [Stylized Neural Painting](https://arxiv.org/abs/2011.08114) | CVPR 2021 | [[Code]](https://github.com/jiupinjia/stylized-neural-painting) [[project]](https://jiupinjia.github.io/neuralpainter/) |
+| [Learning to Paint With Model-based Deep Reinforcement Learning](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Learning_to_Paint_With_Model-Based_Deep_Reinforcement_Learning_ICCV_2019_paper.pdf) | ICCV 2019 | [[code]](https://github.com/megvii-research/ICCV2019-LearningToPaint) |
+| [Strokenet: A neural painting environment](https://openreview.net/forum?id=HJxwDiActX) | ICLR 2019 | [[Code]](https://github.com/vexilligera/strokenet) |
+| [Neural Painters: A learned differentiable constraint for generating brushstroke paintings](https://arxiv.org/abs/1904.08410) | arxiv 1904 | [[Code]](https://github.com/reiinakano/neural-painters-pytorch) |
+| [Learning to Sketch with Deep Q Networks and Demonstrated Strokes](https://arxiv.org/abs/1810.05977) | arxiv 1810 |  |
+| [Unsupervised Image to Sequence Translation with Canvas-Drawer Networks](https://arxiv.org/abs/1809.08340) | arxiv 1809 |  |
+
+
+
