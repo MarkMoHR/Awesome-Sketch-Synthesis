@@ -369,7 +369,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | --- | --- | --- |
 | [DeepShapeSketch : Generating hand drawing sketches from 3D objects](https://shizhezhou.github.io/projects/DeepFreeHandSke2019/deepFreehandSke2019.pdf) | IJCNN 2019 |  |
 | [Neural Contours: Learning to Draw Lines from 3D Shapes](https://people.cs.umass.edu/~dliu/papers/NeuralContours.pdf) | CVPR 2020 | [[project]](https://people.cs.umass.edu/~dliu/projects/NeuralContours/) [[code]](https://github.com/DifanLiu/NeuralContours) |
-| [Cloud2Curve: Generation and Vectorization of Parametric Sketches]() | CVPR 2021 | [[project]](https://ayandas.me/pubs/2021/03/01/pub-9.html) |
+| [Cloud2Curve: Generation and Vectorization of Parametric Sketches](https://arxiv.org/abs/2103.15536) | CVPR 2021 | [[project]](https://ayandas.me/pubs/2021/03/01/pub-9.html) |
 
 ---
 
