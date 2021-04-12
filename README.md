@@ -57,7 +57,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> Japanese characters </td>
   </tr>
   <tr>
-    <td rowspan="7"><strong>Instance-level</strong></td>
+    <td rowspan="8"><strong>Instance-level</strong></td>
     <td> <a href="http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/">TU-Berlin</a> </td> 
     <td> SIGGRAPH 2012 </td> 
     <td> :heavy_check_mark: </td> 
@@ -107,6 +107,13 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> With annotated part segmentation </td>  
   </tr>
   <tr>
+    <td> <a href="https://github.com/HaohanWang/ImageNet-Sketch">ImageNet-Sketch</a> </td> 
+    <td> NeurIPS 2019 </td> 
+    <td> :x: </td> 
+    <td> :x: </td> 
+    <td> 50 images for each of the 1000 ImageNet classes </td>  
+  </tr>
+  <tr>
     <td rowspan="5"><strong>Scene-level</strong></td>
     <td> <a href="http://www.cs.cmu.edu/~mengtial/proj/sketch/">Photo-Sketching</a> </td> 
     <td> WACV 2019 </td> 
@@ -143,7 +150,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> Scene sketch, segmentation and normal images </td>  
   </tr>
   <tr>
-    <td rowspan="3"><strong>Rough sketch</strong></td>
+    <td rowspan="2"><strong>Rough sketch</strong></td>
     <td> <a href="https://esslab.jp/~ess/en/data/davincidataset/">Da Vinci</a> </td> 
     <td> CGI 2018 </td> 
     <td> :x: </td> 
@@ -151,6 +158,14 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> Line drawing restoration dataset </td>
   </tr>
   <tr>
+    <td> <a href="https://cragl.cs.gmu.edu/sketchbench/">Rough Sketch Benchmark</a> </td> 
+    <td> SIGGRAPH Asia 2020 </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> Rough and clean sketch pairs (only for evaluation) </td>  
+  </tr>
+  <tr>
+    <td rowspan="2"><strong>CAD</strong></td>
     <td> <a href="https://ns.inria.fr/d3/OpenSketch/">OpenSketch</a> </td> 
     <td> SIGGRAPH Asia 2019 </td> 
     <td> :heavy_check_mark: </td> 
@@ -158,11 +173,11 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> Product Design Sketches </td>
   </tr>
   <tr>
-    <td> <a href="https://cragl.cs.gmu.edu/sketchbench/">Rough Sketch Benchmark</a> </td> 
-    <td> SIGGRAPH Asia 2020 </td> 
+    <td> <a href="https://github.com/PrincetonLIPS/SketchGraphs">SketchGraphs</a> </td> 
+    <td> ICML 2020 Workshop </td> 
     <td> :heavy_check_mark: </td> 
-    <td> :heavy_check_mark: </td> 
-    <td> Rough and clean sketch pairs </td>  
+    <td> :x: </td> 
+    <td> Sketches extracted from real-world CAD models </td>  
   </tr>
   
 </table>
