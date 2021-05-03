@@ -114,14 +114,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> 50 images for each of the 1000 ImageNet classes </td>  
   </tr>
   <tr>
-    <td rowspan="5"><strong>Scene-level</strong></td>
-    <td> <a href="http://www.cs.cmu.edu/~mengtial/proj/sketch/">Photo-Sketching</a> </td> 
-    <td> WACV 2019 </td> 
-    <td> :heavy_check_mark: </td> 
-    <td> :heavy_check_mark: </td> 
-    <td> ScenePhoto-sketch paired </td>
-  </tr>
-  <tr>
+    <td rowspan="4"><strong>Scene-level</strong></td>
     <td> <a href="https://sketchyscene.github.io/SketchyScene/">SketchyScene</a> </td> 
     <td> ECCV 2018 </td> 
     <td> :x: </td> 
@@ -148,6 +141,21 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> :x: </td> 
     <td> :heavy_check_mark: </td> 
     <td> Scene sketch, segmentation and normal images </td>  
+  </tr>
+  <tr>
+    <td rowspan="2"><strong>Drawing from photos</strong></td>
+    <td> <a href="http://www.cs.cmu.edu/~mengtial/proj/sketch/">Photo-Sketching</a> </td> 
+    <td> WACV 2019 </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> ScenePhoto-sketch paired </td>
+  </tr>
+  <tr>
+    <td> <a href="https://github.com/zachzeyuwang/tracing-vs-freehand">Tracing-vs-Freehand</a> </td> 
+    <td> SIGGRAPH 2021 </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> Tracings and freehand drawings of images </td>  
   </tr>
   <tr>
     <td rowspan="2"><strong>Rough sketch</strong></td>
