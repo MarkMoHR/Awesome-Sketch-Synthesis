@@ -12,11 +12,11 @@ A collection of papers about Sketch Synthesis (Generation). Mainly focus on stro
 
 - [1. Datasets](#1-datasets)
 - [2. Sketch-Synthesis Approaches](#2-sketch-synthesis-approaches)
-  - [1) Category-to-sketch](#1-category-to-sketch)
+  - [1) Semantic Concept-to-sketch](#1-semantic-concept-to-sketch)
   - [2) Photo-to-sketch](#2-photo-to-sketch)
   - [3) Text/Attribute-to-sketch](#3-textattribute-to-sketch)
   - [4) 3D shape-to-sketch](#4-3d-shape-to-sketch)
-  - [5) Sketch(pixelwise)-to-sketch(vector)](#5-sketchpixelwise-to-sketchvector)
+  - [5) Sketch(vector)-to-sketch(vector)](#5-sketchvector-to-sketchvector)
   - [6) Art-to-sketch](#6-art-to-sketch)
 - [3. Vector Graphics Generation](#3-vector-graphics-generation)
 
@@ -194,7 +194,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 
 ## 2. Sketch-Synthesis Approaches
 
-### 1) Category-to-sketch
+### 1) Semantic Concept-to-sketch
 
 
 <table>
@@ -205,7 +205,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td><strong>Code/Project Link</strong></td>
   </tr>
   <tr>
-    <td rowspan="7"><strong>Instance-level</strong></td>
+    <td rowspan="8"><strong>Instance-level</strong></td>
     <td> <a href="https://openreview.net/pdf?id=Hy6GHpkCW">A Neural Representation of Sketch Drawings (sketch-rnn)</a> </td> 
     <td> ICLR 2018 </td> 
     <td> 
@@ -250,6 +250,12 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> 
       <a href="http://doodlergan.cloudcv.org/">[Project]</a> 
       <a href="https://github.com/facebookresearch/DoodlerGAN">[Code]</a> 
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://arxiv.org/abs/2105.02769">Computer-Aided Design as Language</a> </td> 
+    <td> arxiv 2105 </td> 
+    <td> 
     </td>
   </tr>
   
@@ -397,10 +403,10 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 ---
 
 
-### 5) Sketch(pixelwise)-to-sketch(vector)
+### 5) Sketch(vector)-to-sketch(vector)
 
 
-This means translating a pixelwise sketch into a sequential sketch imitating human's drawing order. The appearance of the sequential sketch is exactly the **same** as the pixelwise one.
+This means translating a disordered vector sketch into an ordered sequential sketch imitating human's drawing order. The appearance of the sequential sketch is exactly the **same** as the pixelwise one.
 
 
 | Paper | Source | Code/Project Link |
