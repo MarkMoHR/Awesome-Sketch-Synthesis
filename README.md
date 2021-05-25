@@ -173,7 +173,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> Rough and clean sketch pairs (only for evaluation) </td>  
   </tr>
   <tr>
-    <td rowspan="2"><strong>CAD</strong></td>
+    <td rowspan="3"><strong>CAD</strong></td>
     <td> <a href="https://ns.inria.fr/d3/OpenSketch/">OpenSketch</a> </td> 
     <td> SIGGRAPH Asia 2019 </td> 
     <td> :heavy_check_mark: </td> 
@@ -186,6 +186,13 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> :heavy_check_mark: </td> 
     <td> :x: </td> 
     <td> Sketches extracted from real-world CAD models </td>  
+  </tr>
+  <tr>
+    <td> <a href="https://github.com/AutodeskAILab/Fusion360GalleryDataset">Fusion 360 Gallery</a> </td> 
+    <td> SIGGRAPH 2021 </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> :x: </td> 
+    <td> For 'sketch and extrude' designs </td>  
   </tr>
   
 </table>
