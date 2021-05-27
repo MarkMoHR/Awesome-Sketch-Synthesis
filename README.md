@@ -472,17 +472,17 @@ c) Learning-based approaches
 
 ## 3. Vector Graphics Generation
 
-Here we focus on learning-based vector graphics generation **without** depending on vector training data.
+Here we focus on learning-based vector graphics generation **without** depending on vector training data, and traditional vectorization algorithms.
 
 
-- Using external black-box (non-differentiable) rendering simulator
+- Learning with external black-box (non-differentiable) rendering simulator
 
 | Paper | Source | Code/Project Link |
 | --- | --- | --- |
 | [Synthesizing Programs for Images using Reinforced Adversarial Learning](http://proceedings.mlr.press/v80/ganin18a/ganin18a.pdf) | ICML 2018 | [[Code]](https://github.com/deepmind/spiral) |
 | [Unsupervised Doodling and Painting with Improved SPIRAL](https://arxiv.org/abs/1910.01007) | arxiv 1910 | [[Project]](https://learning-to-paint.github.io/) |
 
-- Using built-in differentiable rendering module
+- Learning with built-in differentiable rendering module
 
 | Paper | Source | Code/Project Link |
 | --- | --- | --- |
@@ -496,4 +496,11 @@ Here we focus on learning-based vector graphics generation **without** depending
 | [Unsupervised Image to Sequence Translation with Canvas-Drawer Networks](https://arxiv.org/abs/1809.08340) | arxiv 1809 |  |
 
 
+- Vectorization
+
+| Paper | Source | Code/Project Link |
+| --- | --- | --- |
+| [Depixelizing pixel art](https://dl.acm.org/doi/abs/10.1145/1964921.1964994) | SIGGRAPH 2011 |  |
+| [Perception-Driven Semi-Structured Boundary Vectorization](http://www.cs.ubc.ca/labs/imager/tr/2018/PerceptionDrivenVectorization/perception-driven-vectorization.pdf) | SIGGRAPH 2018 | [[Webpage]](http://www.cs.ubc.ca/labs/imager/tr/2018/PerceptionDrivenVectorization/) |
+| [PolyFit: Perception-aligned Vectorization of Raster Clip-art via Intermediate Polygonal Fitting](http://www.cs.ubc.ca/labs/imager/tr/2020/ClipArtVectorization/paper.pdf) | SIGGRAPH 2020 | [[Webpage]](http://www.cs.ubc.ca/labs/imager/tr/2020/ClipArtVectorization/) [[Code]](https://github.com/dedoardo/polyfit) |
 
