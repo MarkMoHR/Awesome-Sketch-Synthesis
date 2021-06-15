@@ -434,13 +434,14 @@ a) Datasets and benchmark
 | --- | --- | --- |
 | [A Benchmark for Rough Sketch Cleanup](https://hal.archives-ouvertes.fr/hal-02939477/document) | SIGGRAPH Asia 2020 | [[Project]](https://cragl.cs.gmu.edu/sketchbench/)  [[Code]](https://github.com/Nauhcnay/A-Benchmark-for-Rough-Sketch-Cleanup) |
 
-b) Traditional approaches
+b) Optimization-based approaches
 
 | Paper | Source | Input Type | Output Type | Code/Project Link |
 | --- | --- | --- | --- | --- |
 | [Closure-aware Sketch Simplification](http://www.cse.cuhk.edu.hk/~ttwong/papers/sketch/sketch.pdf) | SIGGRAPH Asia 2015 | vector | vector | [[Project]](https://www.cse.cuhk.edu.hk/~ttwong/papers/sketch/sketch.html) |
 | [StrokeAggregator: Consolidating Raw Sketches into Artist-Intended Curve Drawings](https://www.cs.ubc.ca/labs/imager/tr/2018/StrokeAggregator/StrokeAggregator_authorversion.pdf) | SIGGRAPH 2018 | vector | vector | [[Project]](https://www.cs.ubc.ca/labs/imager/tr/2018/StrokeAggregator/) |
-| [StrokeStrip: Joint Parameterization and Fitting of Stroke Clusters](https://www.cs.ubc.ca/~dpagurek/strokestrip/cluster_param.pdf) | SIGGRAPH 2021 | vector | vector | [[Project]](https://www.cs.ubc.ca/~dpagurek/strokestrip/) [[code]](https://github.com/davepagurek/StrokeStrip) |
+| [StrokeStrip: Joint Parameterization and Fitting of Stroke Clusters](https://www.davepagurek.com/programming/strokestrip/) | SIGGRAPH 2021 | vector | vector | [[Project]](https://www.davepagurek.com/programming/strokestrip/) [[code]](https://github.com/davepagurek/StrokeStrip) |
+| --- | --- | --- | --- | --- |
 | [Topology-Driven Vectorization of Clean Line Drawings](https://cgl.ethz.ch/Downloads/Publications/Papers/2013/Nor13/Nor13.pdf) | TOG 2013 | raster | vector |  |
 | [Fidelity vs. Simplicity: a Global Approach to Line Drawing Vectorization](https://www-sop.inria.fr/reves/Basilic/2016/FLB16/fidelity_simplicity.pdf) | SIGGRAPH 2016 | raster | vector | [[Project]](https://www-sop.inria.fr/reves/Basilic/2016/FLB16/) |
 | [A Delaunay triangulation based approach for cleaning rough sketches](https://ed.iitm.ac.in/~raman/agcl/sketchSMI.pdf) | C&G 2018 | raster | vector | [[Code]](https://github.com/amaldevp/RoughSketchSimplification) |
