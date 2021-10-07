@@ -173,7 +173,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> Rough and clean sketch pairs (only for evaluation) </td>  
   </tr>
   <tr>
-    <td rowspan="3"><strong>CAD</strong></td>
+    <td rowspan="4"><strong>CAD</strong></td>
     <td> <a href="https://ns.inria.fr/d3/OpenSketch/">OpenSketch</a> </td> 
     <td> SIGGRAPH Asia 2019 </td> 
     <td> :heavy_check_mark: </td> 
@@ -193,6 +193,13 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> :heavy_check_mark: </td> 
     <td> :x: </td> 
     <td> For 'sketch and extrude' designs </td>  
+  </tr>
+  <tr>
+    <td> <a href="https://floorplancad.github.io/">FloorPlanCAD</a> </td> 
+    <td> ICCV 2021 </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> :x: </td> 
+    <td> With instance and semantic annotations </td>  
   </tr>
   
 </table>
