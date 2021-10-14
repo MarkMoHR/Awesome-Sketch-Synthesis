@@ -483,6 +483,7 @@ c) Learning-based approaches
 | [Deep extraction of manga structural lines](https://dl.acm.org/citation.cfm?id=3073675) | SIGGRAPH 2017 | raster | raster | [[Code]](https://github.com/ljsabc/MangaLineExtraction) |
 | [Manga Filling Style Conversion with Screentone Variational Autoencoder](https://www.cse.cuhk.edu.hk/~ttwong/papers/screenstyle/screenstyle.html) | SIGGRAPH Asia 2020 | raster | raster | [[Project]](https://www.cse.cuhk.edu.hk/~ttwong/papers/screenstyle/screenstyle.html) [[Code]](https://github.com/msxie92/ScreenStyle) |
 | [Generating Manga from Illustrations via Mimicking Manga Workflow](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Generating_Manga_From_Illustrations_via_Mimicking_Manga_Creation_Workflow_CVPR_2021_paper.pdf) | CVPR 2021 | raster | raster | [[Project]](https://lllyasviel.github.io/MangaFilter/) [[Code]](https://github.com/lllyasviel/MangaFilter) |
+| [Vectorization of Raster Manga by Deep Reinforcement Learning](https://arxiv.org/abs/2110.04830) | arxiv 2110 | raster | vector |  |
 
 
 
