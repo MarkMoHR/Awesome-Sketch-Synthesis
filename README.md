@@ -460,6 +460,7 @@ b) Optimization-based approaches
 | [Inertia-based Fast Vectorization of Line Drawings](https://www.researchgate.net/profile/Rafal_Scherer/publication/336936860_Inertia-based_Fast_Vectorization_of_Line_Drawings/links/5dbbc8ad299bf1a47b0721d1/Inertia-based-Fast-Vectorization-of-Line-Drawings.pdf) | PG 2019 | raster | vector |  |
 | [Vectorization of Line Drawings via Polyvector Fields](https://dl.acm.org/doi/10.1145/3202661) | TOG 2019 | raster | vector | [[Code]](https://github.com/bmpix/PolyVectorization) |
 | [Integer-Grid Sketch Simplification and Vectorization](http://www-sop.inria.fr/reves/Basilic/2020/SBBB20/paper.pdf) | SGP 2020 | raster | vector | [[Project]](https://repo-sam.inria.fr/d3/grid-vectorization/) [[Code]](https://gitlab.inria.fr/D3/grid-vectorization/) |
+| [Keypoint-Driven Line Drawing Vectorization via PolyVector Flow](http://www-labs.iro.umontreal.ca/~bmpix/pdf/polyvector_flow.pdf) (also learning-based) | SIGGRAPH Asia 2021 | raster | vector | [[project]](https://puhachov.xyz/publications/keypoint-driven-polyvector-flow/)  |
 
 c) Learning-based approaches
 
@@ -474,6 +475,7 @@ c) Learning-based approaches
 | [Deep Line Drawing Vectorization via Line Subdivision and Topology Reconstruction](https://www.researchgate.net/profile/Chu_Han8/publication/337249870_Deep_Line_Drawing_Vectorization_via_Line_Subdivision_and_Topology_Reconstruction/links/5f0fec43299bf1e548ba370f/Deep-Line-Drawing-Vectorization-via-Line-Subdivision-and-Topology-Reconstruction.pdf) | PG 2019 | raster | vector |  |
 | [Deep Vectorization of Technical Drawings](https://arxiv.org/abs/2003.05471) | ECCV 2020 | raster | vector | [[project]](http://adase.group/3ddl/projects/vectorization/) [[code]](https://github.com/Vahe1994/Deep-Vectorization-of-Technical-Drawings) |
 | [General Virtual Sketching Framework for Vector Line Art](https://esslab.jp/publications/HaoranSIGRAPH2021.pdf) | SIGGRAPH 2021 | raster | vector | [[project]](https://markmohr.github.io/virtual_sketching/) [[code]](https://github.com/MarkMoHR/virtual_sketching) |
+| [Keypoint-Driven Line Drawing Vectorization via PolyVector Flow](http://www-labs.iro.umontreal.ca/~bmpix/pdf/polyvector_flow.pdf) (also optimization-based) | SIGGRAPH Asia 2021 | raster | vector | [[project]](https://puhachov.xyz/publications/keypoint-driven-polyvector-flow/)  |
 
 
 - Manga (Comics)
