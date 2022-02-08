@@ -359,12 +359,18 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td><strong>Code/Project Link</strong></td>
   </tr>
   <tr>
-    <td rowspan="1"><strong>Facial</strong></td>
+    <td rowspan="2"><strong>Facial</strong></td>
     <td> <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Yi_APDrawingGAN_Generating_Artistic_Portrait_Drawings_From_Face_Photos_With_Hierarchical_CVPR_2019_paper.pdf">APDrawingGAN: Generating Artistic Portrait Drawings from Face Photos with Hierarchical GANs</a> </td> 
     <td> CVPR 2019 </td> 
     <td> 
       <a href="https://github.com/yiranran/APDrawingGAN">[Code]</a> 
       <a href="https://face.lol/">[Demo]</a> 
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://ieeexplore.ieee.org/abstract/document/9699090">Quality Metric Guided Portrait Line Drawing Generation from Unpaired Training Data</a> </td> 
+    <td> TPAMI 2022 </td> 
+    <td> 
     </td>
   </tr>
   <tr>
