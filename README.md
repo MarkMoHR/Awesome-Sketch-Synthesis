@@ -371,6 +371,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> <a href="https://ieeexplore.ieee.org/abstract/document/9699090">Quality Metric Guided Portrait Line Drawing Generation from Unpaired Training Data</a> </td> 
     <td> TPAMI 2022 </td> 
     <td> 
+      <a href="https://github.com/yiranran/QMUPD">[Code]</a> 
     </td>
   </tr>
   <tr>
