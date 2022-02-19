@@ -311,7 +311,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     </td>
   </tr>
   <tr>
-    <td rowspan="3"><strong>Instance-level</strong></td>
+    <td rowspan="4"><strong>Instance-level</strong></td>
     <td> <a href="https://link.springer.com/content/pdf/10.1007%2Fs11263-016-0963-9.pdf">Free-Hand Sketch Synthesis with Deformable Stroke Models</a> </td> 
     <td> IJCV 2017 </td> 
     <td>
@@ -328,6 +328,14 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Muhammad_Learning_Deep_Sketch_CVPR_2018_paper.pdf">Learning Deep Sketch Abstraction</a> </td> 
     <td> CVPR 2018 </td> 
     <td>  </td>
+  </tr>
+  <tr>
+    <td> <a href="https://arxiv.org/abs/2202.05822">CLIPasso: Semantically-Aware Object Sketching</a> </td> 
+    <td> arxiv 22.02 </td> 
+    <td> 
+      <a href="https://clipasso.github.io/clipasso/">[Project]</a> 
+      <a href="https://github.com/yael-vinker/CLIPasso">[Code]</a>
+    </td>
   </tr>
   <tr>
     <td rowspan="1"><strong>Technical Drawings</strong></td>
