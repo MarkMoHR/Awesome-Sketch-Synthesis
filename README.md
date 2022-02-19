@@ -10,6 +10,7 @@ A collection of papers about Sketch Synthesis (Generation). Mainly focus on stro
 
 **Outlines**
 
+- [0. Survey](#0-survey)
 - [1. Datasets](#1-datasets)
 - [2. Sketch-Synthesis Approaches](#2-sketch-synthesis-approaches)
   - [1) Semantic Concept-to-sketch](#1-semantic-concept-to-sketch)
@@ -21,6 +22,12 @@ A collection of papers about Sketch Synthesis (Generation). Mainly focus on stro
 - [3. Vector Graphics Generation](#3-vector-graphics-generation)
 
 ---
+
+## 0. Survey
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [Deep Learning for Free-Hand Sketch: A Survey](https://ieeexplore.ieee.org/abstract/document/9706366) | TPAMI 2022 | [[code]](https://github.com/PengBoXiangShang/torchsketch) |
 
 ## 1. Datasets
 Here `Vector strokes` means having *svg* data. `With photos` means having the photo-sketch paired data.
