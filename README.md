@@ -374,12 +374,26 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td><strong>Code/Project Link</strong></td>
   </tr>
   <tr>
-    <td rowspan="2"><strong>Facial</strong></td>
+    <td rowspan="4"><strong>Facial</strong></td>
     <td> <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Yi_APDrawingGAN_Generating_Artistic_Portrait_Drawings_From_Face_Photos_With_Hierarchical_CVPR_2019_paper.pdf">APDrawingGAN: Generating Artistic Portrait Drawings from Face Photos with Hierarchical GANs</a> </td> 
     <td> CVPR 2019 </td> 
     <td> 
       <a href="https://github.com/yiranran/APDrawingGAN">[Code]</a> 
       <a href="https://face.lol/">[Demo]</a> 
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Yi_Unpaired_Portrait_Drawing_Generation_via_Asymmetric_Cycle_Mapping_CVPR_2020_paper.pdf">Unpaired Portrait Drawing Generation via Asymmetric Cycle Mapping</a> </td> 
+    <td> CVPR 2020 </td> 
+    <td> 
+      <a href="https://github.com/yiranran/Unpaired-Portrait-Drawing">[Code]</a> 
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://ieeexplore.ieee.org/document/9069416">Line Drawings for Face Portraits From Photos Using Global and Local Structure Based GANs</a> </td> 
+    <td> TPAMI 2020 </td> 
+    <td> 
+      <a href="https://github.com/yiranran/APDrawingGAN2">[Code]</a> 
     </td>
   </tr>
   <tr>
