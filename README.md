@@ -474,7 +474,7 @@ This means translating a disordered vector sketch into an ordered sequential ske
 
 Here we list sketch synthesis based on other image types, like Manga, line art, rough sketch, etc.
 
-- Hand drawn line art (a.k.a. Vectorization)
+- Line art
 
 a) Datasets and benchmark
 
@@ -490,7 +490,7 @@ b) Vector-to-Vector
 | [StrokeAggregator: Consolidating Raw Sketches into Artist-Intended Curve Drawings](https://www.cs.ubc.ca/labs/imager/tr/2018/StrokeAggregator/StrokeAggregator_authorversion.pdf) | SIGGRAPH 2018 | [[Project]](https://www.cs.ubc.ca/labs/imager/tr/2018/StrokeAggregator/) |
 | [StrokeStrip: Joint Parameterization and Fitting of Stroke Clusters](https://www.davepagurek.com/programming/strokestrip/) | SIGGRAPH 2021 | [[Project]](https://www.davepagurek.com/programming/strokestrip/) [[code]](https://github.com/davepagurek/StrokeStrip) |
 
-c) Raster-to-Vector
+c) Raster-to-Vector (a.k.a. Vectorization)
 
 | Paper | Source | Code/Project Link |
 | --- | --- | --- |
@@ -505,6 +505,7 @@ c) Raster-to-Vector
 | [Deep Vectorization of Technical Drawings](https://arxiv.org/abs/2003.05471) | ECCV 2020 | [[project]](http://adase.group/3ddl/projects/vectorization/) [[code]](https://github.com/Vahe1994/Deep-Vectorization-of-Technical-Drawings) |
 | [General Virtual Sketching Framework for Vector Line Art](https://esslab.jp/publications/HaoranSIGGRAPH2021.pdf) | SIGGRAPH 2021 | [[project]](https://markmohr.github.io/virtual_sketching/) [[code]](https://github.com/MarkMoHR/virtual_sketching) |
 | [Keypoint-Driven Line Drawing Vectorization via PolyVector Flow](http://www-labs.iro.umontreal.ca/~bmpix/pdf/polyvector_flow.pdf) | SIGGRAPH Asia 2021 | [[project]](https://puhachov.xyz/publications/keypoint-driven-polyvector-flow/)  |
+| [End-to-end Line Drawing Vectorization](https://www.aaai.org/AAAI22Papers/AAAI-52.LiuH.pdf) | AAAI 2022 |  |
 
 
 - Rough sketch simplification
