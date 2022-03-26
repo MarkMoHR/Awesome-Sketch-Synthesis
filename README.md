@@ -165,6 +165,14 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> Tracings and freehand drawings of images </td>  
   </tr>
   <tr>
+    <td rowspan="1"><strong>Portrait</strong></td>
+    <td> <a href="https://github.com/yiranran/APDrawingGAN">APDrawing</a> </td> 
+    <td> CVPR 2019 </td> 
+    <td> :x: </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> Portrait-sketch paired </td>
+  </tr>
+  <tr>
     <td rowspan="2"><strong>Rough sketch</strong></td>
     <td> <a href="https://esslab.jp/~ess/en/data/davincidataset/">Da Vinci</a> </td> 
     <td> CGI 2018 </td> 
@@ -180,7 +188,14 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> Rough and clean sketch pairs (only for evaluation) </td>  
   </tr>
   <tr>
-    <td rowspan="4"><strong>CAD</strong></td>
+    <td rowspan="5"><strong>CAD</strong></td>
+    <td> <a href="https://gfx.cs.princeton.edu/proj/ld3d/">ld3d</a> </td> 
+    <td> SIGGRAPH 2008 </td> 
+    <td> :x: </td> 
+    <td> :x: </td> 
+    <td> Line Drawings of 3D Shapes </td>
+  </tr>
+  <tr>
     <td> <a href="https://ns.inria.fr/d3/OpenSketch/">OpenSketch</a> </td> 
     <td> SIGGRAPH Asia 2019 </td> 
     <td> :heavy_check_mark: </td> 
@@ -374,7 +389,14 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td><strong>Code/Project Link</strong></td>
   </tr>
   <tr>
-    <td rowspan="4"><strong>Facial</strong></td>
+    <td rowspan="5"><strong>Facial</strong></td>
+    <td> <a href="https://github.com/vijishmadhavan/ArtLine">ArtLine</a> </td> 
+    <td> Online demo </td> 
+    <td> 
+      <a href="https://github.com/vijishmadhavan/ArtLine">[Code]</a> 
+    </td>
+  </tr>
+  <tr>
     <td> <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Yi_APDrawingGAN_Generating_Artistic_Portrait_Drawings_From_Face_Photos_With_Hierarchical_CVPR_2019_paper.pdf">APDrawingGAN: Generating Artistic Portrait Drawings from Face Photos with Hierarchical GANs</a> </td> 
     <td> CVPR 2019 </td> 
     <td> 
@@ -422,12 +444,20 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     </td>
   </tr>
   <tr>
-    <td rowspan="1"><strong>Scene-level</strong></td>
+    <td rowspan="2"><strong>Scene-level</strong></td>
     <td> <a href="https://arxiv.org/pdf/1901.00542.pdf">Photo-Sketching: Inferring Contour Drawings from Images</a> </td> 
     <td> WACV 2019 </td> 
     <td>
       <a href="https://github.com/mtli/PhotoSketch">[Code]</a> 
       <a href="http://www.cs.cmu.edu/~mengtial/proj/sketch/">[Project]</a> 
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://carolineec.github.io/informative_drawings/">Learning to generate line drawings that convey geometry and semantics</a> </td> 
+    <td> CVPR 2022 </td> 
+    <td> 
+      <a href="https://github.com/carolineec/informative-drawings">[Code]</a> 
+      <a href="https://carolineec.github.io/informative_drawings/">[Project]</a> 
     </td>
   </tr>
 </table>
