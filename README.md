@@ -353,7 +353,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
   </tr>
   <tr>
     <td> <a href="https://arxiv.org/abs/2202.05822">CLIPasso: Semantically-Aware Object Sketching</a> </td> 
-    <td> arxiv 22.02 </td> 
+    <td> SIGGRAPH 2022 </td> 
     <td> 
       <a href="https://clipasso.github.io/clipasso/">[Project]</a> 
       <a href="https://github.com/yael-vinker/CLIPasso">[Code]</a>
