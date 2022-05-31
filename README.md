@@ -536,6 +536,7 @@ c) Raster-to-Vector (a.k.a. Vectorization)
 | [General Virtual Sketching Framework for Vector Line Art](https://esslab.jp/publications/HaoranSIGGRAPH2021.pdf) | SIGGRAPH 2021 | [[project]](https://markmohr.github.io/virtual_sketching/) [[code]](https://github.com/MarkMoHR/virtual_sketching) | Learning |
 | [Keypoint-Driven Line Drawing Vectorization via PolyVector Flow](http://www-labs.iro.umontreal.ca/~bmpix/pdf/polyvector_flow.pdf) | SIGGRAPH Asia 2021 | [[project]](https://puhachov.xyz/publications/keypoint-driven-polyvector-flow/) | Learning + Optimization |
 | [End-to-end Line Drawing Vectorization](https://www.aaai.org/AAAI22Papers/AAAI-52.LiuH.pdf) | AAAI 2022 |  | Learning |
+| [Vectorizing Line Drawings of Arbitrary Thickness via Boundary-based Topology Reconstruction](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14485) | CGF 2022 |  | Heuristic |
 
 
 - Rough sketch simplification
