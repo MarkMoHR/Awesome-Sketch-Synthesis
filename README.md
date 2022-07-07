@@ -121,7 +121,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> 50 images for each of the 1000 ImageNet classes </td>  
   </tr>
   <tr>
-    <td rowspan="4"><strong>Scene-level</strong></td>
+    <td rowspan="5"><strong>Scene-level</strong></td>
     <td> <a href="https://sketchyscene.github.io/SketchyScene/">SketchyScene</a> </td> 
     <td> ECCV 2018 </td> 
     <td> :x: </td> 
@@ -148,6 +148,13 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> :x: </td> 
     <td> :heavy_check_mark: </td> 
     <td> Scene sketch, segmentation and normal images </td>  
+  </tr>
+  <tr>
+    <td> <a href="http://www.pinakinathc.me/fscoco/">FS-COCO</a> </td> 
+    <td> ECCV 2022 </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> Scene sketches with text description </td>  
   </tr>
   <tr>
     <td rowspan="2"><strong>Drawing from photos</strong></td>
