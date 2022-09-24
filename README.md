@@ -172,6 +172,14 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> Tracings and freehand drawings of images </td>  
   </tr>
   <tr>
+    <td rowspan="1"><strong>Drawing from 3D models</strong></td>
+    <td> <a href="https://chufengxiao.github.io/DifferSketching/">DifferSketching</a> </td> 
+    <td> SIGGRAPH Asia 2022 </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> :x: </td> 
+    <td> 3D model-sketch paired, with novice and professional ones </td>
+  </tr>
+  <tr>
     <td rowspan="1"><strong>Portrait</strong></td>
     <td> <a href="https://github.com/yiranran/APDrawingGAN">APDrawing</a> </td> 
     <td> CVPR 2019 </td> 
