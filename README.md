@@ -508,6 +508,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | [Cloud2Curve: Generation and Vectorization of Parametric Sketches](https://arxiv.org/abs/2103.15536) | CVPR 2021 | [[project]](https://ayandas.me/pubs/2021/03/01/pub-9.html) |
 | [Neural Strokes: Stylized Line Drawing of 3D Shapes](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Neural_Strokes_Stylized_Line_Drawing_of_3D_Shapes_ICCV_2021_paper.pdf) | ICCV 2021 | [[code]](https://github.com/DifanLiu/NeuralStrokes) |
 | [Learning a Style Space for Interactive Line Drawing Synthesis from Animated 3D Models](https://graphics.cs.yale.edu/sites/default/files/linedrawinganimation_pg2022.pdf) | PG 2022 |  |
+| [CAD2Sketch: Generating Concept Sketches from CAD Sequences](https://repo-sam.inria.fr/d3/cad2sketch/cad2sketch_paper.pdf) | SIGGRAPH Asia 2022 | [[project]](https://ns.inria.fr/d3/cad2sketch/) |
 
 ---
 
