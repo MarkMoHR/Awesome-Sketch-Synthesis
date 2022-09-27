@@ -406,7 +406,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 
 <table>
   <tr>
-    <td><strong>Level</strong></td>
+    <td><strong>Type</strong></td>
     <td><strong>Paper</strong></td>
     <td><strong>Source</strong></td>
     <td><strong>Code/Project Link</strong></td>
@@ -467,6 +467,34 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     </td>
   </tr>
   <tr>
+    <td rowspan="4"><strong>Anime</strong></td>
+    <td> <a href="https://github.com/lllyasviel/sketchKeras">sketchKeras</a> </td> 
+    <td> online demo </td> 
+    <td> 
+      <a href="https://github.com/lllyasviel/sketchKeras">[Code]</a> 
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://github.com/hepesu/LineDistiller">LineDistiller</a> </td> 
+    <td> online demo </td> 
+    <td>
+      <a href="https://github.com/hepesu/LineDistiller">[Code]</a> 
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://github.com/Mukosame/Anime2Sketch">Anime2Sketch</a> </td> 
+    <td> online demo </td> 
+    <td>
+      <a href="https://github.com/Mukosame/Anime2Sketch">[Code]</a> 
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="">Reference Based Sketch Extraction via Attention Mechanism</a> </td> 
+    <td> SIGGRAPH Asia 2022 </td> 
+    <td>
+    </td>
+  </tr>
+  <tr>
     <td rowspan="2"><strong>Scene-level</strong></td>
     <td> <a href="https://arxiv.org/pdf/1901.00542.pdf">Photo-Sketching: Inferring Contour Drawings from Images</a> </td> 
     <td> WACV 2019 </td> 
@@ -489,7 +517,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 
 ### 3) Text/Attribute-to-sketch
 
-| Level | Paper | Source | Code/Project Link |
+| Type | Paper | Source | Code/Project Link |
 | --- | --- | --- | --- |
 | **Facial** | [Text2Sketch: Learning Face Sketch from Facial Attribute Text](https://ieeexplore.ieee.org/abstract/document/8451236) | ICIP 2018 |  |
 | **Scene-level** | [Sketchforme: Composing Sketched Scenes from Text Descriptions for Interactive Applications](https://arxiv.org/pdf/1904.04399.pdf) | UIST 2019 |  |
