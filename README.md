@@ -278,8 +278,8 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> <a href="https://facex.idvxlab.com/">[Project]</a> </td>
   </tr>
   <tr>
-    <td> <a href="https://arxiv.org/pdf/1901.03427.pdf">Stroke-based sketched symbol reconstruction and segmentation (stroke-rnn)</a> </td> 
-    <td> </td> 
+    <td> <a href="https://ieeexplore.ieee.org/abstract/document/8854308">Stroke-based sketched symbol reconstruction and segmentation (stroke-rnn)</a> </td> 
+    <td> CGA 2019 </td> 
     <td> </td>
   </tr>
   <tr>
