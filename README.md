@@ -17,8 +17,7 @@ A collection of papers about Sketch Synthesis (Generation). Mainly focus on stro
   - [2) Photo-to-sketch](#2-photo-to-sketch)
   - [3) Text/Attribute-to-sketch](#3-textattribute-to-sketch)
   - [4) 3D shape-to-sketch](#4-3d-shape-to-sketch)
-  - [5) Sketch(vector)-to-sketch(vector)](#5-sketchvector-to-sketchvector)
-  - [6) Art-to-sketch](#6-art-to-sketch)
+  - [5) Art-to-sketch](#5-art-to-sketch)
 - [3. Vector Graphics Generation](#3-vector-graphics-generation)
 
 ---
@@ -334,25 +333,10 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td><strong>Code/Project Link</strong></td>
   </tr>
   <tr>
-    <td rowspan="3"><strong>Facial</strong></td>
+    <td rowspan="1"><strong>Facial</strong></td>
     <td> <a href="https://dl.acm.org/citation.cfm?id=2461964">Style and abstraction in portrait sketching</a> </td> 
     <td> TOG 2013 </td> 
     <td>
-    </td>
-  </tr>
-  <tr>
-    <td> <a href="https://arxiv.org/abs/2005.05526">Making Robots Draw A Vivid Portrait In Two Minutes</a> </td> 
-    <td> IROS 2020 </td> 
-    <td> 
-      <a href="https://github.com/Ricelll/AiSketcher">[Code]</a> 
-      <a href="https://ricelll.github.io/AiSketcher/">[Project]</a> 
-    </td>
-  </tr>
-  <tr>
-    <td> <a href="https://arxiv.org/abs/1912.05099">RoboCoDraw: Robotic Avatar Drawing with GAN-based Style Transfer and Time-efficient Path Optimization</a> </td> 
-    <td> AAAI 2020 </td> 
-    <td> 
-      <a href="https://github.com/Psyche-mia/Avatar-GAN">[Code]</a> 
     </td>
   </tr>
   <tr>
@@ -449,14 +433,9 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     </td>
   </tr>
   <tr>
-    <td rowspan="3"><strong>Instance-level</strong></td>
+    <td rowspan="2"><strong>Instance-level</strong></td>
     <td> <a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Kaiyue_Pang_Deep_Factorised_Inverse-Sketching_ECCV_2018_paper.pdf">Deep Factorised Inverse-Sketching</a> </td> 
     <td> ECCV 2018 </td> 
-    <td> </td>
-  </tr>
-  <tr>
-    <td> <a href="https://www.spiedigitallibrary.org/journals/Journal-of-Electronic-Imaging/volume-27/issue-6/063006/Making-better-use-of-edges-for-sketch-generation/10.1117/1.JEI.27.6.063006.short?SSO=1">Making better use of edges for sketch generation</a> </td> 
-    <td> JEI 2018 </td> 
     <td> </td>
   </tr>
   <tr>
@@ -540,20 +519,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 
 ---
 
-
-### 5) Sketch(vector)-to-sketch(vector)
-
-
-This means translating a disordered vector sketch into an ordered sequential sketch imitating human's drawing order. The appearance of the sequential sketch is exactly the **same** as the pixelwise one.
-
-
-| Paper | Source | Code/Project Link |
-| --- | --- | --- |
-| [Animated Construction of Line Drawings](http://sweb.cityu.edu.hk/hongbofu/projects/animatedConstructionOfLineDrawings_SiggA11/animatedConstructionOfLineDrawings_SiggA11.pdf) | SIGGRAPH ASIA 2011 | [[Project]](http://sweb.cityu.edu.hk/hongbofu/projects/animatedConstructionOfLineDrawings_SiggA11/) [[code]](http://sweb.cityu.edu.hk/hongbofu/projects/animatedConstructionOfLineDrawings_SiggA11/Viewer_src.zip) [[Demo]](http://sweb.cityu.edu.hk/hongbofu/projects/animatedConstructionOfLineDrawings_SiggA11/Viewer.zip) |
-
----
-
-### 6) Art-to-sketch
+### 5) Art-to-sketch
 
 Here we list sketch synthesis based on other image types, like Manga, line art, rough sketch, etc.
 
