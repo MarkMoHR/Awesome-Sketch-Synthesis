@@ -523,15 +523,9 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 
 Here we list sketch synthesis based on other image types, like Manga, line art, rough sketch, etc.
 
-- Line art
+a) Line art
 
-a) Datasets and benchmark
-
-| Paper | Source | Code/Project Link |
-| --- | --- | --- |
-| [A Benchmark for Rough Sketch Cleanup](https://hal.archives-ouvertes.fr/hal-02939477/document) | SIGGRAPH Asia 2020 | [[Project]](https://cragl.cs.gmu.edu/sketchbench/)  [[Code]](https://github.com/Nauhcnay/A-Benchmark-for-Rough-Sketch-Cleanup) |
-
-b) Vector-to-Vector
+- Vector-to-Vector
 
 | Paper | Source | Code/Project Link | \*-based |
 | --- | --- | --- | --- |
@@ -539,7 +533,7 @@ b) Vector-to-Vector
 | [StrokeAggregator: Consolidating Raw Sketches into Artist-Intended Curve Drawings](https://www.cs.ubc.ca/labs/imager/tr/2018/StrokeAggregator/StrokeAggregator_authorversion.pdf) | SIGGRAPH 2018 | [[Project]](https://www.cs.ubc.ca/labs/imager/tr/2018/StrokeAggregator/) | Optimization |
 | [StrokeStrip: Joint Parameterization and Fitting of Stroke Clusters](https://www.davepagurek.com/programming/strokestrip/) | SIGGRAPH 2021 | [[Project]](https://www.davepagurek.com/programming/strokestrip/) [[code]](https://github.com/davepagurek/StrokeStrip) | Optimization |
 
-c) Raster-to-Vector (a.k.a. Vectorization)
+- Raster-to-Vector (a.k.a. Vectorization)
 
 | Paper | Source | Code/Project Link | \*-based |
 | --- | --- | --- | --- |
@@ -558,7 +552,15 @@ c) Raster-to-Vector (a.k.a. Vectorization)
 | [Vectorizing Line Drawings of Arbitrary Thickness via Boundary-based Topology Reconstruction](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14485) | CGF 2022 |  | Heuristic |
 
 
-- Rough sketch simplification
+b) Rough sketch simplification / cleanup
+
+- Datasets and benchmark
+
+| Paper | Source | Code/Project Link |
+| --- | --- | --- |
+| [A Benchmark for Rough Sketch Cleanup](https://hal.archives-ouvertes.fr/hal-02939477/document) | SIGGRAPH Asia 2020 | [[Project]](https://cragl.cs.gmu.edu/sketchbench/)  [[Code]](https://github.com/Nauhcnay/A-Benchmark-for-Rough-Sketch-Cleanup) |
+
+- Methods
 
 | Paper | Source | Code/Project Link |
 | --- | --- | --- | 
@@ -567,7 +569,7 @@ c) Raster-to-Vector (a.k.a. Vectorization)
 | [Real-Time Data-Driven Interactive Rough Sketch Inking](https://esslab.jp/~ess/publications/SimoSerraSIGGRAPH2018.pdf) | SIGGRAPH 2018 | [[Code]](https://github.com/bobbens/line_thinning) [[Project]](https://esslab.jp/~ess/en/research/inking/) |
 | [Perceptual-aware Sketch Simplification Based on Integrated VGG Layers](https://ieeexplore.ieee.org/abstract/document/8771128/) | TVCG 2019 |  |
 
-- Manga (Comics)
+c) Manga (Comics)
 
 | Paper | Source | Code/Project Link |
 | --- | --- | --- | 
