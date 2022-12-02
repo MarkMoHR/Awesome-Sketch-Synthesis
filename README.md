@@ -367,20 +367,27 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     </td>
   </tr>
   <tr>
+    <td rowspan="2"><strong>Scene-level</strong></td>
+    <td> <a href="https://arxiv.org/abs/2211.17256">CLIPascene: Scene Sketching with Different Types and Levels of Abstraction</a> </td> 
+    <td> arxiv 22.11 </td> 
+    <td> 
+      <a href="https://clipascene.github.io/CLIPascene/">[Project]</a> 
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://arxiv.org/abs/2012.09004">Sketch Generation with Drawing Process Guided by Vector Flow and Grayscale</a> </td> 
+    <td> AAAI 2021 </td> 
+    <td>
+      <a href="https://github.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale">[Code]</a> 
+    </td>
+  </tr>
+  <tr>
     <td rowspan="1"><strong>Technical Drawings</strong></td>
     <td> <a href="https://arxiv.org/abs/2003.05471">Deep Vectorization of Technical Drawings</a> </td> 
     <td> ECCV 2020 </td> 
     <td>
       <a href="http://adase.group/3ddl/projects/vectorization/">[Project]</a> 
       <a href="https://github.com/Vahe1994/Deep-Vectorization-of-Technical-Drawings">[code]</a> 
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="1"><strong>Scene-level</strong></td>
-    <td> <a href="https://arxiv.org/abs/2012.09004">Sketch Generation with Drawing Process Guided by Vector Flow and Grayscale</a> </td> 
-    <td> AAAI 2021 </td> 
-    <td>
-      <a href="https://github.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale">[Code]</a> 
     </td>
   </tr>
 </table>
