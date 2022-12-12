@@ -291,7 +291,9 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
   <tr>
     <td> <a href="https://arxiv.org/abs/2007.02190">BézierSketch: A generative model for scalable vector sketches</a> </td> 
     <td> ECCV 2020 </td> 
-    <td>  </td>
+    <td> 
+      <a href="https://github.com/dasayan05/stroke-ae">[Code]</a>  
+    </td>
   </tr>
   <tr>
     <td> <a href="http://sketchx.ai/pixelor">Pixelor: A Competitive Sketching AI Agent. So you think you can beat me?</a> </td> 
