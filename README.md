@@ -487,6 +487,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> <a href="https://dl.acm.org/doi/10.1145/3550454.3555504">Reference Based Sketch Extraction via Attention Mechanism</a> </td> 
     <td> SIGGRAPH Asia 2022 </td> 
     <td>
+      <a href="https://github.com/ref2sketch/ref2sketch">[Code]</a> 
     </td>
   </tr>
   <tr>
