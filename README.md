@@ -262,7 +262,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td><strong>Code/Project Link</strong></td>
   </tr>
   <tr>
-    <td rowspan="9"><strong>Instance-level</strong></td>
+    <td rowspan="10"><strong>Instance-level</strong></td>
     <td> <a href="https://openreview.net/pdf?id=Hy6GHpkCW">A Neural Representation of Sketch Drawings (sketch-rnn)</a> </td> 
     <td> ICLR 2018 </td> 
     <td> 
@@ -323,6 +323,12 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> 
       <a href="https://ankanbhunia.github.io/doodleformer/">[Project]</a> 
       <a href="https://github.com/ankanbhunia/doodleformer">[Code]</a> 
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://openreview.net/forum?id=4eJ43EN2g6l">SketchKnitter: Vectorized Sketch Generation with Diffusion Models</a> </td> 
+    <td> ICLR 2023 </td> 
+    <td> 
     </td>
   </tr>
   
