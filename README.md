@@ -194,6 +194,14 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> Portrait-sketch paired </td>
   </tr>
   <tr>
+    <td rowspan="1"><strong>Anime portrait</strong></td>
+    <td> <a href="https://github.com/zsl2018/StyleAnime">Danbooru-Parsing</a> </td> 
+    <td> TOG 2023 </td> 
+    <td> :x: </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> For anime portrait parsing and anime translation </td>
+  </tr>
+  <tr>
     <td rowspan="2"><strong>Rough sketch</strong></td>
     <td> <a href="https://esslab.jp/~ess/en/data/davincidataset/">Da Vinci</a> </td> 
     <td> CGI 2018 </td> 
