@@ -542,7 +542,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | --- | --- | --- | --- |
 | **Arbitrary** | [CLIPDraw: Exploring Text-to-Drawing Synthesis through Language-Image Encoders](https://arxiv.org/abs/2106.14843) | arxiv 21.06 | [[code]](https://colab.research.google.com/github/kvfrans/clipdraw/blob/main/clipdraw.ipynb) |
 | **Arbitrary** | [Modern Evolution Strategies for Creativity: Fitting Concrete Images and Abstract Concepts](https://arxiv.org/abs/2109.08857) | arxiv 21.09 | [[code]](https://github.com/google/brain-tokyo-workshop) [[project]](https://es-clip.github.io/) |
-| **Arbitrary** | [VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models](https://arxiv.org/abs/2211.11319) | arxiv 22.11 |  [[project]](https://ajayj.com/vectorfusion) |
+| **Arbitrary** | [VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models](https://arxiv.org/abs/2211.11319) | CVPR 2023 |  [[project]](https://ajayj.com/vectorfusion) |
 
 ---
 
