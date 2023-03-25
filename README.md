@@ -337,6 +337,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> <a href="https://openreview.net/forum?id=4eJ43EN2g6l">SketchKnitter: Vectorized Sketch Generation with Diffusion Models</a> </td> 
     <td> ICLR 2023 </td> 
     <td> 
+      <a href="https://github.com/XDUWQ/SketchKnitter">[Code]</a> 
     </td>
   </tr>
   
