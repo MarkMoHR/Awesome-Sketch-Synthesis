@@ -278,7 +278,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td><strong>Code/Project Link</strong></td>
   </tr>
   <tr>
-    <td rowspan="10"><strong>Instance-level</strong></td>
+    <td rowspan="11"><strong>Instance-level</strong></td>
     <td> <a href="https://openreview.net/pdf?id=Hy6GHpkCW">A Neural Representation of Sketch Drawings (sketch-rnn)</a> </td> 
     <td> ICLR 2018 </td> 
     <td> 
@@ -346,6 +346,13 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> ICLR 2023 </td> 
     <td> 
       <a href="https://github.com/XDUWQ/SketchKnitter">[Code]</a> 
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://ieeexplore.ieee.org/abstract/document/10144693">Self-Organizing a Latent Hierarchy of Sketch Patterns for Controllable Sketch Synthesis</a> </td> 
+    <td> TNNLS 2023 </td> 
+    <td> 
+      <a href="https://github.com/CMACH508/RPCL-pix2seqH">[Code]</a> 
     </td>
   </tr>
   
