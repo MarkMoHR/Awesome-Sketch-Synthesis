@@ -677,4 +677,5 @@ Here we focus on learning-based vector graphics generation **without** depending
 | [PolyFit: Perception-aligned Vectorization of Raster Clip-art via Intermediate Polygonal Fitting](http://www.cs.ubc.ca/labs/imager/tr/2020/ClipArtVectorization/paper.pdf) | SIGGRAPH 2020 | [[Webpage]](http://www.cs.ubc.ca/labs/imager/tr/2020/ClipArtVectorization/) [[Code]](https://github.com/dedoardo/polyfit) |
 | [ClipGen: A Deep Generative Model for Clipart Vectorization and Synthesis](https://ieeexplore.ieee.org/abstract/document/9444657) | TVCG 2021 |  |
 | [TCB-Spline-Based Image Vectorization](https://dl.acm.org/doi/10.1145/3513132) | TOG 2022 |  |
+| [Image vectorization and editing via linear gradient layer decomposition](https://cragl.cs.gmu.edu/gradientlayers/Image%20vectorization%20and%20editing%20via%20linear%20gradient%20layer%20decomposition%20(Zheng-Jun%20Du,%20Liang-Fu%20Kang,%20Jianchao%20Tan,%20Yotam%20Gingold,%20Kun%20Xu%202023%20SIGGRAPH)%20small.pdf) | SIGGRAPH 2023 |  |
 
