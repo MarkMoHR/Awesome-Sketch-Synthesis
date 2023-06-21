@@ -537,6 +537,15 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
       <a href="https://carolineec.github.io/informative_drawings/">[Project]</a> 
     </td>
   </tr>
+  <tr>
+    <td rowspan="1"><strong>Arbitrary</strong></td>
+    <td> <a href="https://chanuku.github.io/Semi_ref2sketch/">Semi-supervised reference-based sketch extraction using a contrastive learning</a> </td> 
+    <td> SIGGRAPH 2023 </td> 
+    <td>
+      <a href="https://github.com/Chanuku/semi_ref2sketch_code">[Code]</a> 
+      <a href="https://chanuku.github.io/Semi_ref2sketch/">[Project]</a> 
+    </td>
+  </tr>
 </table>
 
 ---
