@@ -539,7 +539,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
   </tr>
   <tr>
     <td rowspan="1"><strong>Arbitrary</strong></td>
-    <td> <a href="https://chanuku.github.io/Semi_ref2sketch/">Semi-supervised reference-based sketch extraction using a contrastive learning</a> </td> 
+    <td> <a href="https://dl.acm.org/doi/abs/10.1145/3592392">Semi-supervised reference-based sketch extraction using a contrastive learning</a> </td> 
     <td> SIGGRAPH 2023 </td> 
     <td>
       <a href="https://github.com/Chanuku/semi_ref2sketch_code">[Code]</a> 
@@ -599,6 +599,7 @@ a) Line art
 | [Closure-aware Sketch Simplification](http://www.cse.cuhk.edu.hk/~ttwong/papers/sketch/sketch.pdf) | SIGGRAPH Asia 2015 | [[Project]](https://www.cse.cuhk.edu.hk/~ttwong/papers/sketch/sketch.html) | Optimization |
 | [StrokeAggregator: Consolidating Raw Sketches into Artist-Intended Curve Drawings](https://www.cs.ubc.ca/labs/imager/tr/2018/StrokeAggregator/StrokeAggregator_authorversion.pdf) | SIGGRAPH 2018 | [[Project]](https://www.cs.ubc.ca/labs/imager/tr/2018/StrokeAggregator/) | Optimization |
 | [StrokeStrip: Joint Parameterization and Fitting of Stroke Clusters](https://www.davepagurek.com/programming/strokestrip/) | SIGGRAPH 2021 | [[Project]](https://www.davepagurek.com/programming/strokestrip/) [[code]](https://github.com/davepagurek/StrokeStrip) | Optimization |
+| [StripMaker: Perception-driven Learned Vector Sketch Consolidation](https://dl.acm.org/doi/abs/10.1145/3592130) | SIGGRAPH 2023 |  | Optimization |
 
 - Raster-to-Vector (a.k.a. Vectorization)
 
