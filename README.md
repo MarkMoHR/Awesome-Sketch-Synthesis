@@ -646,7 +646,7 @@ c) Manga (Comics)
 | [Manga Filling Style Conversion with Screentone Variational Autoencoder](https://www.cse.cuhk.edu.hk/~ttwong/papers/screenstyle/screenstyle.html) | SIGGRAPH Asia 2020 | [[Project]](https://www.cse.cuhk.edu.hk/~ttwong/papers/screenstyle/screenstyle.html) [[Code]](https://github.com/msxie92/ScreenStyle) |
 | [Generating Manga from Illustrations via Mimicking Manga Workflow](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Generating_Manga_From_Illustrations_via_Mimicking_Manga_Creation_Workflow_CVPR_2021_paper.pdf) | CVPR 2021 | [[Project]](https://lllyasviel.github.io/MangaFilter/) [[Code]](https://github.com/lllyasviel/MangaFilter) |
 | [MangaGAN: Unpaired Photo-to-Manga Translation Based on The Methodology of Manga Drawing](https://arxiv.org/abs/2004.10634) | AAAI 2021 | |
-| [Vectorization of Raster Manga by Deep Reinforcement Learning](https://arxiv.org/abs/2110.04830) | arxiv 2110 | |
+| [MARVEL: Raster Gray-level Manga Vectorization via Primitive-wise Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10233891) | TCSVT 2023 | |
 
 
 
