@@ -407,17 +407,18 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
   </tr>
   <tr>
     <td rowspan="2"><strong>Scene-level</strong></td>
-    <td> <a href="https://arxiv.org/abs/2211.17256">CLIPascene: Scene Sketching with Different Types and Levels of Abstraction</a> </td> 
-    <td> arxiv 22.11 </td> 
-    <td> 
-      <a href="https://clipascene.github.io/CLIPascene/">[Project]</a> 
-    </td>
-  </tr>
-  <tr>
     <td> <a href="https://arxiv.org/abs/2012.09004">Sketch Generation with Drawing Process Guided by Vector Flow and Grayscale</a> </td> 
     <td> AAAI 2021 </td> 
     <td>
       <a href="https://github.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale">[Code]</a> 
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://arxiv.org/abs/2211.17256">CLIPascene: Scene Sketching with Different Types and Levels of Abstraction</a> </td> 
+    <td> ICCV 2023 </td> 
+    <td> 
+      <a href="https://clipascene.github.io/CLIPascene/">[Project]</a> 
+      <a href="https://github.com/yael-vinker/SceneSketch">[Code]</a> 
     </td>
   </tr>
   <tr>
@@ -442,7 +443,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td><strong>Code/Project Link</strong></td>
   </tr>
   <tr>
-    <td rowspan="5"><strong>Facial</strong></td>
+    <td rowspan="6"><strong>Facial</strong></td>
     <td> <a href="https://github.com/vijishmadhavan/ArtLine">ArtLine</a> </td> 
     <td> Online demo </td> 
     <td> 
@@ -476,6 +477,13 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> TPAMI 2022 </td> 
     <td> 
       <a href="https://github.com/yiranran/QMUPD">[Code]</a> 
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://arxiv.org/abs/2309.00216">Human-Inspired Facial Sketch Synthesis with Dynamic Adaptation</a> </td> 
+    <td> ICCV 2023 </td> 
+    <td> 
+      <a href="https://github.com/AiArt-HDU/HIDA">[Code]</a> 
     </td>
   </tr>
   <tr>
