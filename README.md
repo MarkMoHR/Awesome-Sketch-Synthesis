@@ -674,6 +674,7 @@ Here we focus on learning-based vector graphics generation **without** depending
 
 | Paper | Source | Code/Project Link |
 | --- | --- | --- |
+| [Stroke-based Neural Painting and Stylization with Dynamically Predicted Painting Region](https://arxiv.org/abs/2309.03504) | ACM MM 2023 | [[code]](https://github.com/sjtuplayer/Compositional_Neural_Painter) |
 | [Intelli-Paint: Towards Developing More Human-Intelligible Painting Agents](https://arxiv.org/abs/2112.08930) | ECCV 2022 | [[project]](https://1jsingh.github.io/intelli-paint) |
 | [Towards Layer-wise Image Vectorization](https://ma-xu.github.io/LIVE/index_files/CVPR22_LIVE_main.pdf) | CVPR 2022 | [[code]](https://github.com/ma-xu/LIVE) [[project]](https://ma-xu.github.io/LIVE/) |
 | [Paint Transformer: Feed Forward Neural Painting with Stroke Prediction](https://arxiv.org/abs/2108.03798) | ICCV 2021 | [[code]](https://github.com/Huage001/PaintTransformer) |
