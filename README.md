@@ -578,7 +578,8 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | **Arbitrary** | [VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models](https://arxiv.org/abs/2211.11319) | CVPR 2023 |  [[project]](https://ajayj.com/vectorfusion) |
 | **Arbitrary** | [SketchDreamer: Interactive Text-Augmented Creative Sketch Ideation](https://arxiv.org/abs/2308.14191) | BMVC 2023 |  [[code]](https://github.com/WinKawaks/SketchDreamer) |
 | **Arbitrary** | [DiffSketcher: Text Guided Vector Sketch Synthesis through Latent Diffusion Models](https://arxiv.org/abs/2306.14685) | NeurIPS 2023 |  [[project]](https://ximinng.github.io/DiffSketcher-project/) [[code]](https://github.com/ximinng/DiffSketcher) |
-| **Icon** | [IconShop: Text-Based Vector Icon Synthesis with Autoregressive Transformers](https://arxiv.org/abs/2304.14400) | arxiv 23.04 |  [[project]](https://kingnobro.github.io/iconshop/) [[code]](https://github.com/kingnobro/IconShop) |
+| **Icon** | [IconShop: Text-Based Vector Icon Synthesis with Autoregressive Transformers](https://arxiv.org/abs/2304.14400) | SIGGRAPH Asia 2023 |  [[project]](https://kingnobro.github.io/iconshop/) [[code]](https://github.com/kingnobro/IconShop) |
+| **SVG** | [Text-Guided Vector Graphics Customization](https://arxiv.org/abs/2309.12302) | SIGGRAPH Asia 2023 |  [[project]](https://intchous.github.io/SVGCustomization/)  |
 
 ---
 
