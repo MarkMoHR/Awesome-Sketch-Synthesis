@@ -628,6 +628,7 @@ a) Line art
 | [Keypoint-Driven Line Drawing Vectorization via PolyVector Flow](http://www-labs.iro.umontreal.ca/~bmpix/pdf/polyvector_flow.pdf) | SIGGRAPH Asia 2021 | [[project]](https://puhachov.xyz/publications/keypoint-driven-polyvector-flow/) | Learning + Optimization |
 | [End-to-end Line Drawing Vectorization](https://www.aaai.org/AAAI22Papers/AAAI-52.LiuH.pdf) | AAAI 2022 |  | Learning |
 | [Vectorizing Line Drawings of Arbitrary Thickness via Boundary-based Topology Reconstruction](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14485) | CGF 2022 |  | Heuristic |
+| [Singularity-Free Frame Fields for Line Drawing Vectorization](https://diglib.eg.org/handle/10.1111/cgf14901) | SGP 2023 | [[code]](https://github.com/SingularityFreeFrameFields/Code) | Optimization |
 
 
 b) Rough sketch simplification / cleanup
