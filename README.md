@@ -63,6 +63,14 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> Japanese characters </td>
   </tr>
   <tr>
+    <td rowspan="1"><strong>Icon</strong></td>
+    <td> <a href="https://github.com/marcdemers/FIGR-8-SVG">FIGR-8-SVG</a> </td> 
+    <td> </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> :x: </td> 
+    <td>  </td>
+  </tr>
+  <tr>
     <td rowspan="8"><strong>Instance-level</strong></td>
     <td> <a href="http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/">TU-Berlin</a> </td> 
     <td> SIGGRAPH 2012 </td> 
