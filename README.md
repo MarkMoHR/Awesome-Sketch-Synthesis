@@ -68,7 +68,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> </td> 
     <td> :heavy_check_mark: </td> 
     <td> :x: </td> 
-    <td>  </td>
+    <td> Icons with text descriptions </td>
   </tr>
   <tr>
     <td rowspan="8"><strong>Instance-level</strong></td>
