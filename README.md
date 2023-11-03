@@ -71,6 +71,14 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> Icons with text descriptions </td>
   </tr>
   <tr>
+    <td rowspan="1"><strong>Systematic Symbol</strong></td>
+    <td> <a href="https://github.com/GuangmingZhu/SketchIME">SketchIME</a> </td> 
+    <td> ACM MM 2023</td> 
+    <td> :heavy_check_mark: </td> 
+    <td> :x: </td> 
+    <td> Systematic sketches with semantic annotations </td>
+  </tr>
+  <tr>
     <td rowspan="8"><strong>Instance-level</strong></td>
     <td> <a href="http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/">TU-Berlin</a> </td> 
     <td> SIGGRAPH 2012 </td> 
