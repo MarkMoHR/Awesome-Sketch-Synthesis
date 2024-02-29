@@ -79,7 +79,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> Systematic sketches with semantic annotations </td>
   </tr>
   <tr>
-    <td rowspan="8"><strong>Instance-level</strong></td>
+    <td rowspan="9"><strong>Instance-level</strong></td>
     <td> <a href="http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/">TU-Berlin</a> </td> 
     <td> SIGGRAPH 2012 </td> 
     <td> :heavy_check_mark: </td> 
@@ -134,6 +134,13 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> :x: </td> 
     <td> :x: </td> 
     <td> 50 images for each of the 1000 ImageNet classes </td>  
+  </tr>
+  <tr>
+    <td> <a href="https://seva-benchmark.github.io/">SEVA</a> </td> 
+    <td> NeurIPS 2023 </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> 90K human-generated sketches that vary in detail </td>  
   </tr>
   <tr>
     <td rowspan="6"><strong>Scene-level</strong></td>
