@@ -700,6 +700,7 @@ Here we focus on learning-based vector graphics generation **without** depending
 
 | Paper | Source | Code/Project Link |
 | --- | --- | --- |
+| [Optimize and Reduce: A Top-Down Approach for Image Vectorization](https://arxiv.org/abs/2312.11334) | AAAI 2024 | [[code]](https://github.com/ajevnisek/optimize-and-reduce) |
 | [Segmentation-Based Parametric Painting](https://arxiv.org/abs/2311.14271) | arxiv 23.11 | [[code]](https://github.com/manuelladron/semantic_based_painting) [[project]](https://manuelladron.github.io/semantic_based_painting/) |
 | [Editable Image Geometric Abstraction via Neural Primitive Assembly](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Editable_Image_Geometric_Abstraction_via_Neural_Primitive_Assembly_ICCV_2023_paper.pdf) | ICCV 2023 |  |
 | [Stroke-based Neural Painting and Stylization with Dynamically Predicted Painting Region](https://arxiv.org/abs/2309.03504) | ACM MM 2023 | [[code]](https://github.com/sjtuplayer/Compositional_Neural_Painter) |
