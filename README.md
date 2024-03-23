@@ -466,7 +466,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td><strong>Code/Project Link</strong></td>
   </tr>
   <tr>
-    <td rowspan="6"><strong>Facial</strong></td>
+    <td rowspan="7"><strong>Facial</strong></td>
     <td> <a href="https://github.com/vijishmadhavan/ArtLine">ArtLine</a> </td> 
     <td> Online demo </td> 
     <td> 
@@ -507,6 +507,14 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> ICCV 2023 </td> 
     <td> 
       <a href="https://github.com/AiArt-HDU/HIDA">[Code]</a> 
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://arxiv.org/abs/2403.11263">Stylized Face Sketch Extraction via Generative Prior with Limited Data</a> </td> 
+    <td> EG 2024 </td> 
+    <td> 
+      <a href="https://github.com/kwanyun/StyleSketch/">[Code]</a> 
+      <a href="https://kwanyun.github.io/stylesketch_project/">[Project]</a> 
     </td>
   </tr>
   <tr>
