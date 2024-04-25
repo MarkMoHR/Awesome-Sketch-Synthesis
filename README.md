@@ -101,7 +101,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> Multi-category hand sketches </td>
   </tr>
   <tr>
-    <td> <a href="http://www.eecs.qmul.ac.uk/~qian/Project_cvpr16.html">QMUL-Shoe-Chair-V2</a> </td> 
+    <td> <a href="https://drive.google.com/file/d/15s2BR-QwLgX_DObQBrYlUlZqUU90EL9G/view">QMUL-Shoe-Chair-V2</a> </td> 
     <td> CVPR 2016 </td> 
     <td> :heavy_check_mark: </td> 
     <td> :heavy_check_mark: </td> 
