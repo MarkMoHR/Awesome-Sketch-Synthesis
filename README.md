@@ -209,12 +209,26 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> 3D model-sketch paired, with novice and professional ones </td>
   </tr>
   <tr>
-    <td rowspan="1"><strong>Portrait</strong></td>
+    <td rowspan="3"><strong>Portrait</strong></td>
+    <td> <a href="https://mmlab.ie.cuhk.edu.hk/datasets.html">CUFS</a> </td> 
+    <td> TPAMI 2009 </td> 
+    <td> :x: </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> Face-sketch pairs </td>  
+  </tr>
+  <tr>
     <td> <a href="https://github.com/yiranran/APDrawingGAN">APDrawing</a> </td> 
     <td> CVPR 2019 </td> 
     <td> :x: </td> 
     <td> :heavy_check_mark: </td> 
     <td> Portrait-sketch paired </td>
+  </tr>
+  <tr>
+    <td> <a href="https://github.com/kwanyun/SKSF-A">SKSF-A</a> </td> 
+    <td> EG 2024 </td> 
+    <td> :x: </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> Face-sketch pairs of seven styles </td>  
   </tr>
   <tr>
     <td rowspan="1"><strong>Anime portrait</strong></td>
