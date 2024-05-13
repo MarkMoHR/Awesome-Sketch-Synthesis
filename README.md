@@ -467,6 +467,14 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
       <a href="https://github.com/Vahe1994/Deep-Vectorization-of-Technical-Drawings">[code]</a> 
     </td>
   </tr>
+  <tr>
+    <td rowspan="1"><strong>3D Strokes</strong></td>
+    <td> <a href="https://arxiv.org/abs/2402.03690">3Doodle: Compact Abstraction of Objects with 3D Strokes</a> </td> 
+    <td> SIGGRAPH 2024 </td> 
+    <td>
+      <a href="https://github.com/changwoonchoi/3Doodle">[code]</a> 
+    </td>
+  </tr>
 </table>
 
 
