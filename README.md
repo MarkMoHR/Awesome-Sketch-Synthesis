@@ -231,13 +231,63 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> Face-sketch pairs of seven styles </td>  
   </tr>
   <tr>
-    <td rowspan="1"><strong>Anime portrait</strong></td>
+    <td rowspan="8"><strong>Anime</strong></td>
+    <td> <a href="https://gwern.net/danbooru2021">Danbooru2021</a> </td> 
+    <td> / </td> 
+    <td> :x: </td> 
+    <td> :x: </td> 
+    <td>  </td>
+  </tr>
+  <tr>
+    <td> <a href="https://github.com/lllyasviel/DanbooRegion">DanbooRegion</a> </td> 
+    <td> ECCV 2020 </td> 
+    <td> :x: </td> 
+    <td> :x: </td> 
+    <td>  </td>
+  </tr>
+  <tr>
     <td> <a href="https://github.com/zsl2018/StyleAnime">Danbooru-Parsing</a> </td> 
     <td> TOG 2023 </td> 
     <td> :x: </td> 
     <td> :heavy_check_mark: </td> 
     <td> For anime portrait parsing and anime translation </td>
   </tr>
+  <tr>
+    <td> <a href="https://github.com/ykdai/BasicPBC/tree/main/dataset">PaintBucket-Character</a> </td> 
+    <td> CVPR 2024 </td> 
+    <td> :x: </td> 
+    <td> :x: </td> 
+    <td>  </td>
+  </tr>
+  <tr>
+    <td> <a href="https://github.com/zhenglinpan/SakugaDataset">Sakuga-42M</a> </td> 
+    <td> arxiv 24.05 </td> 
+    <td> :x: </td> 
+    <td> :x: </td> 
+    <td>  </td>
+  </tr>
+  <tr>
+    <td> <a href="https://www.cs.toronto.edu/creativeflow/">CreativeFlow+</a> </td> 
+    <td> CVPR 2019 </td> 
+    <td> :x: </td> 
+    <td> :x: </td> 
+    <td>  </td>
+  </tr>
+  <tr>
+    <td> <a href="https://github.com/lisiyao21/AnimeInterp">ATD-12K</a> </td> 
+    <td> CVPR 2021 </td> 
+    <td> :x: </td> 
+    <td> :x: </td> 
+    <td>  </td>
+  </tr>
+  <tr>
+    <td> <a href="https://lisiyao21.github.io/projects/AnimeRun">AnimeRun</a> </td> 
+    <td> NeurIPS 2022 </td> 
+    <td> :x: </td> 
+    <td> :x: </td> 
+    <td>  </td>
+  </tr>
+  
   <tr>
     <td rowspan="1"><strong>Children's Drawing</strong></td>
     <td> <a href="https://github.com/facebookresearch/AnimatedDrawings">Amateur Drawings</a> </td> 
