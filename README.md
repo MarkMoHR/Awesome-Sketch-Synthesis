@@ -685,6 +685,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | **SVG** | [Text-Guided Vector Graphics Customization](https://arxiv.org/abs/2309.12302) | SIGGRAPH Asia 2023 |  [[project]](https://intchous.github.io/SVGCustomization/)  |
 | **SVG** | [SVGDreamer: Text Guided SVG Generation with Diffusion Model](https://arxiv.org/abs/2312.16476) | CVPR 2024 |  [[project]](https://ximinng.github.io/SVGDreamer-project/) [[code]](https://github.com/ximinng/SVGDreamer) |
 | **Arbitrary** | [SVGCraft: Beyond Single Object Text-to-SVG Synthesis with Comprehensive Canvas Layout](https://arxiv.org/abs/2404.00412v1) | arxiv 24.04 | [[code]](https://github.com/ayanban011/SVGCraft) |
+| **SVG** | [VectorPainter: A Novel Approach to Stylized Vector Graphics Synthesis with Vectorized Strokes](https://arxiv.org/abs/2405.02962) | arxiv 24.05 |  |
 
 ---
 
