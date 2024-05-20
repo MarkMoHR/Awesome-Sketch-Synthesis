@@ -684,6 +684,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | **Icon** | [IconShop: Text-Based Vector Icon Synthesis with Autoregressive Transformers](https://arxiv.org/abs/2304.14400) | SIGGRAPH Asia 2023 |  [[project]](https://icon-shop.github.io/) |
 | **SVG** | [Text-Guided Vector Graphics Customization](https://arxiv.org/abs/2309.12302) | SIGGRAPH Asia 2023 |  [[project]](https://intchous.github.io/SVGCustomization/)  |
 | **SVG** | [SVGDreamer: Text Guided SVG Generation with Diffusion Model](https://arxiv.org/abs/2312.16476) | CVPR 2024 |  [[project]](https://ximinng.github.io/SVGDreamer-project/) [[code]](https://github.com/ximinng/SVGDreamer) |
+| **SVG** | [Text-to-Vector Generation with Neural Path Representation](https://arxiv.org/abs/2405.10317) | SIGGRAPH 2024 |  [[project]](https://intchous.github.io/T2V-NPR/)  |
 | **Arbitrary** | [SVGCraft: Beyond Single Object Text-to-SVG Synthesis with Comprehensive Canvas Layout](https://arxiv.org/abs/2404.00412v1) | arxiv 24.04 | [[code]](https://github.com/ayanban011/SVGCraft) |
 | **SVG** | [VectorPainter: A Novel Approach to Stylized Vector Graphics Synthesis with Vectorized Strokes](https://arxiv.org/abs/2405.02962) | arxiv 24.05 |  |
 
@@ -736,6 +737,7 @@ a) Line art
 | [End-to-end Line Drawing Vectorization](https://www.aaai.org/AAAI22Papers/AAAI-52.LiuH.pdf) | AAAI 2022 |  | Learning |
 | [Vectorizing Line Drawings of Arbitrary Thickness via Boundary-based Topology Reconstruction](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14485) | CGF 2022 |  | Heuristic |
 | [Singularity-Free Frame Fields for Line Drawing Vectorization](https://diglib.eg.org/handle/10.1111/cgf14901) | SGP 2023 | [[code]](https://github.com/SingularityFreeFrameFields/Code) | Optimization |
+| [Deep Sketch Vectorization via Implicit Surface Extraction](https://cragl.cs.gmu.edu/sketchvector/Deep%20Sketch%20Vectorization%20via%20Implicit%20Surface%20Extraction%20(Chuan%20Yan,%20Yong%20Li,%20Deepali%20Aneja,%20Matthew%20Fisher,%20Edgar%20Simo-Serra,%20Yotam%20Gingold%202024%20SIGGRAPH).pdf) | SIGGRAPH 2024 | [[project]](https://cragl.cs.gmu.edu/sketchvector/) [[code]](https://github.com/Nauhcnay/Deep-Sketch-Vectorization) | Learning |
 
 
 b) Rough sketch simplification / cleanup
