@@ -18,7 +18,8 @@ A collection of papers about Sketch Synthesis (Generation). Mainly focus on stro
   - [3) Text/Attribute-to-sketch](#3-textattribute-to-sketch)
   - [4) 3D shape-to-sketch](#4-3d-shape-to-sketch)
   - [5) Art-to-sketch](#5-art-to-sketch)
-- [3. Vector Graphics Generation](#3-vector-graphics-generation)
+- [3. Vector Graphics Generation (2D)](#3-vector-graphics-generation-2d)
+- [4. Vector Graphics Generation (3D)](#4-vector-graphics-generation-3d)
 
 ---
 
@@ -516,14 +517,6 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
       <a href="https://github.com/Vahe1994/Deep-Vectorization-of-Technical-Drawings">[code]</a> 
     </td>
   </tr>
-  <tr>
-    <td rowspan="1"><strong>3D Strokes</strong></td>
-    <td> <a href="https://arxiv.org/abs/2402.03690">3Doodle: Compact Abstraction of Objects with 3D Strokes</a> </td> 
-    <td> SIGGRAPH 2024 </td> 
-    <td>
-      <a href="https://github.com/changwoonchoi/3Doodle">[code]</a> 
-    </td>
-  </tr>
 </table>
 
 
@@ -771,7 +764,7 @@ c) Manga (Comics)
 
 
 
-## 3. Vector Graphics Generation
+## 3. Vector Graphics Generation (2D)
 
 Here we focus on learning-based vector graphics generation **without** depending on vector training data, and traditional vectorization algorithms.
 
@@ -815,4 +808,14 @@ Here we focus on learning-based vector graphics generation **without** depending
 | [ClipGen: A Deep Generative Model for Clipart Vectorization and Synthesis](https://ieeexplore.ieee.org/abstract/document/9444657) | TVCG 2021 |  |
 | [TCB-Spline-Based Image Vectorization](https://dl.acm.org/doi/10.1145/3513132) | TOG 2022 |  |
 | [Image vectorization and editing via linear gradient layer decomposition](https://cragl.cs.gmu.edu/gradientlayers/Image%20vectorization%20and%20editing%20via%20linear%20gradient%20layer%20decomposition%20(Zheng-Jun%20Du,%20Liang-Fu%20Kang,%20Jianchao%20Tan,%20Yotam%20Gingold,%20Kun%20Xu%202023%20SIGGRAPH)%20small.pdf) | SIGGRAPH 2023 |  |
+
+
+## 4. Vector Graphics Generation (3D)
+
+| Paper | Source | Code/Project Link |
+| --- | --- | --- |
+| [3Doodle: Compact Abstraction of Objects with 3D Strokes](https://arxiv.org/abs/2402.03690) | SIGGRAPH 2024 | [[code]](https://github.com/changwoonchoi/3Doodle) |
+| [Diff3DS: Generating View-Consistent 3D Sketch via Differentiable Curve Rendering](https://arxiv.org/abs/2405.15305) | arxiv 24.05 | [[webpage]](https://yiboz2001.github.io/Diff3DS/) |
+
+
 
