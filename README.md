@@ -685,6 +685,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | **SVG** | [Text-Guided Vector Graphics Customization](https://arxiv.org/abs/2309.12302) | SIGGRAPH Asia 2023 |  [[project]](https://intchous.github.io/SVGCustomization/)  |
 | **Arbitrary** | [Text-based Vector Sketch Editing with Image Editing Diffusion Prior](https://www.sysu-imsl.com/files/ICME2024/ICME2024_sketch_editing_final.pdf) | ICME 2024 |  [[code]](https://github.com/MarkMoHR/DiffSketchEdit)  |
 | **SVG** | [SVGDreamer: Text Guided SVG Generation with Diffusion Model](https://arxiv.org/abs/2312.16476) | CVPR 2024 |  [[project]](https://ximinng.github.io/SVGDreamer-project/) [[code]](https://github.com/ximinng/SVGDreamer) |
+| **SVG** | [NIVeL: Neural Implicit Vector Layers for Text-to-Vector Generation](https://arxiv.org/abs/2405.15217) | CVPR 2024 |  [[project]](https://vikastmz.github.io/NIVeL/)  |
 | **SVG** | [Text-to-Vector Generation with Neural Path Representation](https://arxiv.org/abs/2405.10317) | SIGGRAPH 2024 |  [[project]](https://intchous.github.io/T2V-NPR/)  |
 | **Arbitrary** | [SVGCraft: Beyond Single Object Text-to-SVG Synthesis with Comprehensive Canvas Layout](https://arxiv.org/abs/2404.00412v1) | arxiv 24.04 | [[code]](https://github.com/ayanban011/SVGCraft) |
 | **SVG** | [VectorPainter: A Novel Approach to Stylized Vector Graphics Synthesis with Vectorized Strokes](https://arxiv.org/abs/2405.02962) | arxiv 24.05 |  |
