@@ -780,6 +780,9 @@ Here we focus on learning-based vector graphics generation **without** depending
 
 | Paper | Source | Code/Project Link |
 | --- | --- | --- |
+| [Towards High-fidelity Artistic Image Vectorization via Texture-Encapsulated Shape Parameterization](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Towards_High-fidelity_Artistic_Image_Vectorization_via_Texture-Encapsulated_Shape_Parameterization_CVPR_2024_paper.pdf) | CVPR 2024 |  |
+| [SuperSVG: Superpixel-based Scalable Vector Graphics Synthesis](https://openaccess.thecvf.com/content/CVPR2024/papers/Hu_SuperSVG_Superpixel-based_Scalable_Vector_Graphics_Synthesis_CVPR_2024_paper.pdf) | CVPR 2024 | [[code]](https://github.com/sjtuplayer/SuperSVG) |
+| [Vector Graphics Generation via Mutually Impulsed Dual-domain Diffusion](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_Vector_Graphics_Generation_via_Mutually_Impulsed_Dual-domain_Diffusion_CVPR_2024_paper.pdf) | CVPR 2024 |  |
 | [Optimize and Reduce: A Top-Down Approach for Image Vectorization](https://arxiv.org/abs/2312.11334) | AAAI 2024 | [[code]](https://github.com/ajevnisek/optimize-and-reduce) |
 | [Segmentation-Based Parametric Painting](https://arxiv.org/abs/2311.14271) | arxiv 23.11 | [[code]](https://github.com/manuelladron/semantic_based_painting) [[project]](https://manuelladron.github.io/semantic_based_painting/) |
 | [Editable Image Geometric Abstraction via Neural Primitive Assembly](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Editable_Image_Geometric_Abstraction_via_Neural_Primitive_Assembly_ICCV_2023_paper.pdf) | ICCV 2023 |  |
