@@ -291,7 +291,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> With instance and semantic annotations </td>  
   </tr>
   <tr>
-    <td rowspan="8"><strong>Anime</strong></td>
+    <td rowspan="9"><strong>Anime</strong></td>
     <td> <a href="https://gwern.net/danbooru2021">Danbooru2021</a> </td> 
     <td> / </td> 
     <td> :x: </td> 
@@ -334,6 +334,13 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> Correspondence dataset for 2D-styled cartoons </td>
   </tr>
   <tr>
+    <td> <a href="https://github.com/kangyeolk/AnimeCeleb">AnimeCeleb</a> </td> 
+    <td> ECCV 2022 </td> 
+    <td> :x: </td> 
+    <td> :x: </td> 
+    <td> Animation head images with pose annotations </td>
+  </tr>
+  <tr>
     <td> <a href="https://github.com/ykdai/BasicPBC/tree/main/dataset">PaintBucket-Character</a> </td> 
     <td> CVPR 2024 </td> 
     <td> :x: </td> 
@@ -341,7 +348,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> Animation frames with region annotations </td>
   </tr>
   <tr>
-    <td> <a href="https://github.com/zhenglinpan/SakugaDataset">Sakuga-42M</a> </td> 
+    <td> <a href="https://zhenglinpan.github.io/sakuga_dataset_webpage/">Sakuga-42M</a> </td> 
     <td> arxiv 24.05 </td> 
     <td> :x: </td> 
     <td> :heavy_check_mark: </td> 
