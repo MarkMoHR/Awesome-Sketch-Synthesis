@@ -291,7 +291,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> With instance and semantic annotations </td>  
   </tr>
   <tr>
-    <td rowspan="9"><strong>Anime</strong></td>
+    <td rowspan="10"><strong>Anime</strong></td>
     <td> <a href="https://gwern.net/danbooru2021">Danbooru2021</a> </td> 
     <td> / </td> 
     <td> :x: </td> 
@@ -353,6 +353,13 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> :x: </td> 
     <td> :heavy_check_mark: </td> 
     <td> Cartoon videos with text descriptions and tags </td>
+  </tr>
+  <tr>
+    <td> <a href="https://github.com/zhenglinpan/AnitaDataset">Anita</a> </td> 
+    <td> online 2024 </td> 
+    <td> :x: </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> Professional hand-drawn cartoon keyframes, with 1080P sketch and color images </td>
   </tr>
   
 </table>
