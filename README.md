@@ -513,7 +513,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     </td>
   </tr>
   <tr>
-    <td rowspan="2"><strong>Scene-level</strong></td>
+    <td rowspan="3"><strong>Scene-level</strong></td>
     <td> <a href="https://arxiv.org/abs/2012.09004">Sketch Generation with Drawing Process Guided by Vector Flow and Grayscale</a> </td> 
     <td> AAAI 2021 </td> 
     <td>
@@ -526,6 +526,12 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> 
       <a href="https://clipascene.github.io/CLIPascene/">[Project]</a> 
       <a href="https://github.com/yael-vinker/SceneSketch">[Code]</a> 
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://openreview.net/forum?id=fLbdDspNW3">Learning Realistic Sketching: A Dual-agent Reinforcement Learning Approach</a> </td> 
+    <td> ACM MM 2024 </td> 
+    <td> 
     </td>
   </tr>
   <tr>
