@@ -807,6 +807,7 @@ Here we focus on learning-based vector graphics generation **without** depending
 | Paper | Source | Code/Project Link |
 | --- | --- | --- |
 | [Layered Image Vectorization via Semantic Simplification](https://arxiv.org/abs/2406.05404) | arxiv 24.06 | [[webpage]](https://szuviz.github.io/layered_vectorization/) [[code]](https://github.com/SZUVIZ/layered_vectorization/) |
+| [Segmentation-guided Layer-wise Image Vectorization with Gradient Fills](https://arxiv.org/abs/2408.15741) | ECCV 2024 | |
 | [Towards High-fidelity Artistic Image Vectorization via Texture-Encapsulated Shape Parameterization](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Towards_High-fidelity_Artistic_Image_Vectorization_via_Texture-Encapsulated_Shape_Parameterization_CVPR_2024_paper.pdf) | CVPR 2024 |  |
 | [SuperSVG: Superpixel-based Scalable Vector Graphics Synthesis](https://openaccess.thecvf.com/content/CVPR2024/papers/Hu_SuperSVG_Superpixel-based_Scalable_Vector_Graphics_Synthesis_CVPR_2024_paper.pdf) | CVPR 2024 | [[code]](https://github.com/sjtuplayer/SuperSVG) |
 | [Vector Graphics Generation via Mutually Impulsed Dual-domain Diffusion](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_Vector_Graphics_Generation_via_Mutually_Impulsed_Dual-domain_Diffusion_CVPR_2024_paper.pdf) | CVPR 2024 |  |
