@@ -848,5 +848,13 @@ Here we focus on learning-based vector graphics generation **without** depending
 | [3Doodle: Compact Abstraction of Objects with 3D Strokes](https://arxiv.org/abs/2402.03690) | SIGGRAPH 2024 | [[code]](https://github.com/changwoonchoi/3Doodle) |
 | [Diff3DS: Generating View-Consistent 3D Sketch via Differentiable Curve Rendering](https://arxiv.org/abs/2405.15305) | arxiv 24.05 | [[webpage]](https://yiboz2001.github.io/Diff3DS/) |
 
+- Wire Art
+
+| Paper | Source | Code/Project Link |
+| --- | --- | --- |
+| [Wired Perspectives: Multi-View Wire Art Embraces Generative AI](https://openaccess.thecvf.com/content/CVPR2024/papers/Qu_Wired_Perspectives_Multi-View_Wire_Art_Embraces_Generative_AI_CVPR_2024_paper.pdf) | CVPR 2024 | [[code]](https://github.com/WinKawaks/DreamWire) [[webpage]](https://dreamwireart.github.io/) |
+| [Fabricable 3D Wire Art](https://doi.org/10.1145/3641519.3657453) | SIGGRAPH 2024 |  |
+
+
 
 
