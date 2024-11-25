@@ -667,12 +667,18 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     </td>
   </tr>
   <tr>
-    <td rowspan="1"><strong>Arbitrary</strong></td>
+    <td rowspan="2"><strong>Arbitrary</strong></td>
     <td> <a href="https://dl.acm.org/doi/abs/10.1145/3592392">Semi-supervised reference-based sketch extraction using a contrastive learning</a> </td> 
     <td> SIGGRAPH 2023 </td> 
     <td>
       <a href="https://github.com/Chanuku/semi_ref2sketch_code">[Code]</a> 
       <a href="https://chanuku.github.io/Semi_ref2sketch/">[Project]</a> 
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://ieeexplore.ieee.org/abstract/document/10758215">MixSA: Training-free Reference-based Sketch Extraction via Mixture-of-Self-Attention</a> </td> 
+    <td> TVCG 2024 </td> 
+    <td> 
     </td>
   </tr>
 </table>
