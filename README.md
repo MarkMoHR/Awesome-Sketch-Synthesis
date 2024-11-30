@@ -714,6 +714,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | **SVG** | [Text-to-Vector Generation with Neural Path Representation](https://arxiv.org/abs/2405.10317) | SIGGRAPH 2024 |  [[project]](https://intchous.github.io/T2V-NPR/)  |
 | **Arbitrary** | [SVGCraft: Beyond Single Object Text-to-SVG Synthesis with Comprehensive Canvas Layout](https://arxiv.org/abs/2404.00412v1) | arxiv 24.04 | [[code]](https://github.com/ayanban011/SVGCraft) |
 | **SVG** | [VectorPainter: A Novel Approach to Stylized Vector Graphics Synthesis with Vectorized Strokes](https://arxiv.org/abs/2405.02962) | arxiv 24.05 |  |
+| **Arbitrary** | [SketchAgent: Language-Driven Sequential Sketch Generation](https://arxiv.org/abs/2411.17673) | arxiv 24.11 | [[code]](https://github.com/yael-vinker/SketchAgent) [[webpage]](https://yael-vinker.github.io/sketch-agent/) |
 
 ---
 
