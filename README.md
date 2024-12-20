@@ -717,6 +717,9 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | **SVG** | [VectorPainter: A Novel Approach to Stylized Vector Graphics Synthesis with Vectorized Strokes](https://arxiv.org/abs/2405.02962) | arxiv 24.05 |  |
 | **SVG** | [Chat2SVG: Vector Graphics Generation with Large Language Models and Image Diffusion Models](https://arxiv.org/abs/2411.16602) | arxiv 24.11 | [[webpage]](https://chat2svg.github.io/) |
 | **Arbitrary** | [SketchAgent: Language-Driven Sequential Sketch Generation](https://arxiv.org/abs/2411.17673) | arxiv 24.11 | [[code]](https://github.com/yael-vinker/SketchAgent) [[webpage]](https://yael-vinker.github.io/sketch-agent/) |
+| **SVG** | [SVGBuilder: Component-Based Colored SVG Generation with Text-Guided Autoregressive Transformers](https://arxiv.org/abs/2412.10488) | arxiv 24.12 | [[webpage]](https://svgbuilder.github.io/) |
+| **SVG** | [SVGFusion: Scalable Text-to-SVG Generation via Vector Space Diffusion](https://arxiv.org/abs/2412.10437) | arxiv 24.12 | [[webpage]](https://ximinng.github.io/SVGFusionProject/) [[code]](https://github.com/ximinng/SVGFusion) |
+| **SVG** | [Empowering LLMs to Understand and Generate Complex Vector Graphics](https://arxiv.org/abs/2412.11102) | arxiv 24.12 | [[webpage]](https://ximinng.github.io/LLM4SVGProject/) [[code]](https://github.com/ximinng/LLM4SVG) |
 
 ---
 
