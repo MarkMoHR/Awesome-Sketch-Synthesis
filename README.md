@@ -799,6 +799,7 @@ c) Manga (Comics)
 | [Generating Manga from Illustrations via Mimicking Manga Workflow](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Generating_Manga_From_Illustrations_via_Mimicking_Manga_Creation_Workflow_CVPR_2021_paper.pdf) | CVPR 2021 | [[Project]](https://lllyasviel.github.io/MangaFilter/) [[Code]](https://github.com/lllyasviel/MangaFilter) |
 | [MangaGAN: Unpaired Photo-to-Manga Translation Based on The Methodology of Manga Drawing](https://arxiv.org/abs/2004.10634) | AAAI 2021 | |
 | [MARVEL: Raster Gray-level Manga Vectorization via Primitive-wise Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10233891) | TCSVT 2023 | |
+| [Manga Generation via Layout-controllable Diffusion](https://arxiv.org/abs/2412.19303) | arxiv 24.12 | [[code]](https://github.com/siyuch-fdu/MangaDiffusion) [[webpage]](https://siyuch-fdu.github.io/MangaDiffusion/) |
 
 
 
