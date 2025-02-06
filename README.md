@@ -822,6 +822,7 @@ Here we focus on learning-based vector graphics generation **without** depending
 | Paper | Source | Code/Project Link |
 | --- | --- | --- |
 | [Layered Image Vectorization via Semantic Simplification](https://arxiv.org/abs/2406.05404) | arxiv 24.06 | [[webpage]](https://szuviz.github.io/layered_vectorization/) [[code]](https://github.com/SZUVIZ/layered_vectorization/) |
+| [Inverse Painting: Reconstructing The Painting Process](https://dl.acm.org/doi/full/10.1145/3680528.3687574) | SIGGRAPH Asia 2024 | [[code]](https://github.com/ArmastusChen/inverse_painting) |
 | [ProcessPainter: Learning to draw from sequence data](https://arxiv.org/abs/2406.06062) | SIGGRAPH Asia 2024 | [[code]](https://github.com/nicolaus-huang/ProcessPainter) |
 | [Segmentation-guided Layer-wise Image Vectorization with Gradient Fills](https://arxiv.org/abs/2408.15741) | ECCV 2024 | |
 | [Towards High-fidelity Artistic Image Vectorization via Texture-Encapsulated Shape Parameterization](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Towards_High-fidelity_Artistic_Image_Vectorization_via_Texture-Encapsulated_Shape_Parameterization_CVPR_2024_paper.pdf) | CVPR 2024 |  |
@@ -838,6 +839,7 @@ Here we focus on learning-based vector graphics generation **without** depending
 | [Rethinking Style Transfer: From Pixels to Parameterized Brushstrokes](https://arxiv.org/abs/2103.17185) | CVPR 2021 | [[code]](https://github.com/CompVis/brushstroke-parameterized-style-transfer) |
 | [Im2Vec: Synthesizing Vector Graphics without Vector Supervision](https://arxiv.org/abs/2102.02798) | CVPR 2021 | [[Project]](http://geometry.cs.ucl.ac.uk/projects/2021/im2vec/) [[code]](https://github.com/preddy5/Im2Vec) |
 | [Stylized Neural Painting](https://arxiv.org/abs/2011.08114) | CVPR 2021 | [[Code]](https://github.com/jiupinjia/stylized-neural-painting) [[project]](https://jiupinjia.github.io/neuralpainter/) |
+| [Painting Many Pasts: Synthesizing Time Lapse Videos of Paintings](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_Painting_Many_Pasts_Synthesizing_Time_Lapse_Videos_of_Paintings_CVPR_2020_paper.pdf) | CVPR 2020 | [[Code]](https://github.com/xamyzhao/timecraft) [[project]](https://xamyzhao.github.io/timecraft/) |
 | [Learning to Paint With Model-based Deep Reinforcement Learning](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Learning_to_Paint_With_Model-Based_Deep_Reinforcement_Learning_ICCV_2019_paper.pdf) | ICCV 2019 | [[code]](https://github.com/megvii-research/ICCV2019-LearningToPaint) |
 | [Strokenet: A neural painting environment](https://openreview.net/forum?id=HJxwDiActX) | ICLR 2019 | [[Code]](https://github.com/vexilligera/strokenet) |
 | [Neural Painters: A learned differentiable constraint for generating brushstroke paintings](https://arxiv.org/abs/1904.08410) | arxiv 1904 | [[Code]](https://github.com/reiinakano/neural-painters-pytorch) |
