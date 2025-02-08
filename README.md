@@ -721,6 +721,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | **SVG** | [SVGFusion: Scalable Text-to-SVG Generation via Vector Space Diffusion](https://arxiv.org/abs/2412.10437) | arxiv 24.12 | [[webpage]](https://ximinng.github.io/SVGFusionProject/) [[code]](https://github.com/ximinng/SVGFusion) |
 | **SVG** | [Empowering LLMs to Understand and Generate Complex Vector Graphics](https://arxiv.org/abs/2412.11102) | arxiv 24.12 | [[webpage]](https://ximinng.github.io/LLM4SVGProject/) [[code]](https://github.com/ximinng/LLM4SVG) |
 | **SVG** | [NeuralSVG: An Implicit Representation for Text-to-Vector Generation](https://arxiv.org/abs/2501.03992) | arxiv 25.01 | [[webpage]](https://sagipolaczek.github.io/NeuralSVG/) [[code]](https://github.com/SagiPolaczek/NeuralSVG) |
+| **SVG** | [LayerTracer: Cognitive-Aligned Layered SVG Synthesis via Diffusion Transformer](https://arxiv.org/abs/2502.01105) | arxiv 25.02 | [[code]](https://github.com/showlab/LayerTracer) |
 
 ---
 
