@@ -486,7 +486,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     </td>
   </tr>
   <tr>
-    <td rowspan="4"><strong>Instance-level</strong></td>
+    <td rowspan="5"><strong>Instance-level</strong></td>
     <td> <a href="https://link.springer.com/content/pdf/10.1007%2Fs11263-016-0963-9.pdf">Free-Hand Sketch Synthesis with Deformable Stroke Models</a> </td> 
     <td> IJCV 2017 </td> 
     <td>
@@ -510,6 +510,14 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> 
       <a href="https://clipasso.github.io/clipasso/">[Project]</a> 
       <a href="https://github.com/yael-vinker/CLIPasso">[Code]</a>
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://arxiv.org/abs/2502.08642">SwiftSketch: A Diffusion Model for Image-to-Vector Sketch Generation</a> </td> 
+    <td> arxiv 25.02 </td> 
+    <td> 
+      <a href="https://swiftsketch.github.io/">[Project]</a> 
+      <a href="https://github.com/swiftsketch/SwiftSketch">[Code]</a>
     </td>
   </tr>
   <tr>
