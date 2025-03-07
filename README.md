@@ -810,7 +810,7 @@ c) Manga (Comics)
 | [MangaGAN: Unpaired Photo-to-Manga Translation Based on The Methodology of Manga Drawing](https://arxiv.org/abs/2004.10634) | AAAI 2021 | |
 | [MARVEL: Raster Gray-level Manga Vectorization via Primitive-wise Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10233891) | TCSVT 2023 | |
 | [Manga Generation via Layout-controllable Diffusion](https://arxiv.org/abs/2412.19303) | arxiv 24.12 | [[code]](https://github.com/siyuch-fdu/MangaDiffusion) [[webpage]](https://siyuch-fdu.github.io/MangaDiffusion/) |
-| [DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation](https://arxiv.org/abs/2412.07589) | arxiv 24.12 | [[code]](https://github.com/jianzongwu/DiffSensei) [[webpage]](https://jianzongwu.github.io/projects/diffsensei/) |
+| [DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation](https://arxiv.org/abs/2412.07589) | CVPR 2025 | [[code]](https://github.com/jianzongwu/DiffSensei) [[webpage]](https://jianzongwu.github.io/projects/diffsensei/) |
 
 
 
