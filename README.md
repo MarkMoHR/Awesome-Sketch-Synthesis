@@ -386,7 +386,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td><strong>Code/Project Link</strong></td>
   </tr>
   <tr>
-    <td rowspan="12"><strong>Instance-level</strong></td>
+    <td rowspan="13"><strong>Instance-level</strong></td>
     <td> <a href="https://openreview.net/pdf?id=Hy6GHpkCW">A Neural Representation of Sketch Drawings (sketch-rnn)</a> </td> 
     <td> ICLR 2018 </td> 
     <td> 
@@ -466,6 +466,12 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
   <tr>
     <td> <a href="https://openreview.net/forum?id=5xadJmgwix">Scale-Adaptive Diffusion Model for Complex Sketch Synthesis</a> </td> 
     <td> ICLR 2024 </td> 
+    <td> 
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://arxiv.org/abs/2503.23752">StrokeFusion: Vector Sketch Generation via Joint Stroke-UDF Encoding and Latent Sequence Diffusion</a> </td> 
+    <td> arxiv 25.03 </td> 
     <td> 
     </td>
   </tr>
