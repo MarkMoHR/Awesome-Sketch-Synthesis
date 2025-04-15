@@ -688,7 +688,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     </td>
   </tr>
   <tr>
-    <td rowspan="2"><strong>Arbitrary</strong></td>
+    <td rowspan="3"><strong>Arbitrary</strong></td>
     <td> <a href="https://dl.acm.org/doi/abs/10.1145/3592392">Semi-supervised reference-based sketch extraction using a contrastive learning</a> </td> 
     <td> SIGGRAPH 2023 </td> 
     <td>
@@ -700,6 +700,13 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> <a href="https://ieeexplore.ieee.org/abstract/document/10758215">MixSA: Training-free Reference-based Sketch Extraction via Mixture-of-Self-Attention</a> </td> 
     <td> TVCG 2024 </td> 
     <td> 
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33000">One-Shot Reference-based Structure-Aware Image to Sketch Synthesis</a> </td> 
+    <td> AAAI 2025 </td> 
+    <td> 
+      <a href="https://github.com/Ref2Sketch-SA">[Code]</a> 
     </td>
   </tr>
 </table>
