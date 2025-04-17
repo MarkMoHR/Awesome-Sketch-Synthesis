@@ -895,6 +895,7 @@ Here we focus on learning-based vector graphics generation **without** depending
 | --- | --- | --- |
 | [3Doodle: Compact Abstraction of Objects with 3D Strokes](https://arxiv.org/abs/2402.03690) | SIGGRAPH 2024 | [[code]](https://github.com/changwoonchoi/3Doodle) |
 | [Diff3DS: Generating View-Consistent 3D Sketch via Differentiable Curve Rendering](https://arxiv.org/abs/2405.15305) | ICLR 2025 | [[webpage]](https://yiboz2001.github.io/Diff3DS/) |
+| [Recovering Dynamic 3D Sketches from Videos](https://arxiv.org/abs/2503.20321) | CVPR 2025 | [[webpage]](https://jaeah.me/liv3stroke_web/) |
 
 - Wire Art
 
