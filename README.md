@@ -348,7 +348,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> Animation frames with region annotations </td>
   </tr>
   <tr>
-    <td> <a href="https://zhenglinpan.github.io/sakuga_dataset_webpage/">Sakuga-42M</a> </td> 
+    <td> <a href="https://zhenglinpan.github.io/sakuga_dataset_webpage/">Sakuga-42M</a> <a href="https://github.com/KytraScript/SakugaDataset">(link 2)</a> </td> 
     <td> arxiv 24.05 </td> 
     <td> :x: </td> 
     <td> :heavy_check_mark: </td> 
