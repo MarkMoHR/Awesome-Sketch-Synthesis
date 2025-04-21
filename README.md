@@ -751,6 +751,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | **SVG** | [StarVector: Generating Scalable Vector Graphics Code from Images and Text](https://arxiv.org/abs/2312.11556) | CVPR 2025 | [[webpage]](https://starvector.github.io/) [[code]](https://github.com/joanrod/star-vector) |
 | **SVG** | [NeuralSVG: An Implicit Representation for Text-to-Vector Generation](https://arxiv.org/abs/2501.03992) | arxiv 25.01 | [[webpage]](https://sagipolaczek.github.io/NeuralSVG/) [[code]](https://github.com/SagiPolaczek/NeuralSVG) |
 | **SVG** | [LayerTracer: Cognitive-Aligned Layered SVG Synthesis via Diffusion Transformer](https://arxiv.org/abs/2502.01105) | arxiv 25.02 | [[code]](https://github.com/showlab/LayerTracer) |
+| **SVG** | [OmniSVG: A Unified Scalable Vector Graphics Generation Model](https://arxiv.org/abs/2504.06263) | arxiv 25.04 | [[code]](https://github.com/OmniSVG/OmniSVG) [[webpage]](https://omnisvg.github.io/) |
 
 ---
 
