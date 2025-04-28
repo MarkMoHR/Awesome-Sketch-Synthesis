@@ -688,7 +688,14 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     </td>
   </tr>
   <tr>
-    <td rowspan="3"><strong>Arbitrary</strong></td>
+    <td rowspan="4"><strong>Arbitrary</strong></td>
+    <td> <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Im2Pencil_Controllable_Pencil_Illustration_From_Photographs_CVPR_2019_paper.pdf">Im2Pencil: Controllable Pencil Illustration From Photographs</a> </td> 
+    <td> CVPR 2019 </td> 
+    <td>
+      <a href="https://github.com/Yijunmaverick/Im2Pencil">[Code]</a> 
+    </td>
+  </tr>
+  <tr>
     <td> <a href="https://dl.acm.org/doi/abs/10.1145/3592392">Semi-supervised reference-based sketch extraction using a contrastive learning</a> </td> 
     <td> SIGGRAPH 2023 </td> 
     <td>
