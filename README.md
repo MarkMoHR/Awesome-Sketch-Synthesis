@@ -527,7 +527,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
   </tr>
   <tr>
     <td> <a href="https://arxiv.org/abs/2502.08642">SwiftSketch: A Diffusion Model for Image-to-Vector Sketch Generation</a> </td> 
-    <td> arxiv 25.02 </td> 
+    <td> SIGGRAPH 2025 </td> 
     <td> 
       <a href="https://swiftsketch.github.io/">[Project]</a> 
       <a href="https://github.com/swiftsketch/SwiftSketch">[Code]</a>
