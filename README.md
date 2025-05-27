@@ -749,7 +749,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | **SVG** | [NIVeL: Neural Implicit Vector Layers for Text-to-Vector Generation](https://arxiv.org/abs/2405.15217) | CVPR 2024 |  [[project]](https://vikastmz.github.io/NIVeL/)  |
 | **SVG** | [Text-to-Vector Generation with Neural Path Representation](https://arxiv.org/abs/2405.10317) | SIGGRAPH 2024 |  [[project]](https://intchous.github.io/T2V-NPR/)  |
 | **Arbitrary** | [SVGCraft: Beyond Single Object Text-to-SVG Synthesis with Comprehensive Canvas Layout](https://arxiv.org/abs/2404.00412v1) | arxiv 24.04 | [[code]](https://github.com/ayanban011/SVGCraft) |
-| **SVG** | [VectorPainter: A Novel Approach to Stylized Vector Graphics Synthesis with Vectorized Strokes](https://arxiv.org/abs/2405.02962) | arxiv 24.05 |  |
+| **SVG** | [VectorPainter: A Novel Approach to Stylized Vector Graphics Synthesis with Vectorized Strokes](https://arxiv.org/abs/2405.02962) | ICME 2025 | [[code]](https://github.com/hjc-owo/VectorPainter) [[webpage]](https://hjc-owo.github.io/VectorPainterProject/) |
 | **SVG** | [Chat2SVG: Vector Graphics Generation with Large Language Models and Image Diffusion Models](https://arxiv.org/abs/2411.16602) | CVPR 2025 | [[webpage]](https://chat2svg.github.io/) |
 | **Arbitrary** | [SketchAgent: Language-Driven Sequential Sketch Generation](https://arxiv.org/abs/2411.17673) | CVPR 2025 | [[code]](https://github.com/yael-vinker/SketchAgent) [[webpage]](https://yael-vinker.github.io/sketch-agent/) |
 | **SVG** | [SVGBuilder: Component-Based Colored SVG Generation with Text-Guided Autoregressive Transformers](https://arxiv.org/abs/2412.10488) | AAAI 2025 | [[webpage]](https://svgbuilder.github.io/) |
