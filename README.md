@@ -761,6 +761,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | **SVG** | [OmniSVG: A Unified Scalable Vector Graphics Generation Model](https://arxiv.org/abs/2504.06263) | arxiv 25.04 | [[code]](https://github.com/OmniSVG/OmniSVG) [[webpage]](https://omnisvg.github.io/) |
 | **SVG** | [Style Customization of Text-to-Vector Generation with Image Diffusion Priors](https://arxiv.org/abs/2505.10558) | SIGGRAPH 2025 | [[code]](https://github.com/intchous/custom-svg-style) [[webpage]](https://customsvg.github.io/) |
 | **SVG** | [LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization](https://arxiv.org/abs/2505.23740) | arxiv 25.05 | [[webpage]](https://layerpeeler.github.io/) |
+| **SVG** | [Reason-SVG: Hybrid Reward RL for Aha-Moments in Vector Graphics Generation](https://arxiv.org/abs/2505.24499) | arxiv 25.05 |  |
 
 ---
 
