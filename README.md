@@ -770,6 +770,8 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | **SVG** | [LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization](https://arxiv.org/abs/2505.23740) | arxiv 25.05 | [[webpage]](https://layerpeeler.github.io/) |
 | **SVG** | [Reason-SVG: Hybrid Reward RL for Aha-Moments in Vector Graphics Generation](https://arxiv.org/abs/2505.24499) | arxiv 25.05 |  |
 | **SVG** | [SVGenius: Benchmarking LLMs in SVG Understanding, Editing and Generation](https://arxiv.org/abs/2506.03139) | arxiv 25.06 | [[webpage]](https://zju-real.github.io/SVGenius/) [[code]](https://github.com/ZJU-REAL/SVGenius) |
+| **SVG** | [SVGen: Interpretable Vector Graphics Generation with Large Language Models](https://arxiv.org/abs/2508.09168) | arxiv 25.08 | [[code]](https://github.com/gitcat-404/SVGen) |
+| **SVG** | [UniSVG: A Unified Dataset for Vector Graphic Understanding and Generation with Multimodal Large Language Models](https://arxiv.org/abs/2508.07766) | MM 2025 | [[webpage]](https://ryanlijinke.github.io/) |
 
 ---
 
