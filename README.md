@@ -921,6 +921,14 @@ Here we focus on learning-based vector graphics generation **without** depending
 | [Empowering Vector Graphics with Consistently Arbitrary Viewing and View-dependent Visibility](https://arxiv.org/abs/2505.21377) | CVPR 2025 | [[code]](https://github.com/chenxinl/Dream3DVG) |
 | [ViewCraft3D: High-Fidelity and View-Consistent 3D Vector Graphics Synthesis](https://arxiv.org/abs/2505.19492) | arxiv 25.05 | [[webpage]](https://zhtjtcz.github.io/VC3D_page/) |
 
+- 3D Edges
+
+| Paper | Source | Code/Project Link |
+| --- | --- | --- |
+| [3D Neural Edge Reconstruction](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_3D_Neural_Edge_Reconstruction_CVPR_2024_paper.pdf) | CVPR 2024 | [[code]](https://github.com/cvg/EMAP) [[webpage]](https://neural-edge-map.github.io/) |
+| [EdgeGaussians - 3D Edge Mapping via Gaussian Splatting](https://ieeexplore.ieee.org/abstract/document/10943309) | WACV 2025 | [[code]](https://github.com/kunalchelani/EdgeGaussians) |
+| [SketchSplat: 3D Edge Reconstruction via Differentiable Multi-view Sketch Splatting](https://arxiv.org/abs/2503.14786) | ICCV 2025 | [[code]](https://github.com/oceanying/sketchsplat) [[webpage]](https://oceanying.github.io/SketchSplat/) |
+
 - Wire Art
 
 | Paper | Source | Code/Project Link |
