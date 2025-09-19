@@ -752,7 +752,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | **SVG** | [Text-Guided Vector Graphics Customization](https://arxiv.org/abs/2309.12302) | SIGGRAPH Asia 2023 |  [[project]](https://intchous.github.io/SVGCustomization/)  |
 | **Arbitrary** | [Text-based Vector Sketch Editing with Image Editing Diffusion Prior](https://www.sysu-imsl.com/files/ICME2024/ICME2024_sketch_editing_final.pdf) | ICME 2024 |  [[code]](https://github.com/MarkMoHR/DiffSketchEdit)  |
 | **SVG** | [SVGDreamer: Text Guided SVG Generation with Diffusion Model](https://arxiv.org/abs/2312.16476) | CVPR 2024 |  [[project]](https://ximinng.github.io/SVGDreamer-project/) [[code]](https://github.com/ximinng/SVGDreamer) |
-| **SVG** | [SVGDreamer++: Advancing Editability and Diversity in Text-Guided SVG Generation](https://arxiv.org/abs/2411.17832) | arxiv 24.11 |  [[code]](https://github.com/ximinng/SVGDreamer) |
+| **SVG** | [SVGDreamer++: Advancing Editability and Diversity in Text-Guided SVG Generation](https://arxiv.org/abs/2411.17832) | TPAMI 2025 |  [[code]](https://github.com/ximinng/SVGDreamer) |
 | **SVG** | [NIVeL: Neural Implicit Vector Layers for Text-to-Vector Generation](https://arxiv.org/abs/2405.15217) | CVPR 2024 |  [[project]](https://vikastmz.github.io/NIVeL/)  |
 | **SVG** | [Text-to-Vector Generation with Neural Path Representation](https://arxiv.org/abs/2405.10317) | SIGGRAPH 2024 |  [[project]](https://intchous.github.io/T2V-NPR/)  |
 | **Arbitrary** | [SVGCraft: Beyond Single Object Text-to-SVG Synthesis with Comprehensive Canvas Layout](https://arxiv.org/abs/2404.00412v1) | arxiv 24.04 | [[code]](https://github.com/ayanban011/SVGCraft) |
@@ -919,7 +919,7 @@ Here we focus on learning-based vector graphics generation **without** depending
 | [Diff3DS: Generating View-Consistent 3D Sketch via Differentiable Curve Rendering](https://arxiv.org/abs/2405.15305) | ICLR 2025 | [[webpage]](https://yiboz2001.github.io/Diff3DS/) |
 | [Recovering Dynamic 3D Sketches from Videos](https://arxiv.org/abs/2503.20321) | CVPR 2025 | [[webpage]](https://jaeah.me/liv3stroke_web/) |
 | [Empowering Vector Graphics with Consistently Arbitrary Viewing and View-dependent Visibility](https://arxiv.org/abs/2505.21377) | CVPR 2025 | [[code]](https://github.com/chenxinl/Dream3DVG) |
-| [ViewCraft3D: High-Fidelity and View-Consistent 3D Vector Graphics Synthesis](https://arxiv.org/abs/2505.19492) | arxiv 25.05 | [[webpage]](https://zhtjtcz.github.io/VC3D_page/) |
+| [ViewCraft3D: High-Fidelity and View-Consistent 3D Vector Graphics Synthesis](https://arxiv.org/abs/2505.19492) | NeurIPS 2025 | [[webpage]](https://zhtjtcz.github.io/VC3D_page/) |
 
 - 3D Edges
 
