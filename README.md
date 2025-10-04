@@ -772,6 +772,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | **SVG** | [SVGenius: Benchmarking LLMs in SVG Understanding, Editing and Generation](https://arxiv.org/abs/2506.03139) | arxiv 25.06 | [[webpage]](https://zju-real.github.io/SVGenius/) [[code]](https://github.com/ZJU-REAL/SVGenius) |
 | **SVG** | [SVGen: Interpretable Vector Graphics Generation with Large Language Models](https://arxiv.org/abs/2508.09168) | arxiv 25.08 | [[code]](https://github.com/gitcat-404/SVGen) |
 | **SVG** | [UniSVG: A Unified Dataset for Vector Graphic Understanding and Generation with Multimodal Large Language Models](https://arxiv.org/abs/2508.07766) | MM 2025 | [[webpage]](https://ryanlijinke.github.io/) |
+| **SVG** | [SVGThinker: Instruction-Aligned and Reasoning-Driven Text-to-SVG Generation](https://arxiv.org/abs/2509.24299) | MM 2025 |  |
 | **Arbitrary** | [SketchRefiner: Text-Guided Sketch Refinement Through Latent Diffusion Models](https://ieeexplore.ieee.org/abstract/document/11176130) | TVCG 2025 |  |
 
 ---
