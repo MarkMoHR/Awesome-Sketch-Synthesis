@@ -825,6 +825,7 @@ a) Line art
 | [Vectorizing Line Drawings of Arbitrary Thickness via Boundary-based Topology Reconstruction](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14485) | CGF 2022 |  | No |
 | [Singularity-Free Frame Fields for Line Drawing Vectorization](https://diglib.eg.org/handle/10.1111/cgf14901) | SGP 2023 | [[code]](https://github.com/SingularityFreeFrameFields/Code) | No |
 | [Deep Sketch Vectorization via Implicit Surface Extraction](https://cragl.cs.gmu.edu/sketchvector/Deep%20Sketch%20Vectorization%20via%20Implicit%20Surface%20Extraction%20(Chuan%20Yan,%20Yong%20Li,%20Deepali%20Aneja,%20Matthew%20Fisher,%20Edgar%20Simo-Serra,%20Yotam%20Gingold%202024%20SIGGRAPH).pdf) | SIGGRAPH 2024 | [[project]](https://cragl.cs.gmu.edu/sketchvector/) [[code]](https://github.com/Nauhcnay/Deep-Sketch-Vectorization) | Hybrid |
+| [Single-Line Drawing Vectorization](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.70228) | CGF 2025 | [[code]](https://github.com/tanguymagne/SLD-Vectorization) | Hybrid |
 
 
 b) Rough sketch simplification / cleanup
@@ -937,7 +938,7 @@ Here we focus on learning-based vector graphics generation **without** depending
 | --- | --- | --- |
 | [Wired Perspectives: Multi-View Wire Art Embraces Generative AI](https://openaccess.thecvf.com/content/CVPR2024/papers/Qu_Wired_Perspectives_Multi-View_Wire_Art_Embraces_Generative_AI_CVPR_2024_paper.pdf) | CVPR 2024 | [[code]](https://github.com/WinKawaks/DreamWire) [[webpage]](https://dreamwireart.github.io/) |
 | [Fabricable 3D Wire Art](https://doi.org/10.1145/3641519.3657453) | SIGGRAPH 2024 |  |
-| [WIR3D: Visually-Informed and Geometry-Aware 3D Shape Abstraction](https://arxiv.org/abs/2505.04813) | arxiv 25.05 | [[webpage]](https://threedle.github.io/wir3d/) [[code]](https://github.com/threedle/wir3d) |
+| [WIR3D: Visually-Informed and Geometry-Aware 3D Shape Abstraction](https://arxiv.org/abs/2505.04813) | ICCV 2025 | [[webpage]](https://threedle.github.io/wir3d/) [[code]](https://github.com/threedle/wir3d) |
 
 
 
