@@ -939,6 +939,7 @@ Here we focus on learning-based vector graphics generation **without** depending
 | [Wired Perspectives: Multi-View Wire Art Embraces Generative AI](https://openaccess.thecvf.com/content/CVPR2024/papers/Qu_Wired_Perspectives_Multi-View_Wire_Art_Embraces_Generative_AI_CVPR_2024_paper.pdf) | CVPR 2024 | [[code]](https://github.com/WinKawaks/DreamWire) [[webpage]](https://dreamwireart.github.io/) |
 | [Fabricable 3D Wire Art](https://doi.org/10.1145/3641519.3657453) | SIGGRAPH 2024 |  |
 | [WIR3D: Visually-Informed and Geometry-Aware 3D Shape Abstraction](https://arxiv.org/abs/2505.04813) | ICCV 2025 | [[webpage]](https://threedle.github.io/wir3d/) [[code]](https://github.com/threedle/wir3d) |
+| [CLR-Wire: Towards Continuous Latent Representations for 3D Curve Wireframe Generation](https://arxiv.org/abs/2504.19174) | SIGGRAPH 2025 | [[webpage]](https://vcc.tech/research/2025/CLRWire) [[code]](https://github.com/qixuema/CLR-Wire) |
 
 
 
