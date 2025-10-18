@@ -775,6 +775,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | **SVG** | [SVGThinker: Instruction-Aligned and Reasoning-Driven Text-to-SVG Generation](https://arxiv.org/abs/2509.24299) | MM 2025 |  |
 | **Arbitrary** | [SketchRefiner: Text-Guided Sketch Refinement Through Latent Diffusion Models](https://ieeexplore.ieee.org/abstract/document/11176130) | TVCG 2025 |  |
 | **Arbitrary** | [AutoSketch: VLM-assisted Style-Aware Vector Sketch Completion](https://arxiv.org/abs/2502.06860) | SIGGRAPH Asia 2025 | [[webpage]](https://jdily.github.io/autosketch.github.io/) |
+| **SVG** | [InternSVG: Towards Unified SVG Tasks with Multimodal Large Language Models](https://arxiv.org/abs/2510.11341) | arxiv 25.10 | [[webpage]](https://hmwang2002.github.io/release/internsvg/) [[code]](https://github.com/hmwang2002/InternSVG) |
 
 ---
 
