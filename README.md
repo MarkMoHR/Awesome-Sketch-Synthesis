@@ -393,7 +393,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td><strong>Code/Project Link</strong></td>
   </tr>
   <tr>
-    <td rowspan="13"><strong>Instance-level</strong></td>
+    <td rowspan="14"><strong>Instance-level</strong></td>
     <td> <a href="https://openreview.net/pdf?id=Hy6GHpkCW">A Neural Representation of Sketch Drawings (sketch-rnn)</a> </td> 
     <td> ICLR 2018 </td> 
     <td> 
@@ -480,6 +480,13 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> <a href="https://arxiv.org/abs/2503.23752">StrokeFusion: Vector Sketch Generation via Joint Stroke-UDF Encoding and Latent Sequence Diffusion</a> </td> 
     <td> arxiv 25.03 </td> 
     <td> 
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_VQ-SGen_A_Vector_Quantized_Stroke_Representation_for_Creative_Sketch_Generation_ICCV_2025_paper.pdf">VQ-SGen: A Vector Quantized Stroke Representation for Creative Sketch Generation</a> </td> 
+    <td> ICCV 2025 </td> 
+    <td> 
+      <a href="https://enigma-li.github.io/projects/VQ-SGen/VQ-SGen.html">[Webpage]</a> 
     </td>
   </tr>
   
@@ -695,7 +702,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     </td>
   </tr>
   <tr>
-    <td rowspan="4"><strong>Arbitrary</strong></td>
+    <td rowspan="5"><strong>Arbitrary</strong></td>
     <td> <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Im2Pencil_Controllable_Pencil_Illustration_From_Photographs_CVPR_2019_paper.pdf">Im2Pencil: Controllable Pencil Illustration From Photographs</a> </td> 
     <td> CVPR 2019 </td> 
     <td>
@@ -721,6 +728,13 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> AAAI 2025 </td> 
     <td> 
       <a href="https://github.com/Ref2Sketch-SA">[Code]</a> 
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Yang_Stroke2Sketch_Harnessing_Stroke_Attributes_for_Training-Free_Sketch_Generation_ICCV_2025_paper.pdf">Stroke2Sketch: Harnessing Stroke Attributes for Training-Free Sketch Generation</a> </td> 
+    <td> ICCV 2025 </td> 
+    <td> 
+      <a href="https://github.com/rane7/Stroke2Sketch">[Code]</a> 
     </td>
   </tr>
 </table>
@@ -765,12 +779,12 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | **SVG** | [StarVector: Generating Scalable Vector Graphics Code from Images and Text](https://arxiv.org/abs/2312.11556) | CVPR 2025 | [[webpage]](https://starvector.github.io/) [[code]](https://github.com/joanrod/star-vector) |
 | **SVG** | [NeuralSVG: An Implicit Representation for Text-to-Vector Generation](https://arxiv.org/abs/2501.03992) | ICCV 2025 | [[webpage]](https://sagipolaczek.github.io/NeuralSVG/) [[code]](https://github.com/SagiPolaczek/NeuralSVG) |
 | **SVG** | [LayerTracer: Cognitive-Aligned Layered SVG Synthesis via Diffusion Transformer](https://arxiv.org/abs/2502.01105) | arxiv 25.02 | [[code]](https://github.com/showlab/LayerTracer) |
-| **SVG** | [OmniSVG: A Unified Scalable Vector Graphics Generation Model](https://arxiv.org/abs/2504.06263) | arxiv 25.04 | [[code]](https://github.com/OmniSVG/OmniSVG) [[webpage]](https://omnisvg.github.io/) |
+| **SVG** | [OmniSVG: A Unified Scalable Vector Graphics Generation Model](https://arxiv.org/abs/2504.06263) | NeurIPS 2025 | [[code]](https://github.com/OmniSVG/OmniSVG) [[webpage]](https://omnisvg.github.io/) |
 | **SVG** | [Style Customization of Text-to-Vector Generation with Image Diffusion Priors](https://arxiv.org/abs/2505.10558) | SIGGRAPH 2025 | [[code]](https://github.com/intchous/custom-svg-style) [[webpage]](https://customsvg.github.io/) |
-| **SVG** | [LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization](https://arxiv.org/abs/2505.23740) | arxiv 25.05 | [[webpage]](https://layerpeeler.github.io/) |
+| **SVG** | [LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization](https://arxiv.org/abs/2505.23740) | SIGGRAPH Asia 2025 | [[webpage]](https://layerpeeler.github.io/) |
 | **SVG** | [Reason-SVG: Hybrid Reward RL for Aha-Moments in Vector Graphics Generation](https://arxiv.org/abs/2505.24499) | arxiv 25.05 |  |
 | **SVG** | [SVGenius: Benchmarking LLMs in SVG Understanding, Editing and Generation](https://arxiv.org/abs/2506.03139) | arxiv 25.06 | [[webpage]](https://zju-real.github.io/SVGenius/) [[code]](https://github.com/ZJU-REAL/SVGenius) |
-| **SVG** | [SVGen: Interpretable Vector Graphics Generation with Large Language Models](https://arxiv.org/abs/2508.09168) | arxiv 25.08 | [[code]](https://github.com/gitcat-404/SVGen) |
+| **SVG** | [SVGen: Interpretable Vector Graphics Generation with Large Language Models](https://arxiv.org/abs/2508.09168) | MM 2025 | [[code]](https://github.com/gitcat-404/SVGen) |
 | **SVG** | [UniSVG: A Unified Dataset for Vector Graphic Understanding and Generation with Multimodal Large Language Models](https://arxiv.org/abs/2508.07766) | MM 2025 | [[webpage]](https://ryanlijinke.github.io/) |
 | **SVG** | [SVGThinker: Instruction-Aligned and Reasoning-Driven Text-to-SVG Generation](https://arxiv.org/abs/2509.24299) | MM 2025 |  |
 | **Arbitrary** | [SketchRefiner: Text-Guided Sketch Refinement Through Latent Diffusion Models](https://ieeexplore.ieee.org/abstract/document/11176130) | TVCG 2025 |  |
