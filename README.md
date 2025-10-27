@@ -656,7 +656,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     </td>
   </tr>
   <tr>
-    <td rowspan="4"><strong>Anime</strong></td>
+    <td rowspan="5"><strong>Anime</strong></td>
     <td> <a href="https://github.com/lllyasviel/sketchKeras">sketchKeras</a> </td> 
     <td> online demo </td> 
     <td> 
@@ -682,6 +682,13 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> SIGGRAPH Asia 2022 </td> 
     <td>
       <a href="https://github.com/ref2sketch/ref2sketch">[Code]</a> 
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://ieeexplore.ieee.org/abstract/document/11216020">DoodleAssist: Progressive Interactive Line Art Generation with Latent Distribution Alignment</a> </td> 
+    <td> TVCG 2025 </td> 
+    <td>
+      <a href="https://github.com/MarkMoHR/DoodleAssist">[Code]</a> 
     </td>
   </tr>
   <tr>
