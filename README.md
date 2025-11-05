@@ -20,6 +20,7 @@ A collection of papers about Sketch Synthesis (Generation). Mainly focus on stro
   - [5) Art-to-sketch](#5-art-to-sketch)
 - [3. Vector Graphics Generation (2D)](#3-vector-graphics-generation-2d)
 - [4. Vector Graphics Generation (3D)](#4-vector-graphics-generation-3d)
+- [5. Vector Graphics Generation (4D)](#5-vector-graphics-generation-4d)
 
 ---
 
@@ -797,6 +798,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | **Arbitrary** | [SketchRefiner: Text-Guided Sketch Refinement Through Latent Diffusion Models](https://ieeexplore.ieee.org/abstract/document/11176130) | TVCG 2025 |  |
 | **Arbitrary** | [AutoSketch: VLM-assisted Style-Aware Vector Sketch Completion](https://arxiv.org/abs/2502.06860) | SIGGRAPH Asia 2025 | [[webpage]](https://jdily.github.io/autosketch.github.io/) |
 | **SVG** | [InternSVG: Towards Unified SVG Tasks with Multimodal Large Language Models](https://arxiv.org/abs/2510.11341) | arxiv 25.10 | [[webpage]](https://hmwang2002.github.io/release/internsvg/) [[code]](https://github.com/hmwang2002/InternSVG) |
+| **SVG** | [RoboSVG: A Unified Framework for Interactive SVG Generation with Multi-modal Guidance](https://arxiv.org/abs/2510.22684) | arxiv 25.10 |  |
 
 ---
 
@@ -965,5 +967,10 @@ Here we focus on learning-based vector graphics generation **without** depending
 | [CLR-Wire: Towards Continuous Latent Representations for 3D Curve Wireframe Generation](https://arxiv.org/abs/2504.19174) | SIGGRAPH 2025 | [[webpage]](https://vcc.tech/research/2025/CLRWire) [[code]](https://github.com/qixuema/CLR-Wire) |
 
 
+## 5. Vector Graphics Generation (4D)
+
+| Paper | Source | Code/Project Link |
+| --- | --- | --- |
+| [4-Doodle: Text to 3D Sketches that Move!](https://arxiv.org/abs/2510.25319) | arxiv 25.10 |  |
 
 
