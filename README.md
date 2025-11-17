@@ -394,7 +394,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td><strong>Code/Project Link</strong></td>
   </tr>
   <tr>
-    <td rowspan="14"><strong>Instance-level</strong></td>
+    <td rowspan="16"><strong>Instance-level</strong></td>
     <td> <a href="https://openreview.net/pdf?id=Hy6GHpkCW">A Neural Representation of Sketch Drawings (sketch-rnn)</a> </td> 
     <td> ICLR 2018 </td> 
     <td> 
@@ -478,6 +478,13 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     </td>
   </tr>
   <tr>
+    <td> <a href="https://www.ijcai.org/proceedings/2024/0493.pdf">SketchEdit: Editing Freehand Sketches at the Stroke-level</a> </td> 
+    <td> IJCAI 24 </td> 
+    <td> 
+      <a href="https://github.com/CMACH508/SketchEdit/">[code]</a> 
+    </td>
+  </tr>
+  <tr>
     <td> <a href="https://arxiv.org/abs/2503.23752">StrokeFusion: Vector Sketch Generation via Joint Stroke-UDF Encoding and Latent Sequence Diffusion</a> </td> 
     <td> arxiv 25.03 </td> 
     <td> 
@@ -488,6 +495,13 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> ICCV 2025 </td> 
     <td> 
       <a href="https://enigma-li.github.io/projects/VQ-SGen/VQ-SGen.html">[Webpage]</a> 
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://arxiv.org/abs/2511.07889">Generating Sketches in a Hierarchical Auto-Regressive Process for Flexible Sketch Drawing Manipulation at Stroke-Level</a> </td> 
+    <td> AAAI 2026 </td> 
+    <td> 
+      <a href="https://github.com/SCZang/Sketch-HARP">[code]</a> 
     </td>
   </tr>
   
