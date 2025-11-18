@@ -914,6 +914,7 @@ Here we focus on learning-based vector graphics generation **without** depending
 
 | Paper | Source | Code/Project Link |
 | --- | --- | --- |
+| [Neural Image Abstraction Using Long Smoothing B-Splines](https://arxiv.org/abs/2511.05360) | SIGGRAPH Asia 2025 |  |
 | [Layered Image Vectorization via Semantic Simplification](https://arxiv.org/abs/2406.05404) | CVPR 2025 | [[webpage]](https://szuviz.github.io/layered_vectorization/) [[code]](https://github.com/SZUVIZ/layered_vectorization/) |
 | [Inverse Painting: Reconstructing The Painting Process](https://dl.acm.org/doi/full/10.1145/3680528.3687574) | SIGGRAPH Asia 2024 | [[code]](https://github.com/ArmastusChen/inverse_painting) |
 | [ProcessPainter: Learning to draw from sequence data](https://arxiv.org/abs/2406.06062) | SIGGRAPH Asia 2024 | [[code]](https://github.com/nicolaus-huang/ProcessPainter) |
