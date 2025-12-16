@@ -813,6 +813,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | **Arbitrary** | [AutoSketch: VLM-assisted Style-Aware Vector Sketch Completion](https://arxiv.org/abs/2502.06860) | SIGGRAPH Asia 2025 | [[webpage]](https://jdily.github.io/autosketch.github.io/) |
 | **SVG** | [InternSVG: Towards Unified SVG Tasks with Multimodal Large Language Models](https://arxiv.org/abs/2510.11341) | arxiv 25.10 | [[webpage]](https://hmwang2002.github.io/release/internsvg/) [[code]](https://github.com/hmwang2002/InternSVG) |
 | **SVG** | [RoboSVG: A Unified Framework for Interactive SVG Generation with Multi-modal Guidance](https://arxiv.org/abs/2510.22684) | arxiv 25.10 |  |
+| **SVG** | [DuetSVG: Unified Multimodal SVG Generation with Internal Visual Guidance](https://arxiv.org/abs/2512.10894) | arxiv 25.12 | [[webpage]](https://intchous.github.io/DuetSVG-site/) |
 
 ---
 
