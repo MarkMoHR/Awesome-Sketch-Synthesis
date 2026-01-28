@@ -485,16 +485,16 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     </td>
   </tr>
   <tr>
-    <td> <a href="https://arxiv.org/abs/2503.23752">StrokeFusion: Vector Sketch Generation via Joint Stroke-UDF Encoding and Latent Sequence Diffusion</a> </td> 
-    <td> arxiv 25.03 </td> 
-    <td> 
-    </td>
-  </tr>
-  <tr>
     <td> <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_VQ-SGen_A_Vector_Quantized_Stroke_Representation_for_Creative_Sketch_Generation_ICCV_2025_paper.pdf">VQ-SGen: A Vector Quantized Stroke Representation for Creative Sketch Generation</a> </td> 
     <td> ICCV 2025 </td> 
     <td> 
       <a href="https://enigma-li.github.io/projects/VQ-SGen/VQ-SGen.html">[Webpage]</a> 
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://arxiv.org/abs/2503.23752">StrokeFusion: Vector Sketch Generation via Joint Stroke-UDF Encoding and Latent Sequence Diffusion</a> </td> 
+    <td> AAAI 2026 </td> 
+    <td> 
     </td>
   </tr>
   <tr>
