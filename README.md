@@ -806,15 +806,15 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | **SVG** | [Style Customization of Text-to-Vector Generation with Image Diffusion Priors](https://arxiv.org/abs/2505.10558) | SIGGRAPH 2025 | [[code]](https://github.com/intchous/custom-svg-style) [[webpage]](https://customsvg.github.io/) |
 | **SVG** | [LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization](https://arxiv.org/abs/2505.23740) | SIGGRAPH Asia 2025 | [[webpage]](https://layerpeeler.github.io/) |
 | **SVG** | [Reason-SVG: Hybrid Reward RL for Aha-Moments in Vector Graphics Generation](https://arxiv.org/abs/2505.24499) | arxiv 25.05 |  |
-| **SVG** | [SVGenius: Benchmarking LLMs in SVG Understanding, Editing and Generation](https://arxiv.org/abs/2506.03139) | arxiv 25.06 | [[webpage]](https://zju-real.github.io/SVGenius/) [[code]](https://github.com/ZJU-REAL/SVGenius) |
+| **SVG** | [SVGenius: Benchmarking LLMs in SVG Understanding, Editing and Generation](https://arxiv.org/abs/2506.03139) | MM 2025 | [[webpage]](https://zju-real.github.io/SVGenius/) [[code]](https://github.com/ZJU-REAL/SVGenius) |
 | **SVG** | [SVGen: Interpretable Vector Graphics Generation with Large Language Models](https://arxiv.org/abs/2508.09168) | MM 2025 | [[code]](https://github.com/gitcat-404/SVGen) |
 | **SVG** | [UniSVG: A Unified Dataset for Vector Graphic Understanding and Generation with Multimodal Large Language Models](https://arxiv.org/abs/2508.07766) | MM 2025 | [[webpage]](https://ryanlijinke.github.io/) |
 | **SVG** | [SVGThinker: Instruction-Aligned and Reasoning-Driven Text-to-SVG Generation](https://arxiv.org/abs/2509.24299) | MM 2025 |  |
 | **Arbitrary** | [SketchRefiner: Text-Guided Sketch Refinement Through Latent Diffusion Models](https://ieeexplore.ieee.org/abstract/document/11176130) | TVCG 2025 |  |
 | **Arbitrary** | [AutoSketch: VLM-assisted Style-Aware Vector Sketch Completion](https://arxiv.org/abs/2502.06860) | SIGGRAPH Asia 2025 | [[webpage]](https://jdily.github.io/autosketch.github.io/) |
-| **SVG** | [InternSVG: Towards Unified SVG Tasks with Multimodal Large Language Models](https://arxiv.org/abs/2510.11341) | arxiv 25.10 | [[webpage]](https://hmwang2002.github.io/release/internsvg/) [[code]](https://github.com/hmwang2002/InternSVG) |
 | **SVG** | [RoboSVG: A Unified Framework for Interactive SVG Generation with Multi-modal Guidance](https://arxiv.org/abs/2510.22684) | arxiv 25.10 |  |
 | **SVG** | [DuetSVG: Unified Multimodal SVG Generation with Internal Visual Guidance](https://arxiv.org/abs/2512.10894) | arxiv 25.12 | [[webpage]](https://intchous.github.io/DuetSVG-site/) |
+| **SVG** | [InternSVG: Towards Unified SVG Tasks with Multimodal Large Language Models](https://arxiv.org/abs/2510.11341) | ICLR 2026 | [[webpage]](https://hmwang2002.github.io/release/internsvg/) [[code]](https://github.com/hmwang2002/InternSVG) |
 
 ---
 
