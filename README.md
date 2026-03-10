@@ -822,6 +822,13 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | **SVG** | [DuetSVG: Unified Multimodal SVG Generation with Internal Visual Guidance](https://arxiv.org/abs/2512.10894) | CVPR 2026 | [[webpage]](https://intchous.github.io/DuetSVG-site/) |
 | **SVG** | [InternSVG: Towards Unified SVG Tasks with Multimodal Large Language Models](https://arxiv.org/abs/2510.11341) | ICLR 2026 | [[webpage]](https://hmwang2002.github.io/release/internsvg/) [[code]](https://github.com/hmwang2002/InternSVG) |
 
+
+- Sequential vector image generation
+
+| Type | Paper | Source | Code/Project Link |
+| --- | --- | --- | --- |
+| **Sketch** | [VideoSketcher: Video Models Prior Enable Versatile Sequential Sketch Generation](https://arxiv.org/abs/2602.15819) | arxiv 26.02 | [[code]](https://github.com/VideoSketcher/VideoSketcher) [[webpage]](https://videosketcher.github.io/) |
+
 ---
 
 ### 4) 3D shape-to-sketch
