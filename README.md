@@ -724,7 +724,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     </td>
   </tr>
   <tr>
-    <td rowspan="5"><strong>Arbitrary</strong></td>
+    <td rowspan="6"><strong>Arbitrary</strong></td>
     <td> <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Im2Pencil_Controllable_Pencil_Illustration_From_Photographs_CVPR_2019_paper.pdf">Im2Pencil: Controllable Pencil Illustration From Photographs</a> </td> 
     <td> CVPR 2019 </td> 
     <td>
@@ -758,6 +758,12 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> ICCV 2025 </td> 
     <td> 
       <a href="https://github.com/rane7/Stroke2Sketch">[Code]</a> 
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://openaccess.thecvf.com/content/WACV2026/papers/Li_VideoSketcher_A_Training-Free_Approach_for_Coherent_Video_Sketch_Transfer_WACV_2026_paper.pdf">VideoSketcher: A Training-Free Approach for Coherent Video Sketch Transfer</a> </td> 
+    <td> WACV 2026 </td> 
+    <td> 
     </td>
   </tr>
 </table>
