@@ -394,7 +394,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td><strong>Code/Project Link</strong></td>
   </tr>
   <tr>
-    <td rowspan="16"><strong>Instance-level</strong></td>
+    <td rowspan="17"><strong>Instance-level</strong></td>
     <td> <a href="https://openreview.net/pdf?id=Hy6GHpkCW">A Neural Representation of Sketch Drawings (sketch-rnn)</a> </td> 
     <td> ICLR 2018 </td> 
     <td> 
@@ -475,6 +475,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> <a href="https://openreview.net/forum?id=5xadJmgwix">Scale-Adaptive Diffusion Model for Complex Sketch Synthesis</a> </td> 
     <td> ICLR 2024 </td> 
     <td> 
+      <a href="https://github.com/HuJijin/Adaptive_Guided_Sketch">[Code]</a> 
     </td>
   </tr>
   <tr>
@@ -502,6 +503,13 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> AAAI 2026 </td> 
     <td> 
       <a href="https://github.com/SCZang/Sketch-HARP">[code]</a> 
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://link.springer.com/article/10.1007/s11263-026-02768-5">SACG++: Complex Sketch Generation via Representation-Enhanced Scale-Adaptive Classifier Guidance</a> </td> 
+    <td> IJCV 2026 </td> 
+    <td> 
+      <a href="https://github.com/HuJijin/Adaptive_Guided_Sketch">[code]</a> 
     </td>
   </tr>
   
