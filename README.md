@@ -263,7 +263,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> Rough and clean sketch pairs (only for evaluation) </td>  
   </tr>
   <tr>
-    <td rowspan="5"><strong>CAD</strong></td>
+    <td rowspan="6"><strong>CAD</strong></td>
     <td> <a href="https://gfx.cs.princeton.edu/proj/ld3d/">ld3d</a> </td> 
     <td> SIGGRAPH 2008 </td> 
     <td> :x: </td> 
@@ -297,6 +297,13 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> :heavy_check_mark: </td> 
     <td> :x: </td> 
     <td> With instance and semantic annotations </td>  
+  </tr>
+  <tr>
+    <td> <a href="https://huggingface.co/unisketch">UniSketch</a> </td> 
+    <td> AAAI 2026 </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> :x: </td> 
+    <td> With 7 geometric primitives and 23 2D constraints </td>  
   </tr>
   <tr>
     <td rowspan="11"><strong>Anime</strong></td>
@@ -593,12 +600,19 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     </td>
   </tr>
   <tr>
-    <td rowspan="1"><strong>Technical Drawings</strong></td>
+    <td rowspan="2"><strong>Technical Drawings / CAD</strong></td>
     <td> <a href="https://arxiv.org/abs/2003.05471">Deep Vectorization of Technical Drawings</a> </td> 
     <td> ECCV 2020 </td> 
     <td>
       <a href="http://adase.group/3ddl/projects/vectorization/">[Project]</a> 
       <a href="https://github.com/Vahe1994/Deep-Vectorization-of-Technical-Drawings">[code]</a> 
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/39525">UniSketch: A Unified Framework for Parametric Sketch Generation and Constraint Prediction</a> </td> 
+    <td> AAAI 2026 </td> 
+    <td> 
+      <a href="https://github.com/skylark1003/UniSketch">[code]</a> 
     </td>
   </tr>
 </table>
