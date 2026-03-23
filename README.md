@@ -823,7 +823,6 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | **Arbitrary** | [SVGCraft: Beyond Single Object Text-to-SVG Synthesis with Comprehensive Canvas Layout](https://arxiv.org/abs/2404.00412v1) | arxiv 24.04 | [[code]](https://github.com/ayanban011/SVGCraft) |
 | **SVG** | [VectorPainter: A Novel Approach to Stylized Vector Graphics Synthesis with Vectorized Strokes](https://arxiv.org/abs/2405.02962) | ICME 2025 | [[code]](https://github.com/hjc-owo/VectorPainter) [[webpage]](https://hjc-owo.github.io/VectorPainterProject/) |
 | **SVG** | [Chat2SVG: Vector Graphics Generation with Large Language Models and Image Diffusion Models](https://arxiv.org/abs/2411.16602) | CVPR 2025 | [[webpage]](https://chat2svg.github.io/) |
-| **Arbitrary** | [SketchAgent: Language-Driven Sequential Sketch Generation](https://arxiv.org/abs/2411.17673) | CVPR 2025 | [[code]](https://github.com/yael-vinker/SketchAgent) [[webpage]](https://yael-vinker.github.io/sketch-agent/) |
 | **SVG** | [SVGBuilder: Component-Based Colored SVG Generation with Text-Guided Autoregressive Transformers](https://arxiv.org/abs/2412.10488) | AAAI 2025 | [[webpage]](https://svgbuilder.github.io/) |
 | **SVG** | [SVGFusion: Scalable Text-to-SVG Generation via Vector Space Diffusion](https://arxiv.org/abs/2412.10437) | arxiv 24.12 | [[webpage]](https://ximinng.github.io/SVGFusionProject/) [[code]](https://github.com/ximinng/SVGFusion) |
 | **SVG** | [Empowering LLMs to Understand and Generate Complex Vector Graphics](https://arxiv.org/abs/2412.11102) | CVPR 2025 | [[webpage]](https://ximinng.github.io/LLM4SVGProject/) [[code]](https://github.com/ximinng/LLM4SVG) |
@@ -849,6 +848,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 
 | Type | Paper | Source | Code/Project Link |
 | --- | --- | --- | --- |
+| **Sketch** | [SketchAgent: Language-Driven Sequential Sketch Generation](https://arxiv.org/abs/2411.17673) | CVPR 2025 | [[code]](https://github.com/yael-vinker/SketchAgent) [[webpage]](https://yael-vinker.github.io/sketch-agent/) |
 | **Sketch** | [VideoSketcher: Video Models Prior Enable Versatile Sequential Sketch Generation](https://arxiv.org/abs/2602.15819) | arxiv 26.02 | [[code]](https://github.com/VideoSketcher/VideoSketcher) [[webpage]](https://videosketcher.github.io/) |
 
 ---
