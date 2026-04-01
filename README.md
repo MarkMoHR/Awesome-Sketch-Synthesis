@@ -842,14 +842,16 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | **SVG** | [RoboSVG: A Unified Framework for Interactive SVG Generation with Multi-modal Guidance](https://arxiv.org/abs/2510.22684) | arxiv 25.10 |  |
 | **SVG** | [DuetSVG: Unified Multimodal SVG Generation with Internal Visual Guidance](https://arxiv.org/abs/2512.10894) | CVPR 2026 | [[webpage]](https://intchous.github.io/DuetSVG-site/) |
 | **SVG** | [InternSVG: Towards Unified SVG Tasks with Multimodal Large Language Models](https://arxiv.org/abs/2510.11341) | ICLR 2026 | [[webpage]](https://hmwang2002.github.io/release/internsvg/) [[code]](https://github.com/hmwang2002/InternSVG) |
+| **SVG** | [Reliable Reasoning in SVG-LLMs via Multi-Task Multi-Reward Reinforcement Learning](https://arxiv.org/abs/2603.16189) | arxiv 26.03 | [[code]](https://github.com/hmwang2002/CTRL-S) |
 
 
-- Sequential vector image generation
+- Sequential/Progressive vector image generation
 
 | Type | Paper | Source | Code/Project Link |
 | --- | --- | --- | --- |
 | **Sketch** | [SketchAgent: Language-Driven Sequential Sketch Generation](https://arxiv.org/abs/2411.17673) | CVPR 2025 | [[code]](https://github.com/yael-vinker/SketchAgent) [[webpage]](https://yael-vinker.github.io/sketch-agent/) |
 | **Sketch** | [VideoSketcher: Video Models Prior Enable Versatile Sequential Sketch Generation](https://arxiv.org/abs/2602.15819) | arxiv 26.02 | [[code]](https://github.com/VideoSketcher/VideoSketcher) [[webpage]](https://videosketcher.github.io/) |
+| **Sketch** | [Teaching an Agent to Sketch One Part at a Time](https://arxiv.org/abs/2603.19500) | arxiv 26.03 |  |
 
 ---
 
