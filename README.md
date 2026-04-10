@@ -832,7 +832,6 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | **SVG** | [OmniSVG: A Unified Scalable Vector Graphics Generation Model](https://arxiv.org/abs/2504.06263) | NeurIPS 2025 | [[code]](https://github.com/OmniSVG/OmniSVG) [[webpage]](https://omnisvg.github.io/) |
 | **SVG** | [Style Customization of Text-to-Vector Generation with Image Diffusion Priors](https://arxiv.org/abs/2505.10558) | SIGGRAPH 2025 | [[code]](https://github.com/intchous/custom-svg-style) [[webpage]](https://customsvg.github.io/) |
 | **SVG** | [LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization](https://arxiv.org/abs/2505.23740) | SIGGRAPH Asia 2025 | [[webpage]](https://layerpeeler.github.io/) |
-| **SVG** | [Reason-SVG: Hybrid Reward RL for Aha-Moments in Vector Graphics Generation](https://arxiv.org/abs/2505.24499) | arxiv 25.05 |  |
 | **SVG** | [SVGenius: Benchmarking LLMs in SVG Understanding, Editing and Generation](https://arxiv.org/abs/2506.03139) | MM 2025 | [[webpage]](https://zju-real.github.io/SVGenius/) [[code]](https://github.com/ZJU-REAL/SVGenius) |
 | **SVG** | [SVGen: Interpretable Vector Graphics Generation with Large Language Models](https://arxiv.org/abs/2508.09168) | MM 2025 | [[code]](https://github.com/gitcat-404/SVGen) |
 | **SVG** | [UniSVG: A Unified Dataset for Vector Graphic Understanding and Generation with Multimodal Large Language Models](https://arxiv.org/abs/2508.07766) | MM 2025 | [[webpage]](https://ryanlijinke.github.io/) |
@@ -841,8 +840,10 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | **Arbitrary** | [AutoSketch: VLM-assisted Style-Aware Vector Sketch Completion](https://arxiv.org/abs/2502.06860) | SIGGRAPH Asia 2025 | [[webpage]](https://jdily.github.io/autosketch.github.io/) |
 | **SVG** | [RoboSVG: A Unified Framework for Interactive SVG Generation with Multi-modal Guidance](https://arxiv.org/abs/2510.22684) | arxiv 25.10 |  |
 | **SVG** | [DuetSVG: Unified Multimodal SVG Generation with Internal Visual Guidance](https://arxiv.org/abs/2512.10894) | CVPR 2026 | [[webpage]](https://intchous.github.io/DuetSVG-site/) |
+| **SVG** | [Reason-SVG: Hybrid Reward RL for Aha-Moments in Vector Graphics Generation](https://arxiv.org/abs/2505.24499) | CVPR 2026 |  |
 | **SVG** | [InternSVG: Towards Unified SVG Tasks with Multimodal Large Language Models](https://arxiv.org/abs/2510.11341) | ICLR 2026 | [[webpage]](https://hmwang2002.github.io/release/internsvg/) [[code]](https://github.com/hmwang2002/InternSVG) |
 | **SVG** | [Reliable Reasoning in SVG-LLMs via Multi-Task Multi-Reward Reinforcement Learning](https://arxiv.org/abs/2603.16189) | arxiv 26.03 | [[code]](https://github.com/hmwang2002/CTRL-S) |
+| **SVG** | [Hierarchical SVG Tokenization: Learning Compact Visual Programs for Scalable Vector Graphics Modeling](https://arxiv.org/abs/2604.05072) | arxiv 26.04 | [[code]](https://github.com/ximinng/HiVG) [[webpage]](https://hy-hivg.github.io/) |
 
 
 - Sequential/Progressive vector image generation
