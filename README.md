@@ -1005,6 +1005,7 @@ Here we focus on learning-based vector graphics generation **without** depending
 | [Recovering Dynamic 3D Sketches from Videos](https://arxiv.org/abs/2503.20321) | CVPR 2025 | [[webpage]](https://jaeah.me/liv3stroke_web/) |
 | [Empowering Vector Graphics with Consistently Arbitrary Viewing and View-dependent Visibility](https://arxiv.org/abs/2505.21377) | CVPR 2025 | [[code]](https://github.com/chenxinl/Dream3DVG) |
 | [ViewCraft3D: High-Fidelity and View-Consistent 3D Vector Graphics Synthesis](https://arxiv.org/abs/2505.19492) | NeurIPS 2025 | [[webpage]](https://zhtjtcz.github.io/VC3D_page/) |
+| [3DrawAgent: Teaching LLM to Draw in 3D with Early Contrastive Experience](https://arxiv.org/abs/2604.08042) | CVPR 2026 |  |
 
 - 3D Edges
 
