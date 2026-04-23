@@ -843,8 +843,8 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | **SVG** | [Reason-SVG: Hybrid Reward RL for Aha-Moments in Vector Graphics Generation](https://arxiv.org/abs/2505.24499) | CVPR 2026 |  |
 | **SVG** | [InternSVG: Towards Unified SVG Tasks with Multimodal Large Language Models](https://arxiv.org/abs/2510.11341) | ICLR 2026 | [[webpage]](https://hmwang2002.github.io/release/internsvg/) [[code]](https://github.com/hmwang2002/InternSVG) |
 | **SVG** | [Reliable Reasoning in SVG-LLMs via Multi-Task Multi-Reward Reinforcement Learning](https://arxiv.org/abs/2603.16189) | arxiv 26.03 | [[code]](https://github.com/hmwang2002/CTRL-S) |
+| **SVG** | [VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models](https://arxiv.org/abs/2603.24575) | arxiv 26.03 |  |
 | **SVG** | [Hierarchical SVG Tokenization: Learning Compact Visual Programs for Scalable Vector Graphics Modeling](https://arxiv.org/abs/2604.05072) | arxiv 26.04 | [[code]](https://github.com/ximinng/HiVG) [[webpage]](https://hy-hivg.github.io/) |
-
 
 - Sequential/Progressive vector image generation
 
@@ -998,6 +998,8 @@ Here we focus on learning-based vector graphics generation **without** depending
 
 ## 4. Vector Graphics Generation (3D)
 
+- Sketch
+
 | Paper | Source | Code/Project Link |
 | --- | --- | --- |
 | [3Doodle: Compact Abstraction of Objects with 3D Strokes](https://arxiv.org/abs/2402.03690) | SIGGRAPH 2024 | [[code]](https://github.com/changwoonchoi/3Doodle) |
@@ -1006,6 +1008,12 @@ Here we focus on learning-based vector graphics generation **without** depending
 | [Empowering Vector Graphics with Consistently Arbitrary Viewing and View-dependent Visibility](https://arxiv.org/abs/2505.21377) | CVPR 2025 | [[code]](https://github.com/chenxinl/Dream3DVG) |
 | [ViewCraft3D: High-Fidelity and View-Consistent 3D Vector Graphics Synthesis](https://arxiv.org/abs/2505.19492) | NeurIPS 2025 | [[webpage]](https://zhtjtcz.github.io/VC3D_page/) |
 | [3DrawAgent: Teaching LLM to Draw in 3D with Early Contrastive Experience](https://arxiv.org/abs/2604.08042) | CVPR 2026 |  |
+
+- SVG
+
+| Paper | Source | Code/Project Link |
+| --- | --- | --- |
+| [Layer3D: A 3D Layered Representation for Multiview Vector Graphics](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.70375) | CGF 2026 |  |
 
 - 3D Edges
 
