@@ -15,12 +15,12 @@ A collection of papers about Sketch Synthesis (Generation). Mainly focus on stro
 - [2. Sketch-Synthesis Approaches](#2-sketch-synthesis-approaches)
   - [1) Semantic Concept-to-sketch](#1-semantic-concept-to-sketch)
   - [2) Photo-to-sketch](#2-photo-to-sketch)
-  - [3) Text/Attribute-to-sketch](#3-textattribute-to-sketch)
+  - [3) Text-to-sketch](#3-text-to-sketch)
   - [4) 3D shape-to-sketch](#4-3d-shape-to-sketch)
-  - [5) Art-to-sketch](#5-art-to-sketch)
-- [3. Vector Graphics Generation (2D)](#3-vector-graphics-generation-2d)
-- [4. Vector Graphics Generation (3D)](#4-vector-graphics-generation-3d)
-- [5. Vector Graphics Generation (4D)](#5-vector-graphics-generation-4d)
+- [3. Vectorization and Cleanup](#3-vectorization-and-cleanup)
+- [4. Vector Graphics Generation (2D)](#4-vector-graphics-generation-2d)
+- [5. Vector Graphics Generation (3D)](#5-vector-graphics-generation-3d)
+- [6. Vector Graphics Generation (4D)](#6-vector-graphics-generation-4d)
 
 ---
 
@@ -522,7 +522,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
   
 </table>
 
----
+
 
 ### 2) Photo-to-sketch
 
@@ -790,9 +790,8 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
   </tr>
 </table>
 
----
 
-### 3) Text/Attribute-to-sketch
+### 3) Text-to-sketch
 
 
 - raster image generation
@@ -854,7 +853,6 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | **Sketch** | [VideoSketcher: Video Models Prior Enable Versatile Sequential Sketch Generation](https://arxiv.org/abs/2602.15819) | arxiv 26.02 | [[code]](https://github.com/VideoSketcher/VideoSketcher) [[webpage]](https://videosketcher.github.io/) |
 | **Sketch** | [Teaching an Agent to Sketch One Part at a Time](https://arxiv.org/abs/2603.19500) | arxiv 26.03 |  |
 
----
 
 ### 4) 3D shape-to-sketch
 
@@ -867,25 +865,13 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | [Learning a Style Space for Interactive Line Drawing Synthesis from Animated 3D Models](https://graphics.cs.yale.edu/sites/default/files/linedrawinganimation_pg2022.pdf) | PG 2022 |  |
 | [CAD2Sketch: Generating Concept Sketches from CAD Sequences](https://repo-sam.inria.fr/d3/cad2sketch/cad2sketch_paper.pdf) | SIGGRAPH Asia 2022 | [[project]](https://ns.inria.fr/d3/cad2sketch/) |
 
----
 
-### 5) Art-to-sketch
 
-Here we list sketch synthesis based on other image types, like Manga, line art, rough sketch, etc.
 
-a) Line art
 
-- Vector-to-Vector
+## 3. Vectorization and Cleanup
 
-| Paper | Source | Code/Project Link | Deep learning? |
-| --- | --- | --- | --- |
-| [Closure-aware Sketch Simplification](http://www.cse.cuhk.edu.hk/~ttwong/papers/sketch/sketch.pdf) | SIGGRAPH Asia 2015 | [[Project]](https://www.cse.cuhk.edu.hk/~ttwong/papers/sketch/sketch.html) | No |
-| [StrokeAggregator: Consolidating Raw Sketches into Artist-Intended Curve Drawings](https://www.cs.ubc.ca/labs/imager/tr/2018/StrokeAggregator/StrokeAggregator_authorversion.pdf) | SIGGRAPH 2018 | [[Project]](https://www.cs.ubc.ca/labs/imager/tr/2018/StrokeAggregator/) | No |
-| [StrokeStrip: Joint Parameterization and Fitting of Stroke Clusters](https://www.davepagurek.com/programming/strokestrip/) | SIGGRAPH 2021 | [[Project]](https://www.davepagurek.com/programming/strokestrip/) [[code]](https://github.com/davepagurek/StrokeStrip) | No |
-| [StripMaker: Perception-driven Learned Vector Sketch Consolidation](https://dl.acm.org/doi/abs/10.1145/3592130) | SIGGRAPH 2023 |  | No |
-| [Region-Aware Simplification and Stylization of 3D Line Drawings](https://onlinelibrary.wiley.com/doi/10.1111/cgf.15042) | EG 2024 |  | No |
-
-- Raster-to-Vector (a.k.a. Vectorization)
+### 1) Line art vectorization
 
 | Paper | Source | Code/Project Link | Deep learning? |
 | --- | --- | --- | --- |
@@ -906,8 +892,7 @@ a) Line art
 | [Deep Sketch Vectorization via Implicit Surface Extraction](https://cragl.cs.gmu.edu/sketchvector/Deep%20Sketch%20Vectorization%20via%20Implicit%20Surface%20Extraction%20(Chuan%20Yan,%20Yong%20Li,%20Deepali%20Aneja,%20Matthew%20Fisher,%20Edgar%20Simo-Serra,%20Yotam%20Gingold%202024%20SIGGRAPH).pdf) | SIGGRAPH 2024 | [[project]](https://cragl.cs.gmu.edu/sketchvector/) [[code]](https://github.com/Nauhcnay/Deep-Sketch-Vectorization) | Hybrid |
 | [Single-Line Drawing Vectorization](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.70228) | CGF 2025 | [[code]](https://github.com/tanguymagne/SLD-Vectorization) | Hybrid |
 
-
-b) Rough sketch simplification / cleanup
+### 2) Rough sketch simplification / Cleanup
 
 - Datasets and benchmark
 
@@ -915,7 +900,7 @@ b) Rough sketch simplification / cleanup
 | --- | --- | --- |
 | [A Benchmark for Rough Sketch Cleanup](https://hal.archives-ouvertes.fr/hal-02939477/document) | SIGGRAPH Asia 2020 | [[Project]](https://cragl.cs.gmu.edu/sketchbench/)  [[Code]](https://github.com/Nauhcnay/A-Benchmark-for-Rough-Sketch-Cleanup) |
 
-- Methods
+- Raster input 
 
 | Paper | Source | Code/Project Link |
 | --- | --- | --- | 
@@ -924,11 +909,21 @@ b) Rough sketch simplification / cleanup
 | [Real-Time Data-Driven Interactive Rough Sketch Inking](https://esslab.jp/~ess/publications/SimoSerraSIGGRAPH2018.pdf) | SIGGRAPH 2018 | [[Code]](https://github.com/bobbens/line_thinning) [[Project]](https://esslab.jp/~ess/en/research/inking/) |
 | [Perceptual-aware Sketch Simplification Based on Integrated VGG Layers](https://ieeexplore.ieee.org/abstract/document/8771128/) | TVCG 2019 |  |
 
-c) Manga (Comics)
+- Vector input
+
+| Paper | Source | Code/Project Link | Deep learning? |
+| --- | --- | --- | --- |
+| [Closure-aware Sketch Simplification](http://www.cse.cuhk.edu.hk/~ttwong/papers/sketch/sketch.pdf) | SIGGRAPH Asia 2015 | [[Project]](https://www.cse.cuhk.edu.hk/~ttwong/papers/sketch/sketch.html) | No |
+| [StrokeAggregator: Consolidating Raw Sketches into Artist-Intended Curve Drawings](https://www.cs.ubc.ca/labs/imager/tr/2018/StrokeAggregator/StrokeAggregator_authorversion.pdf) | SIGGRAPH 2018 | [[Project]](https://www.cs.ubc.ca/labs/imager/tr/2018/StrokeAggregator/) | No |
+| [StrokeStrip: Joint Parameterization and Fitting of Stroke Clusters](https://www.davepagurek.com/programming/strokestrip/) | SIGGRAPH 2021 | [[Project]](https://www.davepagurek.com/programming/strokestrip/) [[code]](https://github.com/davepagurek/StrokeStrip) | No |
+| [StripMaker: Perception-driven Learned Vector Sketch Consolidation](https://dl.acm.org/doi/abs/10.1145/3592130) | SIGGRAPH 2023 |  | No |
+| [Region-Aware Simplification and Stylization of 3D Line Drawings](https://onlinelibrary.wiley.com/doi/10.1111/cgf.15042) | EG 2024 |  | No |
+
+### 3) Manga generation
 
 | Paper | Source | Code/Project Link |
 | --- | --- | --- | 
-| [Deep extraction of manga structural lines](https://dl.acm.org/citation.cfm?id=3073675) | SIGGRAPH 2017 | [[Code]](https://github.com/ljsabc/MangaLineExtraction) |
+| [Deep Extraction of Manga Structural Lines](https://dl.acm.org/citation.cfm?id=3073675) | SIGGRAPH 2017 | [[Code]](https://github.com/ljsabc/MangaLineExtraction) |
 | [Manga Filling Style Conversion with Screentone Variational Autoencoder](https://www.cse.cuhk.edu.hk/~ttwong/papers/screenstyle/screenstyle.html) | SIGGRAPH Asia 2020 | [[Project]](https://www.cse.cuhk.edu.hk/~ttwong/papers/screenstyle/screenstyle.html) [[Code]](https://github.com/msxie92/ScreenStyle) |
 | [Generating Manga from Illustrations via Mimicking Manga Workflow](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Generating_Manga_From_Illustrations_via_Mimicking_Manga_Creation_Workflow_CVPR_2021_paper.pdf) | CVPR 2021 | [[Project]](https://lllyasviel.github.io/MangaFilter/) [[Code]](https://github.com/lllyasviel/MangaFilter) |
 | [MangaGAN: Unpaired Photo-to-Manga Translation Based on The Methodology of Manga Drawing](https://arxiv.org/abs/2004.10634) | AAAI 2021 | |
@@ -936,9 +931,20 @@ c) Manga (Comics)
 | [Manga Generation via Layout-controllable Diffusion](https://arxiv.org/abs/2412.19303) | arxiv 24.12 | [[code]](https://github.com/siyuch-fdu/MangaDiffusion) [[webpage]](https://siyuch-fdu.github.io/MangaDiffusion/) |
 | [DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation](https://arxiv.org/abs/2412.07589) | CVPR 2025 | [[code]](https://github.com/jianzongwu/DiffSensei) [[webpage]](https://jianzongwu.github.io/projects/diffsensei/) |
 
+### 4) Color image vectorization
+
+| Paper | Source | Code/Project Link |
+| --- | --- | --- |
+| [Depixelizing pixel art](https://dl.acm.org/doi/abs/10.1145/1964921.1964994) | SIGGRAPH 2011 |  |
+| [Perception-Driven Semi-Structured Boundary Vectorization](http://www.cs.ubc.ca/labs/imager/tr/2018/PerceptionDrivenVectorization/perception-driven-vectorization.pdf) | SIGGRAPH 2018 | [[Webpage]](http://www.cs.ubc.ca/labs/imager/tr/2018/PerceptionDrivenVectorization/) |
+| [PolyFit: Perception-aligned Vectorization of Raster Clip-art via Intermediate Polygonal Fitting](http://www.cs.ubc.ca/labs/imager/tr/2020/ClipArtVectorization/paper.pdf) | SIGGRAPH 2020 | [[Webpage]](http://www.cs.ubc.ca/labs/imager/tr/2020/ClipArtVectorization/) [[Code]](https://github.com/dedoardo/polyfit) |
+| [ClipGen: A Deep Generative Model for Clipart Vectorization and Synthesis](https://ieeexplore.ieee.org/abstract/document/9444657) | TVCG 2021 |  |
+| [TCB-Spline-Based Image Vectorization](https://dl.acm.org/doi/10.1145/3513132) | TOG 2022 |  |
+| [Image vectorization and editing via linear gradient layer decomposition](https://cragl.cs.gmu.edu/gradientlayers/Image%20vectorization%20and%20editing%20via%20linear%20gradient%20layer%20decomposition%20(Zheng-Jun%20Du,%20Liang-Fu%20Kang,%20Jianchao%20Tan,%20Yotam%20Gingold,%20Kun%20Xu%202023%20SIGGRAPH)%20small.pdf) | SIGGRAPH 2023 |  |
+| [Image Vectorization via Gradient Reconstruction](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.70055) | EG 2025 |  |
 
 
-## 3. Vector Graphics Generation (2D)
+## 4. Vector Graphics Generation (2D)
 
 Here we focus on learning-based vector graphics generation **without** depending on vector training data, and traditional vectorization algorithms.
 
@@ -983,20 +989,7 @@ Here we focus on learning-based vector graphics generation **without** depending
 | [Unsupervised Image to Sequence Translation with Canvas-Drawer Networks](https://arxiv.org/abs/1809.08340) | arxiv 1809 |  |
 
 
-- Vectorization
-
-| Paper | Source | Code/Project Link |
-| --- | --- | --- |
-| [Depixelizing pixel art](https://dl.acm.org/doi/abs/10.1145/1964921.1964994) | SIGGRAPH 2011 |  |
-| [Perception-Driven Semi-Structured Boundary Vectorization](http://www.cs.ubc.ca/labs/imager/tr/2018/PerceptionDrivenVectorization/perception-driven-vectorization.pdf) | SIGGRAPH 2018 | [[Webpage]](http://www.cs.ubc.ca/labs/imager/tr/2018/PerceptionDrivenVectorization/) |
-| [PolyFit: Perception-aligned Vectorization of Raster Clip-art via Intermediate Polygonal Fitting](http://www.cs.ubc.ca/labs/imager/tr/2020/ClipArtVectorization/paper.pdf) | SIGGRAPH 2020 | [[Webpage]](http://www.cs.ubc.ca/labs/imager/tr/2020/ClipArtVectorization/) [[Code]](https://github.com/dedoardo/polyfit) |
-| [ClipGen: A Deep Generative Model for Clipart Vectorization and Synthesis](https://ieeexplore.ieee.org/abstract/document/9444657) | TVCG 2021 |  |
-| [TCB-Spline-Based Image Vectorization](https://dl.acm.org/doi/10.1145/3513132) | TOG 2022 |  |
-| [Image vectorization and editing via linear gradient layer decomposition](https://cragl.cs.gmu.edu/gradientlayers/Image%20vectorization%20and%20editing%20via%20linear%20gradient%20layer%20decomposition%20(Zheng-Jun%20Du,%20Liang-Fu%20Kang,%20Jianchao%20Tan,%20Yotam%20Gingold,%20Kun%20Xu%202023%20SIGGRAPH)%20small.pdf) | SIGGRAPH 2023 |  |
-| [Image Vectorization via Gradient Reconstruction](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.70055) | EG 2025 |  |
-
-
-## 4. Vector Graphics Generation (3D)
+## 5. Vector Graphics Generation (3D)
 
 - Sketch
 
@@ -1033,7 +1026,7 @@ Here we focus on learning-based vector graphics generation **without** depending
 | [CLR-Wire: Towards Continuous Latent Representations for 3D Curve Wireframe Generation](https://arxiv.org/abs/2504.19174) | SIGGRAPH 2025 | [[webpage]](https://vcc.tech/research/2025/CLRWire) [[code]](https://github.com/qixuema/CLR-Wire) |
 
 
-## 5. Vector Graphics Generation (4D)
+## 6. Vector Graphics Generation (4D)
 
 | Paper | Source | Code/Project Link |
 | --- | --- | --- |
