@@ -693,7 +693,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     </td>
   </tr>
   <tr>
-    <td rowspan="5"><strong>Anime</strong></td>
+    <td rowspan="6"><strong>Anime</strong></td>
     <td> <a href="https://github.com/lllyasviel/sketchKeras">sketchKeras</a> </td> 
     <td> online demo </td> 
     <td> 
@@ -712,6 +712,13 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> online demo </td> 
     <td>
       <a href="https://github.com/Mukosame/Anime2Sketch">[Code]</a> 
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://github.com/zhenglinpan/AniLines-Anime-Lineart-Extractor">AniLines</a> </td> 
+    <td> online demo </td> 
+    <td>
+      <a href="https://github.com/zhenglinpan/AniLines-Anime-Lineart-Extractor">[Code]</a> 
     </td>
   </tr>
   <tr>
@@ -844,6 +851,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | **SVG** | [Reliable Reasoning in SVG-LLMs via Multi-Task Multi-Reward Reinforcement Learning](https://arxiv.org/abs/2603.16189) | arxiv 26.03 | [[code]](https://github.com/hmwang2002/CTRL-S) |
 | **SVG** | [VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models](https://arxiv.org/abs/2603.24575) | arxiv 26.03 |  |
 | **SVG** | [Hierarchical SVG Tokenization: Learning Compact Visual Programs for Scalable Vector Graphics Modeling](https://arxiv.org/abs/2604.05072) | arxiv 26.04 | [[code]](https://github.com/ximinng/HiVG) [[webpage]](https://hy-hivg.github.io/) |
+| **SVG** | [Render-in-the-Loop: Vector Graphics Generation via Visual Self-Feedback](https://arxiv.org/abs/2604.20730) | arxiv 26.04 |  |
 
 - Sequential/Progressive vector image generation
 
