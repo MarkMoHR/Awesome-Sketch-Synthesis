@@ -975,6 +975,7 @@ Here we focus on learning-based vector graphics generation **without** depending
 
 | Paper | Source | Code/Project Link |
 | --- | --- | --- |
+| [AmodalSVG: Amodal Image Vectorization via Semantic Layer Peeling](https://arxiv.org/abs/2604.10940) | arxiv 26.04 |  |
 | [Look, Compare and Draw: Differential Query Transformer for Automatic Oil Painting](https://www.zdzheng.xyz/files/TVCG_Stroke_lingyu.pdf) | TVCG 2026 | [[code]](https://github.com/lingyuliu/DQ_Transformer) [[website]](https://differential-query-painter.github.io/DQ-painter/) |
 | [Clair Obscur: an Illumination-Aware Method for Real-World Image Vectorization](https://arxiv.org/abs/2511.20034) | CVPR 2026 | [[code]](https://github.com/decade-de/COVec) |
 | [Neural Image Abstraction Using Long Smoothing B-Splines](https://arxiv.org/abs/2511.05360) | SIGGRAPH Asia 2025 |  |
