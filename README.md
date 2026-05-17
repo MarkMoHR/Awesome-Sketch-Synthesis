@@ -975,6 +975,7 @@ Here we focus on learning-based vector graphics generation **without** depending
 
 | Paper | Source | Code/Project Link |
 | --- | --- | --- |
+| [Vector Scaffolding: Inter-Scale Orchestration for Differentiable Image Vectorization](https://arxiv.org/abs/2605.11913) | arxiv 26.05 |  |
 | [AmodalSVG: Amodal Image Vectorization via Semantic Layer Peeling](https://arxiv.org/abs/2604.10940) | arxiv 26.04 |  |
 | [Look, Compare and Draw: Differential Query Transformer for Automatic Oil Painting](https://www.zdzheng.xyz/files/TVCG_Stroke_lingyu.pdf) | TVCG 2026 | [[code]](https://github.com/lingyuliu/DQ_Transformer) [[website]](https://differential-query-painter.github.io/DQ-painter/) |
 | [Clair Obscur: an Illumination-Aware Method for Real-World Image Vectorization](https://arxiv.org/abs/2511.20034) | CVPR 2026 | [[code]](https://github.com/decade-de/COVec) |
@@ -1040,6 +1041,7 @@ Here we focus on learning-based vector graphics generation **without** depending
 | [Fabricable 3D Wire Art](https://doi.org/10.1145/3641519.3657453) | SIGGRAPH 2024 |  |
 | [WIR3D: Visually-Informed and Geometry-Aware 3D Shape Abstraction](https://arxiv.org/abs/2505.04813) | ICCV 2025 | [[webpage]](https://threedle.github.io/wir3d/) [[code]](https://github.com/threedle/wir3d) |
 | [CLR-Wire: Towards Continuous Latent Representations for 3D Curve Wireframe Generation](https://arxiv.org/abs/2504.19174) | SIGGRAPH 2025 | [[webpage]](https://vcc.tech/research/2025/CLRWire) [[code]](https://github.com/qixuema/CLR-Wire) |
+| [Optimizing 4D Wires for Sparse 3D Abstraction](https://arxiv.org/abs/2605.11977) | arxiv 26.05 |  |
 
 
 ## 6. Vector Graphics Generation (4D)
