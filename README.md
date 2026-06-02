@@ -906,6 +906,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | [Singularity-Free Frame Fields for Line Drawing Vectorization](https://diglib.eg.org/handle/10.1111/cgf14901) | SGP 2023 | [[code]](https://github.com/SingularityFreeFrameFields/Code) | No |
 | [Deep Sketch Vectorization via Implicit Surface Extraction](https://cragl.cs.gmu.edu/sketchvector/Deep%20Sketch%20Vectorization%20via%20Implicit%20Surface%20Extraction%20(Chuan%20Yan,%20Yong%20Li,%20Deepali%20Aneja,%20Matthew%20Fisher,%20Edgar%20Simo-Serra,%20Yotam%20Gingold%202024%20SIGGRAPH).pdf) | SIGGRAPH 2024 | [[project]](https://cragl.cs.gmu.edu/sketchvector/) [[code]](https://github.com/Nauhcnay/Deep-Sketch-Vectorization) | Hybrid |
 | [Single-Line Drawing Vectorization](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.70228) | CGF 2025 | [[code]](https://github.com/tanguymagne/SLD-Vectorization) | Hybrid |
+| [Single Line Drawing Generation via Semantics-Driven Optimization](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.70502) | CGF 2026 | [[code]](https://github.com/tanguymagne/SLDgen) | Yes |
 
 ### 2) Rough sketch simplification / Cleanup
 
