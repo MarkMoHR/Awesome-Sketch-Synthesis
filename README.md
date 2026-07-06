@@ -240,12 +240,19 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> Face-sketch pairs of seven styles </td>  
   </tr>
   <tr>
-    <td rowspan="1"><strong>Children's Drawing</strong></td>
+    <td rowspan="2"><strong>Children's Drawing</strong></td>
     <td> <a href="https://github.com/facebookresearch/AnimatedDrawings">Amateur Drawings</a> </td> 
     <td> TOG 2023 </td> 
     <td> :x: </td> 
     <td> :heavy_check_mark: </td> 
     <td> With character bounding boxes, segmentation masks, and joint location annotations </td>
+  </tr>
+  <tr>
+    <td> <a href="https://rbdnjs7830.github.io/SPECSIA/">SPECSIA</a> </td> 
+    <td> ECCV 2026 </td> 
+    <td> :x: </td> 
+    <td> :heavy_check_mark: </td> 
+    <td> Paired stylization dataset for novel-view enhancement in drawing-based 3D animation </td>  
   </tr>
   <tr>
     <td rowspan="2"><strong>Rough sketch</strong></td>
