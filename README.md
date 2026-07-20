@@ -760,7 +760,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     </td>
   </tr>
   <tr>
-    <td rowspan="7"><strong>Arbitrary</strong></td>
+    <td rowspan="8"><strong>Arbitrary</strong></td>
     <td> <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Im2Pencil_Controllable_Pencil_Illustration_From_Photographs_CVPR_2019_paper.pdf">Im2Pencil: Controllable Pencil Illustration From Photographs</a> </td> 
     <td> CVPR 2019 </td> 
     <td>
@@ -807,6 +807,13 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> SIGGRAPH 2026 </td> 
     <td> 
       <a href="https://vcc.tech/research/2026/AiS">[webpage]</a> 
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://ieeexplore.ieee.org/abstract/document/11550424">Representative feature extraction during diffusion process for sketch extraction with one example</a> </td> 
+    <td> CVM 2026 </td> 
+    <td> 
+      <a href="https://github.com/kwanyun/diffsketch">[code]</a> 
     </td>
   </tr>
 </table>
@@ -874,6 +881,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | **Sketch** | [SketchAgent: Language-Driven Sequential Sketch Generation](https://arxiv.org/abs/2411.17673) | CVPR 2025 | [[code]](https://github.com/yael-vinker/SketchAgent) [[webpage]](https://yael-vinker.github.io/sketch-agent/) |
 | **Sketch** | [VideoSketcher: Video Models Prior Enable Versatile Sequential Sketch Generation](https://arxiv.org/abs/2602.15819) | arxiv 26.02 | [[code]](https://github.com/VideoSketcher/VideoSketcher) [[webpage]](https://videosketcher.github.io/) |
 | **Sketch** | [Teaching an Agent to Sketch One Part at a Time](https://arxiv.org/abs/2603.19500) | arxiv 26.03 |  |
+| **Sketch** | [Stroke of Surprise: Progressive Semantic Illusions in Vector Sketching](https://dl.acm.org/doi/full/10.1145/3799902.3811150) | SIGGRAPH 2026 | [[code]](https://github.com/stroke-of-surprise/Stroke-Of-Surprise) [[webpage]](https://stroke-of-surprise.github.io/) |
 
 
 ### 4) 3D shape-to-sketch
@@ -914,6 +922,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | [Deep Sketch Vectorization via Implicit Surface Extraction](https://cragl.cs.gmu.edu/sketchvector/Deep%20Sketch%20Vectorization%20via%20Implicit%20Surface%20Extraction%20(Chuan%20Yan,%20Yong%20Li,%20Deepali%20Aneja,%20Matthew%20Fisher,%20Edgar%20Simo-Serra,%20Yotam%20Gingold%202024%20SIGGRAPH).pdf) | SIGGRAPH 2024 | [[project]](https://cragl.cs.gmu.edu/sketchvector/) [[code]](https://github.com/Nauhcnay/Deep-Sketch-Vectorization) | Hybrid |
 | [Single-Line Drawing Vectorization](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.70228) | CGF 2025 | [[code]](https://github.com/tanguymagne/SLD-Vectorization) | Hybrid |
 | [Single Line Drawing Generation via Semantics-Driven Optimization](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.70502) | CGF 2026 | [[code]](https://github.com/tanguymagne/SLDgen) | Yes |
+| [2D Gaussian Splatting for Bézier Spline Line Art Vectorization](https://dl.acm.org/doi/full/10.1145/3799902.3811211) | SIGGRAPH 2026 |  | Yes |
 
 ### 2) Rough sketch simplification / Cleanup
 
