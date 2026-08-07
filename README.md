@@ -10,7 +10,7 @@ A collection of papers about Sketch Synthesis (Generation). Mainly focus on stro
 
 **Outlines**
 
-- [0. Survey](#0-survey)
+- [0. Survey & Toolkit](#0-survey--toolkit)
 - [1. Datasets](#1-datasets)
 - [2. Sketch-Synthesis Approaches](#2-sketch-synthesis-approaches)
   - [1) Semantic Concept-to-sketch](#1-semantic-concept-to-sketch)
@@ -24,13 +24,21 @@ A collection of papers about Sketch Synthesis (Generation). Mainly focus on stro
 
 ---
 
-## 0. Survey
+## 0. Survey & Toolkit
+
+- Survey
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [A critical review of sketch collection methods: Remembering how humans really sketch](https://www.sciencedirect.com/science/article/pii/S0097849326000749) | C&G 2026 |  |
 | [State-of-the-art Report in Sketch Processing](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.70079) | CGF 2025 | [[code]](https://github.com/squidrice21/sketch-processing-papers) |
 | [Deep Learning for Free-Hand Sketch: A Survey](https://ieeexplore.ieee.org/abstract/document/9706366) | TPAMI 2022 | [[code]](https://github.com/PengBoXiangShang/torchsketch) |
+
+- Toolkit
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| SketchKit | 2026 | [[code]](https://github.com/CISLab-HKUST/SketchKit) |
 
 ## 1. Datasets
 Here `Vector strokes` means having *svg* data. `With photos` means having the photo-sketch paired data.
