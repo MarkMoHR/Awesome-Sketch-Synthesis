@@ -418,7 +418,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td><strong>Code/Project Link</strong></td>
   </tr>
   <tr>
-    <td rowspan="17"><strong>Instance-level</strong></td>
+    <td rowspan="18"><strong>Instance-level</strong></td>
     <td> <a href="https://openreview.net/pdf?id=Hy6GHpkCW">A Neural Representation of Sketch Drawings (sketch-rnn)</a> </td> 
     <td> ICLR 2018 </td> 
     <td> 
@@ -534,6 +534,14 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> IJCV 2026 </td> 
     <td> 
       <a href="https://github.com/HuJijin/Adaptive_Guided_Sketch">[code]</a> 
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://arxiv.org/abs/2608.21659">SketchFlow: Zero-Shot Vector Sketch Generation via GMM Prior Flow in CLIP Latent Space</a> </td> 
+    <td> SIGGRAPH Asia 2026 </td> 
+    <td> 
+      <a href="https://doudin404.github.io/SketchFlow/">[webpage]</a> 
+      <a href="https://github.com/doudin404/SketchFlow">[code]</a> 
     </td>
   </tr>
   
