@@ -840,7 +840,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 ### 3) Text-to-sketch
 
 
-- raster image generation
+#### 3a) Raster image generation
 
 | Type | Paper | Source | Code/Project Link |
 | --- | --- | --- | --- |
@@ -848,7 +848,17 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | **Scene-level** | [Sketchforme: Composing Sketched Scenes from Text Descriptions for Interactive Applications](https://arxiv.org/pdf/1904.04399.pdf) | UIST 2019 |  |
 | **Scene-level** | [Scones: Towards Conversational Authoring of Sketches](http://people.eecs.berkeley.edu/~eschoop/docs/scones.pdf) | IUI 2020 |  |
 
-- vector image generation
+#### 3b) Vector image generation
+
+- Datasets / benchmarks
+
+| Type | Paper | Source | Code/Project Link |
+| --- | --- | --- | --- |
+| **SVG** | [SVGenius: Benchmarking LLMs in SVG Understanding, Editing and Generation](https://arxiv.org/abs/2506.03139) | MM 2025 | [[webpage]](https://zju-real.github.io/SVGenius/) [[code]](https://github.com/ZJU-REAL/SVGenius) |
+| **SVG** | [UniSVG: A Unified Dataset for Vector Graphic Understanding and Generation with Multimodal Large Language Models](https://arxiv.org/abs/2508.07766) | MM 2025 | [[webpage]](https://ryanlijinke.github.io/) |
+| **SVG** | [SVG-Score: Human-Aligned Evaluation of Text-to-SVG Generation](https://arxiv.org/abs/2609.03806) | arxiv 26.09 | [[webpage]](https://potpov.github.io/svg-score-webpage/) |
+
+- Methods
 
 | Type | Paper | Source | Code/Project Link |
 | --- | --- | --- | --- |
@@ -877,9 +887,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | **SVG** | [OmniSVG: A Unified Scalable Vector Graphics Generation Model](https://arxiv.org/abs/2504.06263) | NeurIPS 2025 | [[code]](https://github.com/OmniSVG/OmniSVG) [[webpage]](https://omnisvg.github.io/) |
 | **SVG** | [Style Customization of Text-to-Vector Generation with Image Diffusion Priors](https://arxiv.org/abs/2505.10558) | SIGGRAPH 2025 | [[code]](https://github.com/intchous/custom-svg-style) [[webpage]](https://customsvg.github.io/) |
 | **SVG** | [LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization](https://arxiv.org/abs/2505.23740) | SIGGRAPH Asia 2025 | [[webpage]](https://layerpeeler.github.io/) |
-| **SVG** | [SVGenius: Benchmarking LLMs in SVG Understanding, Editing and Generation](https://arxiv.org/abs/2506.03139) | MM 2025 | [[webpage]](https://zju-real.github.io/SVGenius/) [[code]](https://github.com/ZJU-REAL/SVGenius) |
 | **SVG** | [SVGen: Interpretable Vector Graphics Generation with Large Language Models](https://arxiv.org/abs/2508.09168) | MM 2025 | [[code]](https://github.com/gitcat-404/SVGen) |
-| **SVG** | [UniSVG: A Unified Dataset for Vector Graphic Understanding and Generation with Multimodal Large Language Models](https://arxiv.org/abs/2508.07766) | MM 2025 | [[webpage]](https://ryanlijinke.github.io/) |
 | **SVG** | [SVGThinker: Instruction-Aligned and Reasoning-Driven Text-to-SVG Generation](https://arxiv.org/abs/2509.24299) | MM 2025 |  |
 | **Arbitrary** | [SketchRefiner: Text-Guided Sketch Refinement Through Latent Diffusion Models](https://ieeexplore.ieee.org/abstract/document/11176130) | TVCG 2025 |  |
 | **Arbitrary** | [AutoSketch: VLM-assisted Style-Aware Vector Sketch Completion](https://arxiv.org/abs/2502.06860) | SIGGRAPH Asia 2025 | [[webpage]](https://jdily.github.io/autosketch.github.io/) |
@@ -891,9 +899,8 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | **SVG** | [VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models](https://arxiv.org/abs/2603.24575) | arxiv 26.03 |  |
 | **SVG** | [Hierarchical SVG Tokenization: Learning Compact Visual Programs for Scalable Vector Graphics Modeling](https://arxiv.org/abs/2604.05072) | arxiv 26.04 | [[code]](https://github.com/ximinng/HiVG) [[webpage]](https://hy-hivg.github.io/) |
 | **SVG** | [Render-in-the-Loop: Vector Graphics Generation via Visual Self-Feedback](https://arxiv.org/abs/2604.20730) | ECCV 2026 | [[webpage]](https://yukinonooo.github.io/RenderInTheLoopProject/) |
-| **SVG** | [SVG-Score: Human-Aligned Evaluation of Text-to-SVG Generation](https://arxiv.org/abs/2609.03806) | arxiv 26.09 | [[webpage]](https://potpov.github.io/svg-score-webpage/) |
 
-- Sequential/Progressive vector image generation
+#### 3c) Sequential/Progressive vector image generation
 
 | Type | Paper | Source | Code/Project Link |
 | --- | --- | --- | --- |
