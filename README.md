@@ -906,7 +906,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | --- | --- | --- | --- |
 | **Sketch** | [SketchAgent: Language-Driven Sequential Sketch Generation](https://arxiv.org/abs/2411.17673) | CVPR 2025 | [[code]](https://github.com/yael-vinker/SketchAgent) [[webpage]](https://yael-vinker.github.io/sketch-agent/) |
 | **Sketch** | [VideoSketcher: Video Models Prior Enable Versatile Sequential Sketch Generation](https://arxiv.org/abs/2602.15819) | arxiv 26.02 | [[code]](https://github.com/VideoSketcher/VideoSketcher) [[webpage]](https://videosketcher.github.io/) |
-| **Sketch** | [Teaching an Agent to Sketch One Part at a Time](https://arxiv.org/abs/2603.19500) | arxiv 26.03 |  |
+| **Sketch** | [Teaching an Agent to Sketch One Part at a Time](https://arxiv.org/abs/2603.19500) | ECCV 2026 | [[code]](https://github.com/duxiaodan/teaching-an-agent-to-sketch-one-part-at-a-time) [[webpage]](https://xiaodan.io/teaching-an-agent-to-sketch) |
 | **Sketch** | [Stroke of Surprise: Progressive Semantic Illusions in Vector Sketching](https://dl.acm.org/doi/full/10.1145/3799902.3811150) | SIGGRAPH 2026 | [[code]](https://github.com/stroke-of-surprise/Stroke-Of-Surprise) [[webpage]](https://stroke-of-surprise.github.io/) |
 
 
