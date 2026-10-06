@@ -778,7 +778,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     </td>
   </tr>
   <tr>
-    <td rowspan="8"><strong>Arbitrary</strong></td>
+    <td rowspan="9"><strong>Arbitrary</strong></td>
     <td> <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Im2Pencil_Controllable_Pencil_Illustration_From_Photographs_CVPR_2019_paper.pdf">Im2Pencil: Controllable Pencil Illustration From Photographs</a> </td> 
     <td> CVPR 2019 </td> 
     <td>
@@ -832,6 +832,13 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> CVM 2026 </td> 
     <td> 
       <a href="https://github.com/kwanyun/diffsketch">[code]</a> 
+    </td>
+  </tr>
+  <tr>
+    <td> <a href="https://doi.org/10.1109/TVCG.2026.3738459">Stylized Sketch Synthesis Using Diffusion Priors and Structural Guidance</a> </td> 
+    <td> TVCG 2026 </td> 
+    <td> 
+      <a href="https://github.com/fornorp/StylizedSketch">[code]</a> 
     </td>
   </tr>
 </table>
@@ -899,6 +906,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | **SVG** | [VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models](https://arxiv.org/abs/2603.24575) | arxiv 26.03 |  |
 | **SVG** | [Hierarchical SVG Tokenization: Learning Compact Visual Programs for Scalable Vector Graphics Modeling](https://arxiv.org/abs/2604.05072) | arxiv 26.04 | [[code]](https://github.com/ximinng/HiVG) [[webpage]](https://hy-hivg.github.io/) |
 | **SVG** | [Render-in-the-Loop: Vector Graphics Generation via Visual Self-Feedback](https://arxiv.org/abs/2604.20730) | ECCV 2026 | [[webpage]](https://yukinonooo.github.io/RenderInTheLoopProject/) |
+| **SVG** | [RULER: Instance-aware Rubric Rewards for SVG Generation](https://arxiv.org/abs/2609.25270) | arxiv 26.09 | [[webpage]](https://hangyuran.github.io/RULER/) |
 
 #### 3c) Sequential/Progressive vector image generation
 
