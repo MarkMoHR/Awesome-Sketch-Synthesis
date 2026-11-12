@@ -907,6 +907,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 | **SVG** | [Hierarchical SVG Tokenization: Learning Compact Visual Programs for Scalable Vector Graphics Modeling](https://arxiv.org/abs/2604.05072) | arxiv 26.04 | [[code]](https://github.com/ximinng/HiVG) [[webpage]](https://hy-hivg.github.io/) |
 | **SVG** | [Render-in-the-Loop: Vector Graphics Generation via Visual Self-Feedback](https://arxiv.org/abs/2604.20730) | ECCV 2026 | [[webpage]](https://yukinonooo.github.io/RenderInTheLoopProject/) |
 | **SVG** | [RULER: Instance-aware Rubric Rewards for SVG Generation](https://arxiv.org/abs/2609.25270) | arxiv 26.09 | [[webpage]](https://hangyuran.github.io/RULER/) |
+| **SVG** | [Fetch, Frame, and Focus: Retrieval-Augmented Panoramic-Spotlight Memory for Scalable Vector Graphics Generation](https://dl.acm.org/doi/abs/10.1145/3767308.3836103) | MM 2026 |  |
 
 #### 3c) Sequential/Progressive vector image generation
 
