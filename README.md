@@ -56,14 +56,14 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td rowspan="3"><strong>Characters</strong></td>
     <td> <a href="https://github.com/brendenlake/omniglot/">Omniglot</a> </td> 
     <td> </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> :x: </td> 
     <td> Alphabets characters </td>
   </tr>
   <tr>
     <td> <a href="http://kanjivg.tagaini.net/">KanjiVG</a> </td> 
     <td> </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> :x: </td> 
     <td> Chinese characters </td>
   </tr>
@@ -78,7 +78,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td rowspan="1"><strong>Icon</strong></td>
     <td> <a href="https://github.com/marcdemers/FIGR-8-SVG">FIGR-8-SVG</a> </td> 
     <td> </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> :x: </td> 
     <td> Icons with text descriptions </td>
   </tr>
@@ -86,7 +86,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td rowspan="1"><strong>Systematic Symbol</strong></td>
     <td> <a href="https://github.com/GuangmingZhu/SketchIME">SketchIME</a> </td> 
     <td> ACM MM 2023</td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> :x: </td> 
     <td> Systematic sketches with semantic annotations </td>
   </tr>
@@ -94,49 +94,49 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td rowspan="10"><strong>Instance-level</strong></td>
     <td> <a href="http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/">TU-Berlin</a> </td> 
     <td> SIGGRAPH 2012 </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> :x: </td> 
     <td> Multi-category hand sketches </td>
   </tr>
   <tr>
     <td> <a href="http://sketchy.eye.gatech.edu/">Sketchy</a> </td> 
     <td> SIGGRAPH 2016 </td> 
-    <td> :heavy_check_mark: </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> Multi-category photo-sketch paired </td>
   </tr>
   <tr>
     <td> <a href="https://quickdraw.withgoogle.com/data">QuickDraw</a> </td> 
     <td> ICLR 2018 </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> :x: </td> 
     <td> Multi-category hand sketches </td>
   </tr>
   <tr>
     <td> <a href="https://drive.google.com/file/d/15s2BR-QwLgX_DObQBrYlUlZqUU90EL9G/view">QMUL-Shoe-Chair-V2</a> </td> 
     <td> CVPR 2016 </td> 
-    <td> :heavy_check_mark: </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> Only two categories </td>
   </tr>
   <tr>
     <td> <a href="https://github.com/KeLi-SketchX/SketchX-PRIS-Dataset">Sketch Perceptual Grouping (SPG)</a> </td> 
     <td> ECCV 2018 </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> :x: </td> 
     <td> With part-level semantic segmentation information </td>
   </tr>
   <tr>
     <td> <a href="https://facex.idvxlab.com/">FaceX</a> </td> 
     <td> AAAI 2019 </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> :x: </td> 
     <td> Labeled facial sketches </td>  
   </tr>
   <tr>
     <td> <a href="https://github.com/facebookresearch/DoodlerGAN">Creative Sketch</a> </td> 
     <td> ICLR 2021 </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> :x: </td> 
     <td> With annotated part segmentation </td>  
   </tr>
@@ -150,14 +150,14 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
   <tr>
     <td> <a href="https://seva-benchmark.github.io/">SEVA</a> </td> 
     <td> NeurIPS 2023 </td> 
-    <td> :heavy_check_mark: </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> 90K human-generated sketches that vary in detail </td>  
   </tr>
   <tr>
     <td> <a href="https://sketchtopia25.github.io/">Sketchtopia</a> </td> 
     <td> CVPR 2025 </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> :x: </td> 
     <td>  </td>  
   </tr>
@@ -166,64 +166,64 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> <a href="https://sketchyscene.github.io/SketchyScene/">SketchyScene</a> </td> 
     <td> ECCV 2018 </td> 
     <td> :x: </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> With semantic/instance segmentation information </td>  
   </tr>
   <tr>
     <td> <a href="http://projects.csail.mit.edu/cmplaces/">CMPlaces</a> </td> 
     <td> TPAMI 2018 </td> 
     <td> :x: </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> Cross-modal scene dataset </td>  
   </tr>
   <tr>
     <td> <a href="http://sweb.cityu.edu.hk/hongbofu/doc/context_based_sketch_classification_Expressive2018.pdf">Context-Skecth</a> </td> 
     <td> Expressive 2018 </td> 
     <td> :x: </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> Context-based scene sketches for co-classification </td>  
   </tr>
   <tr>
     <td> <a href="https://sysu-imsl.github.io/EdgeGAN/index.html">SketchyCOCO</a> </td> 
     <td> CVPR 2020 </td> 
     <td> :x: </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> Scene sketch, segmentation and normal images </td>  
   </tr>
   <tr>
     <td> <a href="http://www.pinakinathc.me/fscoco/">FS-COCO</a> </td> 
     <td> ECCV 2022 </td> 
-    <td> :heavy_check_mark: </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> Scene sketches with text description </td>  
   </tr>
   <tr>
     <td> <a href="https://link.springer.com/article/10.1007/s00371-022-02731-8">SFSD</a> </td> 
     <td> VC 2022 </td> 
-    <td> :heavy_check_mark: </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> Completely hand-drawn scene sketches with label annotation </td>  
   </tr>
   <tr>
     <td rowspan="2"><strong>Drawing from photos</strong></td>
     <td> <a href="http://www.cs.cmu.edu/~mengtial/proj/sketch/">Photo-Sketching</a> </td> 
     <td> WACV 2019 </td> 
-    <td> :heavy_check_mark: </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> ScenePhoto-sketch paired </td>
   </tr>
   <tr>
     <td> <a href="https://github.com/zachzeyuwang/tracing-vs-freehand">Tracing-vs-Freehand</a> </td> 
     <td> SIGGRAPH 2021 </td> 
-    <td> :heavy_check_mark: </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> Tracings and freehand drawings of images </td>  
   </tr>
   <tr>
     <td rowspan="1"><strong>Drawing from 3D models</strong></td>
     <td> <a href="https://chufengxiao.github.io/DifferSketching/">DifferSketching</a> </td> 
     <td> SIGGRAPH Asia 2022 </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> :x: </td> 
     <td> 3D model-sketch paired, with novice and professional ones </td>
   </tr>
@@ -232,21 +232,21 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> <a href="https://mmlab.ie.cuhk.edu.hk/datasets.html">CUFS</a> </td> 
     <td> TPAMI 2009 </td> 
     <td> :x: </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> Face-sketch pairs </td>  
   </tr>
   <tr>
     <td> <a href="https://github.com/yiranran/APDrawingGAN">APDrawing</a> </td> 
     <td> CVPR 2019 </td> 
     <td> :x: </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> Portrait-sketch paired </td>
   </tr>
   <tr>
     <td> <a href="https://github.com/kwanyun/SKSF-A">SKSF-A</a> </td> 
     <td> EG 2024 </td> 
     <td> :x: </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> Face-sketch pairs of seven styles </td>  
   </tr>
   <tr>
@@ -254,14 +254,14 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> <a href="https://github.com/facebookresearch/AnimatedDrawings">Amateur Drawings</a> </td> 
     <td> TOG 2023 </td> 
     <td> :x: </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> With character bounding boxes, segmentation masks, and joint location annotations </td>
   </tr>
   <tr>
     <td> <a href="https://rbdnjs7830.github.io/SPECSIA/">SPECSIA</a> </td> 
     <td> ECCV 2026 </td> 
     <td> :x: </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> Paired stylization dataset for novel-view enhancement in drawing-based 3D animation </td>  
   </tr>
   <tr>
@@ -269,14 +269,14 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> <a href="https://esslab.jp/~ess/en/data/davincidataset/">Da Vinci</a> </td> 
     <td> CGI 2018 </td> 
     <td> :x: </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> Line drawing restoration dataset </td>
   </tr>
   <tr>
     <td> <a href="https://cragl.cs.gmu.edu/sketchbench/">Rough Sketch Benchmark</a> </td> 
     <td> SIGGRAPH Asia 2020 </td> 
-    <td> :heavy_check_mark: </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> Rough and clean sketch pairs (only for evaluation) </td>  
   </tr>
   <tr>
@@ -290,35 +290,35 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
   <tr>
     <td> <a href="https://ns.inria.fr/d3/OpenSketch/">OpenSketch</a> </td> 
     <td> SIGGRAPH Asia 2019 </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> :x: </td> 
     <td> Product Design Sketches </td>
   </tr>
   <tr>
     <td> <a href="https://github.com/PrincetonLIPS/SketchGraphs">SketchGraphs</a> </td> 
     <td> ICML 2020 Workshop </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> :x: </td> 
     <td> Sketches extracted from real-world CAD models </td>  
   </tr>
   <tr>
     <td> <a href="https://github.com/AutodeskAILab/Fusion360GalleryDataset">Fusion 360 Gallery</a> </td> 
     <td> SIGGRAPH 2021 </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> :x: </td> 
     <td> For 'sketch and extrude' designs </td>  
   </tr>
   <tr>
     <td> <a href="https://floorplancad.github.io/">FloorPlanCAD</a> </td> 
     <td> ICCV 2021 </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> :x: </td> 
     <td> With instance and semantic annotations </td>  
   </tr>
   <tr>
     <td> <a href="https://huggingface.co/unisketch">UniSketch</a> </td> 
     <td> AAAI 2026 </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> :x: </td> 
     <td> With 7 geometric primitives and 23 2D constraints </td>  
   </tr>
@@ -327,7 +327,7 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> <a href="https://gwern.net/danbooru2021">Danbooru2021</a> </td> 
     <td> / </td> 
     <td> :x: </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> Anime images annotated with tags </td>
   </tr>
   <tr>
@@ -341,28 +341,28 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> <a href="https://github.com/zsl2018/StyleAnime">Danbooru-Parsing</a> </td> 
     <td> TOG 2023 </td> 
     <td> :x: </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> For anime portrait parsing and anime translation </td>
   </tr>
   <tr>
     <td> <a href="https://www.cs.toronto.edu/creativeflow/">CreativeFlow+</a> </td> 
     <td> CVPR 2019 </td> 
     <td> :x: </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> Large densely annotated artistic video dataset </td>
   </tr>
   <tr>
     <td> <a href="https://github.com/lisiyao21/AnimeInterp">ATD-12K</a> </td> 
     <td> CVPR 2021 </td> 
     <td> :x: </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> Animation frames with flow annotations </td>
   </tr>
   <tr>
     <td> <a href="https://lisiyao21.github.io/projects/AnimeRun">AnimeRun</a> </td> 
     <td> NeurIPS 2022 </td> 
     <td> :x: </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> Correspondence dataset for 2D-styled cartoons </td>
   </tr>
   <tr>
@@ -376,28 +376,28 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
     <td> <a href="https://github.com/ykdai/BasicPBC/tree/main/dataset">PaintBucket-Character</a> </td> 
     <td> CVPR 2024 </td> 
     <td> :x: </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> Animation frames with region annotations </td>
   </tr>
   <tr>
     <td> <a href="https://zhenglinpan.github.io/sakuga_dataset_webpage/">Sakuga-42M</a> <a href="https://github.com/KytraScript/SakugaDataset">(link 2)</a> </td> 
     <td> arxiv 24.05 </td> 
     <td> :x: </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> Cartoon videos with text descriptions and tags </td>
   </tr>
   <tr>
     <td> <a href="https://github.com/zhenglinpan/AnitaDataset">Anita</a> </td> 
     <td> online 2024 </td> 
     <td> :x: </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> Professional hand-drawn cartoon keyframes, with 1080P sketch and color images </td>
   </tr>
   <tr>
     <td> <a href="https://huggingface.co/datasets/MS92/MangaSegmentation">MangaSeg</a> </td> 
     <td> CVPR 2025 </td> 
     <td> :x: </td> 
-    <td> :heavy_check_mark: </td> 
+    <td> :white_check_mark: </td> 
     <td> Manga segmentation annotation </td>
   </tr>
   
@@ -867,47 +867,47 @@ Here `Vector strokes` means having *svg* data. `With photos` means having the ph
 
 - Methods
 
-| Type | Paper | Source | Code/Project Link |
-| --- | --- | --- | --- |
-| **Arbitrary** | [Modern Evolution Strategies for Creativity: Fitting Concrete Images and Abstract Concepts](https://arxiv.org/abs/2109.08857) | arxiv 21.09 | [[code]](https://github.com/google/brain-tokyo-workshop) [[project]](https://es-clip.github.io/) |
-| **Arbitrary** | [CLIPDraw: Exploring Text-to-Drawing Synthesis through Language-Image Encoders](https://arxiv.org/abs/2106.14843) | NeurIPS 2022 | [[code]](https://colab.research.google.com/github/kvfrans/clipdraw/blob/main/clipdraw.ipynb) |
-| **Arbitrary** | [StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Translation](https://arxiv.org/abs/2202.12362) | IJCAI 2022 | [[code]](https://github.com/pschaldenbrand/StyleCLIPDraw) |
-| **SVG** | [VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models](https://arxiv.org/abs/2211.11319) | CVPR 2023 |  [[project]](https://ajayj.com/vectorfusion) |
-| **Arbitrary** | [SketchDreamer: Interactive Text-Augmented Creative Sketch Ideation](https://arxiv.org/abs/2308.14191) | BMVC 2023 |  [[code]](https://github.com/WinKawaks/SketchDreamer) |
-| **Arbitrary** | [DiffSketcher: Text Guided Vector Sketch Synthesis through Latent Diffusion Models](https://arxiv.org/abs/2306.14685) | NeurIPS 2023 |  [[project]](https://ximinng.github.io/DiffSketcher-project/) [[code]](https://github.com/ximinng/DiffSketcher) |
-| **Icon** | [IconShop: Text-Based Vector Icon Synthesis with Autoregressive Transformers](https://arxiv.org/abs/2304.14400) | SIGGRAPH Asia 2023 |  [[project]](https://icon-shop.github.io/) |
-| **SVG** | [Text-Guided Vector Graphics Customization](https://arxiv.org/abs/2309.12302) | SIGGRAPH Asia 2023 |  [[project]](https://intchous.github.io/SVGCustomization/)  |
-| **Arbitrary** | [Text-based Vector Sketch Editing with Image Editing Diffusion Prior](https://www.sysu-imsl.com/files/ICME2024/ICME2024_sketch_editing_final.pdf) | ICME 2024 |  [[code]](https://github.com/MarkMoHR/DiffSketchEdit)  |
-| **SVG** | [SVGDreamer: Text Guided SVG Generation with Diffusion Model](https://arxiv.org/abs/2312.16476) | CVPR 2024 |  [[project]](https://ximinng.github.io/SVGDreamer-project/) [[code]](https://github.com/ximinng/SVGDreamer) |
-| **SVG** | [SVGDreamer++: Advancing Editability and Diversity in Text-Guided SVG Generation](https://arxiv.org/abs/2411.17832) | TPAMI 2025 |  [[code]](https://github.com/ximinng/SVGDreamer) |
-| **SVG** | [NIVeL: Neural Implicit Vector Layers for Text-to-Vector Generation](https://arxiv.org/abs/2405.15217) | CVPR 2024 |  [[project]](https://vikastmz.github.io/NIVeL/)  |
-| **SVG** | [Text-to-Vector Generation with Neural Path Representation](https://arxiv.org/abs/2405.10317) | SIGGRAPH 2024 |  [[project]](https://intchous.github.io/T2V-NPR/)  |
-| **Arbitrary** | [SVGCraft: Beyond Single Object Text-to-SVG Synthesis with Comprehensive Canvas Layout](https://arxiv.org/abs/2404.00412v1) | arxiv 24.04 | [[code]](https://github.com/ayanban011/SVGCraft) |
-| **SVG** | [VectorPainter: A Novel Approach to Stylized Vector Graphics Synthesis with Vectorized Strokes](https://arxiv.org/abs/2405.02962) | ICME 2025 | [[code]](https://github.com/hjc-owo/VectorPainter) [[webpage]](https://hjc-owo.github.io/VectorPainterProject/) |
-| **SVG** | [Chat2SVG: Vector Graphics Generation with Large Language Models and Image Diffusion Models](https://arxiv.org/abs/2411.16602) | CVPR 2025 | [[webpage]](https://chat2svg.github.io/) |
-| **SVG** | [SVGBuilder: Component-Based Colored SVG Generation with Text-Guided Autoregressive Transformers](https://arxiv.org/abs/2412.10488) | AAAI 2025 | [[webpage]](https://svgbuilder.github.io/) |
-| **SVG** | [SVGFusion: Scalable Text-to-SVG Generation via Vector Space Diffusion](https://arxiv.org/abs/2412.10437) | arxiv 24.12 | [[webpage]](https://ximinng.github.io/SVGFusionProject/) [[code]](https://github.com/ximinng/SVGFusion) |
-| **SVG** | [Empowering LLMs to Understand and Generate Complex Vector Graphics](https://arxiv.org/abs/2412.11102) | CVPR 2025 | [[webpage]](https://ximinng.github.io/LLM4SVGProject/) [[code]](https://github.com/ximinng/LLM4SVG) |
-| **SVG** | [StarVector: Generating Scalable Vector Graphics Code from Images and Text](https://arxiv.org/abs/2312.11556) | CVPR 2025 | [[webpage]](https://starvector.github.io/) [[code]](https://github.com/joanrod/star-vector) |
-| **SVG** | [NeuralSVG: An Implicit Representation for Text-to-Vector Generation](https://arxiv.org/abs/2501.03992) | ICCV 2025 | [[webpage]](https://sagipolaczek.github.io/NeuralSVG/) [[code]](https://github.com/SagiPolaczek/NeuralSVG) |
-| **SVG** | [LayerTracer: Cognitive-Aligned Layered SVG Synthesis via Diffusion Transformer](https://arxiv.org/abs/2502.01105) | arxiv 25.02 | [[code]](https://github.com/showlab/LayerTracer) |
-| **SVG** | [OmniSVG: A Unified Scalable Vector Graphics Generation Model](https://arxiv.org/abs/2504.06263) | NeurIPS 2025 | [[code]](https://github.com/OmniSVG/OmniSVG) [[webpage]](https://omnisvg.github.io/) |
-| **SVG** | [Style Customization of Text-to-Vector Generation with Image Diffusion Priors](https://arxiv.org/abs/2505.10558) | SIGGRAPH 2025 | [[code]](https://github.com/intchous/custom-svg-style) [[webpage]](https://customsvg.github.io/) |
-| **SVG** | [LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization](https://arxiv.org/abs/2505.23740) | SIGGRAPH Asia 2025 | [[webpage]](https://layerpeeler.github.io/) |
-| **SVG** | [SVGen: Interpretable Vector Graphics Generation with Large Language Models](https://arxiv.org/abs/2508.09168) | MM 2025 | [[code]](https://github.com/gitcat-404/SVGen) |
-| **SVG** | [SVGThinker: Instruction-Aligned and Reasoning-Driven Text-to-SVG Generation](https://arxiv.org/abs/2509.24299) | MM 2025 |  |
-| **Arbitrary** | [SketchRefiner: Text-Guided Sketch Refinement Through Latent Diffusion Models](https://ieeexplore.ieee.org/abstract/document/11176130) | TVCG 2025 |  |
-| **Arbitrary** | [AutoSketch: VLM-assisted Style-Aware Vector Sketch Completion](https://arxiv.org/abs/2502.06860) | SIGGRAPH Asia 2025 | [[webpage]](https://jdily.github.io/autosketch.github.io/) |
-| **SVG** | [RoboSVG: A Unified Framework for Interactive SVG Generation with Multi-modal Guidance](https://arxiv.org/abs/2510.22684) | arxiv 25.10 |  |
-| **SVG** | [DuetSVG: Unified Multimodal SVG Generation with Internal Visual Guidance](https://arxiv.org/abs/2512.10894) | CVPR 2026 | [[webpage]](https://intchous.github.io/DuetSVG-site/) |
-| **SVG** | [Reason-SVG: Hybrid Reward RL for Aha-Moments in Vector Graphics Generation](https://arxiv.org/abs/2505.24499) | CVPR 2026 |  |
-| **SVG** | [InternSVG: Towards Unified SVG Tasks with Multimodal Large Language Models](https://arxiv.org/abs/2510.11341) | ICLR 2026 | [[webpage]](https://hmwang2002.github.io/release/internsvg/) [[code]](https://github.com/hmwang2002/InternSVG) |
-| **SVG** | [Reliable Reasoning in SVG-LLMs via Multi-Task Multi-Reward Reinforcement Learning](https://arxiv.org/abs/2603.16189) | arxiv 26.03 | [[code]](https://github.com/hmwang2002/CTRL-S) |
-| **SVG** | [VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models](https://arxiv.org/abs/2603.24575) | arxiv 26.03 |  |
-| **SVG** | [Hierarchical SVG Tokenization: Learning Compact Visual Programs for Scalable Vector Graphics Modeling](https://arxiv.org/abs/2604.05072) | arxiv 26.04 | [[code]](https://github.com/ximinng/HiVG) [[webpage]](https://hy-hivg.github.io/) |
-| **SVG** | [Render-in-the-Loop: Vector Graphics Generation via Visual Self-Feedback](https://arxiv.org/abs/2604.20730) | ECCV 2026 | [[webpage]](https://yukinonooo.github.io/RenderInTheLoopProject/) |
-| **SVG** | [RULER: Instance-aware Rubric Rewards for SVG Generation](https://arxiv.org/abs/2609.25270) | arxiv 26.09 | [[webpage]](https://hangyuran.github.io/RULER/) |
-| **SVG** | [Fetch, Frame, and Focus: Retrieval-Augmented Panoramic-Spotlight Memory for Scalable Vector Graphics Generation](https://dl.acm.org/doi/abs/10.1145/3767308.3836103) | MM 2026 |  |
+| Type | Paper | Source | Code/Project Link | Image input? |
+| --- | --- | --- | --- | --- |
+| **Arbitrary** | [Modern Evolution Strategies for Creativity: Fitting Concrete Images and Abstract Concepts](https://arxiv.org/abs/2109.08857) | arxiv 21.09 | [[code]](https://github.com/google/brain-tokyo-workshop) [[project]](https://es-clip.github.io/) | × |
+| **Arbitrary** | [CLIPDraw: Exploring Text-to-Drawing Synthesis through Language-Image Encoders](https://arxiv.org/abs/2106.14843) | NeurIPS 2022 | [[code]](https://colab.research.google.com/github/kvfrans/clipdraw/blob/main/clipdraw.ipynb) | × |
+| **Arbitrary** | [StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Translation](https://arxiv.org/abs/2202.12362) | IJCAI 2022 | [[code]](https://github.com/pschaldenbrand/StyleCLIPDraw) | × |
+| **SVG** | [VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models](https://arxiv.org/abs/2211.11319) | CVPR 2023 |  [[project]](https://ajayj.com/vectorfusion) | × |
+| **Arbitrary** | [SketchDreamer: Interactive Text-Augmented Creative Sketch Ideation](https://arxiv.org/abs/2308.14191) | BMVC 2023 |  [[code]](https://github.com/WinKawaks/SketchDreamer) | × |
+| **Arbitrary** | [DiffSketcher: Text Guided Vector Sketch Synthesis through Latent Diffusion Models](https://arxiv.org/abs/2306.14685) | NeurIPS 2023 |  [[project]](https://ximinng.github.io/DiffSketcher-project/) [[code]](https://github.com/ximinng/DiffSketcher) | × |
+| **Icon** | [IconShop: Text-Based Vector Icon Synthesis with Autoregressive Transformers](https://arxiv.org/abs/2304.14400) | SIGGRAPH Asia 2023 |  [[project]](https://icon-shop.github.io/) | × |
+| **SVG** | [Text-Guided Vector Graphics Customization](https://arxiv.org/abs/2309.12302) | SIGGRAPH Asia 2023 |  [[project]](https://intchous.github.io/SVGCustomization/)  | × |
+| **Arbitrary** | [Text-based Vector Sketch Editing with Image Editing Diffusion Prior](https://www.sysu-imsl.com/files/ICME2024/ICME2024_sketch_editing_final.pdf) | ICME 2024 |  [[code]](https://github.com/MarkMoHR/DiffSketchEdit)  | × |
+| **SVG** | [SVGDreamer: Text Guided SVG Generation with Diffusion Model](https://arxiv.org/abs/2312.16476) | CVPR 2024 |  [[project]](https://ximinng.github.io/SVGDreamer-project/) [[code]](https://github.com/ximinng/SVGDreamer) | × |
+| **SVG** | [SVGDreamer++: Advancing Editability and Diversity in Text-Guided SVG Generation](https://arxiv.org/abs/2411.17832) | TPAMI 2025 |  [[code]](https://github.com/ximinng/SVGDreamer) | × |
+| **SVG** | [NIVeL: Neural Implicit Vector Layers for Text-to-Vector Generation](https://arxiv.org/abs/2405.15217) | CVPR 2024 |  [[project]](https://vikastmz.github.io/NIVeL/)  | × |
+| **SVG** | [Text-to-Vector Generation with Neural Path Representation](https://arxiv.org/abs/2405.10317) | SIGGRAPH 2024 |  [[project]](https://intchous.github.io/T2V-NPR/)  | × |
+| **Arbitrary** | [SVGCraft: Beyond Single Object Text-to-SVG Synthesis with Comprehensive Canvas Layout](https://arxiv.org/abs/2404.00412v1) | arxiv 24.04 | [[code]](https://github.com/ayanban011/SVGCraft) | × |
+| **SVG** | [VectorPainter: A Novel Approach to Stylized Vector Graphics Synthesis with Vectorized Strokes](https://arxiv.org/abs/2405.02962) | ICME 2025 | [[code]](https://github.com/hjc-owo/VectorPainter) [[webpage]](https://hjc-owo.github.io/VectorPainterProject/) | × |
+| **SVG** | [Chat2SVG: Vector Graphics Generation with Large Language Models and Image Diffusion Models](https://arxiv.org/abs/2411.16602) | CVPR 2025 | [[webpage]](https://chat2svg.github.io/) | × |
+| **SVG** | [SVGBuilder: Component-Based Colored SVG Generation with Text-Guided Autoregressive Transformers](https://arxiv.org/abs/2412.10488) | AAAI 2025 | [[webpage]](https://svgbuilder.github.io/) | × |
+| **SVG** | [SVGFusion: Scalable Text-to-SVG Generation via Vector Space Diffusion](https://arxiv.org/abs/2412.10437) | arxiv 24.12 | [[webpage]](https://ximinng.github.io/SVGFusionProject/) [[code]](https://github.com/ximinng/SVGFusion) | × |
+| **SVG** | [Empowering LLMs to Understand and Generate Complex Vector Graphics](https://arxiv.org/abs/2412.11102) | CVPR 2025 | [[webpage]](https://ximinng.github.io/LLM4SVGProject/) [[code]](https://github.com/ximinng/LLM4SVG) | × |
+| **SVG** | [StarVector: Generating Scalable Vector Graphics Code from Images and Text](https://arxiv.org/abs/2312.11556) | CVPR 2025 | [[webpage]](https://starvector.github.io/) [[code]](https://github.com/joanrod/star-vector) | :white_check_mark: |
+| **SVG** | [NeuralSVG: An Implicit Representation for Text-to-Vector Generation](https://arxiv.org/abs/2501.03992) | ICCV 2025 | [[webpage]](https://sagipolaczek.github.io/NeuralSVG/) [[code]](https://github.com/SagiPolaczek/NeuralSVG) | × |
+| **SVG** | [LayerTracer: Cognitive-Aligned Layered SVG Synthesis via Diffusion Transformer](https://arxiv.org/abs/2502.01105) | arxiv 25.02 | [[code]](https://github.com/showlab/LayerTracer) | :white_check_mark: |
+| **SVG** | [OmniSVG: A Unified Scalable Vector Graphics Generation Model](https://arxiv.org/abs/2504.06263) | NeurIPS 2025 | [[code]](https://github.com/OmniSVG/OmniSVG) [[webpage]](https://omnisvg.github.io/) | :white_check_mark: |
+| **SVG** | [Style Customization of Text-to-Vector Generation with Image Diffusion Priors](https://arxiv.org/abs/2505.10558) | SIGGRAPH 2025 | [[code]](https://github.com/intchous/custom-svg-style) [[webpage]](https://customsvg.github.io/) | × |
+| **SVG** | [LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization](https://arxiv.org/abs/2505.23740) | SIGGRAPH Asia 2025 | [[webpage]](https://layerpeeler.github.io/) | :white_check_mark: |
+| **SVG** | [SVGen: Interpretable Vector Graphics Generation with Large Language Models](https://arxiv.org/abs/2508.09168) | MM 2025 | [[code]](https://github.com/gitcat-404/SVGen) | × |
+| **SVG** | [SVGThinker: Instruction-Aligned and Reasoning-Driven Text-to-SVG Generation](https://arxiv.org/abs/2509.24299) | MM 2025 |  | × |
+| **Arbitrary** | [SketchRefiner: Text-Guided Sketch Refinement Through Latent Diffusion Models](https://ieeexplore.ieee.org/abstract/document/11176130) | TVCG 2025 |  | × |
+| **Arbitrary** | [AutoSketch: VLM-assisted Style-Aware Vector Sketch Completion](https://arxiv.org/abs/2502.06860) | SIGGRAPH Asia 2025 | [[webpage]](https://jdily.github.io/autosketch.github.io/) | × |
+| **SVG** | [RoboSVG: A Unified Framework for Interactive SVG Generation with Multi-modal Guidance](https://arxiv.org/abs/2510.22684) | arxiv 25.10 |  | :white_check_mark: |
+| **SVG** | [DuetSVG: Unified Multimodal SVG Generation with Internal Visual Guidance](https://arxiv.org/abs/2512.10894) | CVPR 2026 | [[webpage]](https://intchous.github.io/DuetSVG-site/) | :white_check_mark: |
+| **SVG** | [Reason-SVG: Hybrid Reward RL for Aha-Moments in Vector Graphics Generation](https://arxiv.org/abs/2505.24499) | CVPR 2026 |  | × |
+| **SVG** | [InternSVG: Towards Unified SVG Tasks with Multimodal Large Language Models](https://arxiv.org/abs/2510.11341) | ICLR 2026 | [[webpage]](https://hmwang2002.github.io/release/internsvg/) [[code]](https://github.com/hmwang2002/InternSVG) | :white_check_mark: |
+| **SVG** | [VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models](https://arxiv.org/abs/2603.24575) | arxiv 26.03 |  | :white_check_mark: |
+| **SVG** | [Hierarchical SVG Tokenization: Learning Compact Visual Programs for Scalable Vector Graphics Modeling](https://arxiv.org/abs/2604.05072) | arxiv 26.04 | [[code]](https://github.com/ximinng/HiVG) [[webpage]](https://hy-hivg.github.io/) | :white_check_mark: |
+| **SVG** | [Render-in-the-Loop: Vector Graphics Generation via Visual Self-Feedback](https://arxiv.org/abs/2604.20730) | ECCV 2026 | [[webpage]](https://yukinonooo.github.io/RenderInTheLoopProject/) | :white_check_mark: |
+| **SVG** | [Reliable Reasoning in SVG-LLMs via Multi-Task Multi-Reward Reinforcement Learning](https://arxiv.org/abs/2603.16189) | ECCV 2026 | [[code]](https://github.com/hmwang2002/CTRL-S) | :white_check_mark: |
+| **SVG** | [RULER: Instance-aware Rubric Rewards for SVG Generation](https://arxiv.org/abs/2609.25270) | arxiv 26.09 | [[webpage]](https://hangyuran.github.io/RULER/) | × |
+| **SVG** | [Fetch, Frame, and Focus: Retrieval-Augmented Panoramic-Spotlight Memory for Scalable Vector Graphics Generation](https://dl.acm.org/doi/abs/10.1145/3767308.3836103) | MM 2026 |  | × |
 
 #### 3c) Sequential/Progressive vector image generation
 
